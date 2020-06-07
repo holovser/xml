@@ -1,0 +1,27 @@
+<!ELEMENT country (introduction+, geography+, people+, government+, economy+ )>
+
+        <!ELEMENT introduction (#PCDATA)>
+        <!ELEMENT geography (location+, coordinates+, map-references+, area+, climate+)>
+        <!ELEMENT people (population+, description+)>
+        <!ELEMENT government (#PCDATA)>
+        <!ELEMENT economy (#PCDATA)>
+
+        <!ELEMENT location (#PCDATA)>
+        <!ELEMENT coordinates (#PCDATA)>
+        <!ELEMENT map-references (#PCDATA)>
+        <!ELEMENT area (total?, land?, water?)>
+        <!ELEMENT climate (#PCDATA)>
+
+        <!ELEMENT total (#PCDATA)>
+        <!ELEMENT land (#PCDATA)>
+        <!ELEMENT water (#PCDATA)>
+
+        <!ELEMENT population (#PCDATA)>
+        <!ELEMENT description (#PCDATA)>
+
+
+
+
+
+
+
