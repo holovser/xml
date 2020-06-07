@@ -7,8 +7,8 @@
         ]>
 
 <countries>
-    &argentina;
-    &cyprus;
-    &yemen;
-    &nepal;
+    <argentina>&argentina;</argentina>
+    <cyprus>&cyprus;</cyprus>
+    <yemen>&yemen;</yemen>
+    <nepal>&nepal;</nepal>
 </countries>

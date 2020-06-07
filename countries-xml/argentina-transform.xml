@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><argentina><introduction>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--<!DOCTYPE country SYSTEM "../schema/schema.dtd">-->
+
+<country><introduction>
 
 In 1816, the United Provinces of the Rio Plata declared their
 independence from Spain. After Bolivia, Paraguay, and Uruguay went
@@ -523,4 +527,4 @@ roles, including hosting the World Economic Forum on Latin America
 and the World Trade Organization Ministerial Conference, and is set
 to assume the presidency of the G-20 in 2018.
 
-</economy></argentina>
+</economy></country>

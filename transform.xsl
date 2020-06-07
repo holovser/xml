@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/">
 
-  <cyprus>
+  <country>
       <introduction>
         <xsl:value-of select="//div[@id='field-background']"/>
       </introduction>
@@ -59,7 +59,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <economy>
           <xsl:value-of select="//div[@id='field-economy-overview']"/>
       </economy>
-  </cyprus>
+  </country>
 </xsl:template>
 
 </xsl:stylesheet>
