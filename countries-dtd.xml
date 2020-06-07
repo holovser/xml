@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE countries [
+        <!ENTITY argentina SYSTEM "countries-xml/argentina-transform.xml">
+        <!ENTITY cyprus SYSTEM "countries-xml/cyprus-transform.xml">
+        <!ENTITY yemen SYSTEM "countries-xml/yemen-transform.xml">
+        <!ENTITY nepal SYSTEM "countries-xml/nepal-transform.xml">
+        ]>
+
+<countries>
+    &argentina;
+    &cyprus;
+    &yemen;
+    &nepal;
+</countries>

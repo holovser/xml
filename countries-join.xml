@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE countries [
+<!ENTITY argentina SYSTEM "countries-xml/argentina-transform.xml">
+<!ENTITY cyprus SYSTEM "countries-xml/cyprus-transform.xml">
+<!ENTITY yemen SYSTEM "countries-xml/yemen-transform.xml">
+<!ENTITY nepal SYSTEM "countries-xml/nepal-transform.xml">
+]>
+<countries>
+    <argentina><introduction>
+
+In 1816, the United Provinces of the Rio Plata declared their
+independence from Spain. After Bolivia, Paraguay, and Uruguay went
+their separate ways, the area that remained became Argentina. The
+country's population and culture were heavily shaped by immigrants
+from throughout Europe, with Italy and Spain providing the largest
+percentage of newcomers from 1860 to 1930. Up until about the
+mid-20th century, much of Argentina's history was dominated by
+periods of internal political unrest and conflict between civilian
+and military factions.
+After World War II, an era of Peronist populism and direct and
+indirect military interference in subsequent governments was
+followed by a military junta that took power in 1976. Democracy
+returned in 1983 after a failed bid to seize the Falkland Islands
+(Islas Malvinas) by force, and has persisted despite numerous
+challenges, the most formidable of which was a severe economic
+crisis in 2001-02 that led to violent public protests and the
+successive resignations of several presidents. The years 2003-15
+saw Peronist rule by Nestor and Cristina FERNANDEZ de KIRCHNER,
+whose policies isolated Argentina and caused economic stagnation.
+With the election of Mauricio MACRI in November 2015, Argentina
+began a period of reform and international reintegration.
+
+</introduction><geography><location>
+Southern South America,
+bordering the South Atlantic Ocean, between Chile and Uruguay
+</location><coordinates>
+34 00 S, 64 00 W
+</coordinates><map-references>
+South America
+</map-references><area><total>2,780,400 sq km</total><land>2,736,690 sq km</land><water>43,710
+sq km</water></area><climate>
+mostly temperate; arid in
+southeast; subantarctic in southwest
+</climate></geography><people><population>
+45,479,118 (July 2020
+est.)
+country comparison to the world:
+32
+</population><description>
+
+Argentina's population continues to grow but at a slower rate
+because of its steadily declining birth rate. Argentina's fertility
+decline began earlier than in the rest of Latin America, occurring
+most rapidly between the early 20th century and the 1950s, and then
+becoming more gradual. Life expectancy has been improving, most
+notably among the young and the poor. While the population under
+age 15 is shrinking, the youth cohort - ages 15-24 - is the largest
+in Argentina's history and will continue to bolster the working-age
+population. If this large working-age population is well-educated
+and gainfully employed, Argentina is likely to experience an
+economic boost and possibly higher per capita savings and
+investment. Although literacy and primary school enrollment are
+nearly universal, grade repetition is problematic and secondary
+school completion is low. Both of these issues vary widely by
+region and socioeconomic group.
+Argentina has been primarily a country of immigration for most
+of its history, welcoming European immigrants (often providing
+needed low-skilled labor) after its independence in the 19th
+century and attracting especially large numbers from Spain and
+Italy. More than 7 million European immigrants are estimated to
+have arrived in Argentina between 1880 and 1930, when it adopted a
+more restrictive immigration policy. European immigration also
+began to wane in the 1930s because of the global depression. The
+inflow rebounded temporarily following WWII and resumed its decline
+in the 1950s when Argentina's military dictators tightened
+immigration rules and European economies rebounded. Regional
+migration increased, however, supplying low-skilled workers
+escaping economic and political instability in their home
+countries. As of 2015, immigrants made up almost 5% of Argentina's
+population, the largest share in South America. Migration from
+neighboring countries accounted for approximately 80% of
+Argentina's immigrant population in 2015.
+The first waves of highly skilled Argentine emigrant workers
+headed mainly to the United States and Spain in the 1960s and
+1970s, driven by economic decline and repressive military
+dictatorships. The 2008 European economic crisis drove the return
+migration of some Argentinean and other Latin American nationals,
+as well as the immigration of Europeans to South America, where
+Argentina was a key recipient. In 2015, Argentina received the
+highest number of legal migrants in Latin America and the
+Caribbean. The majority of its migrant inflow came from Paraguay
+and Bolivia.
+
+</description></people><government>
+Country name: This entry includes all forms of the country's
+name approved by the US Board on Geographic Names (Italy is used as
+an example): conventional long form (Italian Republic),
+conventional short form (Italy), local long form (Repubblica
+Italiana), local short form (Italia), former (Kingdom of Italy), as
+well as the abbreviation. Also see the Terminology
+note. 
+
+conventional long form: Argentine
+Republic
+conventional short form: Argentina
+local long form: Republica Argentina
+local short form: Argentina
+etymology: originally the area was referred
+to as Tierra Argentina, i.e., "Land beside the Silvery River" or
+"silvery land," which referred to the massive estuary in the east
+of the country, the Rio de la Plata (River of Silver); over time
+the name shortened to simply Argentina or "silvery"
+
+Government type:
+This entry gives the basic form of
+government. Definitions of the major governmental terms are as
+follows. (Note that for some countries more than one definition
+applies.): Absolute monarchy - a form of government where the
+monarch rules unhindered, i.e., without any laws, constitution, or
+legally organized opposition. Anarchy - a condition of lawlessness
+or political disorder brought about by the absence of governmental
+authority. Authoritarian - a form of government in whic . . .
+more
+
+
+presidential
+republic
+
+Capital: This entry gives the name of the seat of
+government, its geographic coordinates, the time difference
+relative to Coordinated Universal Time (UTC) and the time observed
+in Washington, DC, and, if applicable, information on daylight
+saving time (DST). Where appropriate, a special note has been added
+to highlight those countries that have multiple time
+zones. 
+
+name: Buenos Aires
+geographic coordinates: 34 36 S, 58 22
+W
+time difference: UTC-3 (2 hours ahead of
+Washington, DC, during Standard Time)
+etymology: the
+name translates as "fair winds" in Spanish and derives from the
+original designation of the settlement that would become the
+present-day city, "Santa Maria del Buen Aire" (Saint Mary of the
+Fair Winds)
+
+Administrative divisions:
+This entry generally gives the
+numbers, designatory terms, and first-order administrative
+divisions as approved by the US Board on Geographic Names (BGN).
+Changes that have been reported but not yet acted on by the BGN are
+noted. Geographic names conform to spellings approved by the BGN
+with the exception of the omission of diacritical marks and special
+characters. 
+
+23 provinces (provincias,
+singular - provincia) and 1 autonomous city*; Buenos Aires,
+Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*,
+Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La
+Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San
+Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego -
+Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica
+and the South Atlantic Islands), Tucuman
+
+note: the US does not recognize any claims to
+Antarctica
+
+
+Independence: For most countries, this entry gives the date
+that sovereignty was achieved and from which nation, empire, or
+trusteeship. For the other countries, the date given may not
+represent "independence" in the strict sense, but rather some
+significant nationhood event such as the traditional founding date
+or the date of unification, federation, confederation,
+establishment, fundamental change in the form of government, or
+state succession. For a number of countries, the establishment of
+statehood . . . more 
+
+9 July 1816 (from
+Spain)
+
+National holiday:
+This entry gives the primary national
+day of celebration - usually independence day.
+
+
+Revolution Day (May
+Revolution Day), 25 May (1810)
+
+Constitution: This entry provides information on a country’s
+constitution and includes two subfields. The history subfield
+includes the dates of previous constitutions and the main steps and
+dates in formulating and implementing the latest constitution. For
+countries with 1-3 previous constitutions, the years are listed;
+for those with 4-9 previous, the entry is listed as “several
+previous,” and for those with 10 or more, the entry is “many
+previous.” The amendments subfield summarizes the process of am . .
+. more
+
+
+history: several previous; latest effective
+11 May 1853
+amendments: a declaration of proposed
+amendments requires two-thirds majority vote by both houses of the
+National Congress followed by approval by an ad hoc, multi-member
+constitutional convention; amended many times, last significant
+amendment in 1994 (2018)
+
+Legal system: This entry provides the description of a
+country's legal system. A statement on judicial review of
+legislative acts is also included for a number of countries. The
+legal systems of nearly all countries are generally modeled upon
+elements of five main types: civil law (including French law, the
+Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
+common law (including United State law); customary law; mixed or
+pluralistic law; and religious law (including Islamic law). An
+addition . . . more 
+
+civil law system based on
+West European legal systems; note - in mid-2015, Argentina adopted
+a new civil code, replacing the old one in force since 1871
+
+
+International law organization
+participation: This entry
+includes information on a country's acceptance of jurisdiction of
+the International Court of Justice (ICJ) and of the International
+Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
+with reservations and 11 have accepted ICJ jurisdiction without
+reservations; 122 countries have accepted ICCt jurisdiction.
+Appendix B: International Organizations and Groups explains the
+differing mandates of the ICJ and ICCt. 
+
+has not submitted an ICJ
+jurisdiction declaration; accepts ICCt jurisdiction
+
+Citizenship: This entry provides information related to the
+acquisition and exercise of citizenship; it includes four
+subfields: citizenship by birth describes the acquisition of
+citizenship based on place of birth, known as Jus soli, regardless
+of the citizenship of parents. citizenship by descent only
+describes the acquisition of citizenship based on the principle of
+Jus sanguinis, or by descent, where at least one parent is a
+citizen of the state and being born within the territorial limits
+of the s . . . more 
+
+citizenship by birth: yes
+citizenship by descent only: yes
+dual citizenship recognized: yes
+residency requirement for naturalization: 2
+years
+
+Suffrage: This entry gives the age at enfranchisement and
+whether the right to vote is universal or restricted.
+
+
+18-70 years of age;
+universal and compulsory; 16-17 years of age - optional for
+national elections
+
+Executive branch:
+This entry includes five subentries:
+chief of state; head of government; cabinet;
+elections/appointments; election results. Chief of state includes
+the name, title, and beginning date in office of the titular leader
+of the country who represents the state at official and ceremonial
+functions but may not be involved with the day-to-day activities of
+the government. Head of government includes the name, title of the
+top executive designated to manage the executive branch of the
+government, a . . . more 
+
+chief of state: President Alberto Angel
+FERNANDEZ (since 10 December 2019); Vice President Cristina
+FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the
+president is both chief of state and head of government
+head of government: President Alberto Angel
+FERNANDEZ (since 10 December 2019); Vice President Cristina
+FERNANDEZ DE KIRCHNER (since 10 December 2019)
+cabinet: Cabinet appointed by the
+president
+elections/appointments: president and vice
+president directly elected on the same ballot by qualified majority
+vote (to win, a candidate must receive at least 45% of votes or 40%
+of votes and a 10-point lead over the second place candidate; if
+neither occurs, a second round is held ); the president serves a
+4-year term (eligible for a second consecutive term); election last
+held on 27 October 2019 (next to be held in October 2023)
+election results: Alberto Angel FERNANDEZ
+elected president; percent of vote - Alberto Angel FERNANDEZ
+(TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA
+(independent) 6.2%, other 5.3%
+
+Legislative branch:
+This entry has three subfields. The
+description subfield provides the legislative structure (unicameral
+– single house; bicameral – an upper and a lower house); formal
+name(s); number of member seats; types of constituencies or voting
+districts (single seat, multi-seat, nationwide); electoral voting
+system(s); and member term of office. The elections subfield
+includes the dates of the last election and next election. The
+election results subfield lists percent of vote by party/coalition
+an . . . more 
+
+description: bicameral National Congress or
+Congreso Nacional consists of:
+Senate (72 seats; members directly elected in multi-seat
+constituencies by simple majority vote to serve 6-year terms with
+one-third of the membership elected every 2 years)
+Chamber of Deputies (257 seats; members directly elected in
+multi-seat constituencies by proportional representation vote;
+members serve 4-year terms with one-half of the membership renewed
+every 2 years)
+elections:
+Senate - last held on 27 October 2019 (next to be held in October
+2021)
+Chamber of Deputies - last held on 27 October 2019 (next to be held
+in October 2021)
+election results: Senate - percent of vote
+by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos
+8, FCS 2, JSRN 1;
+Chamber of Deputies - percent of vote by bloc or party - NA; seats
+by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1,
+other 3
+
+Judicial branch:
+This entry includes three subfields.
+The highest court(s) subfield includes the name(s) of a country's
+highest level court(s), the number and titles of the judges, and
+the types of cases heard by the court, which commonly are based on
+civil, criminal, administrative, and constitutional law. A number
+of countries have separate constitutional courts. The judge
+selection and term of office subfield includes the organizations
+and associated officials responsible for nominating and appointing
+j . . . more 
+
+highest courts: Supreme Court or Corte
+Suprema (consists of the court president, vice president, and 5
+justices)
+judge selection and term of office: justices
+nominated by the president and approved by the Senate; justices can
+serve until mandatory retirement at age 75; extensions beyond 75
+require renomination by the president and approval by the
+Senate
+subordinate courts: federal level appellate,
+district, and territorial courts; provincial level supreme,
+appellate, and first instance courts
+
+
+Political parties and
+leaders: This entry includes a
+listing of significant political parties, coalitions, and electoral
+lists as of each country's last legislative election, unless
+otherwise noted. 
+
+Argentina Federal
+[coalition led by Pablo KOSINER]
+Cambiemos [Mauricio MACRI] (coalition of CC-ARI, PRO, and
+UCR)
+Citizen's Unity or UC [Cristina FERNANDEZ DE KIRCHNER]
+Civic Coalition ARI or CC-ARI [Elisa CARRIO, Maximiliano
+FERRARO]
+Civic Front for Santiago or FCS [Gerardo ZAMORA]
+Everyone's Front (Frente de Todos) or TODOS [Alberto Angel
+FERNANDEZ]
+Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel
+URTUBEY]
+Front for the Renewal of Concord or FRC
+Front for Victory or FpV [coalition led by Cristina FERNANDEZ DE
+KIRCHNER and Agustin ROSSI]
+Generation for a National Encounter or GEN [Monica PERALTA]
+Justicialist Party or PJ [Miguel Angel PICHETTO]
+Radical Civic Union or UCR [Alfredo CORNEJO]
+Renewal Front (Frente Renovador) or FR [Sergio MASSA]
+Republican Proposal or PRO [Mauricio MACRI, Humberto
+SCHIAVONI]
+Socialist Party or PS [Antonio BONFATTI]
+Socialist Workers’ Party or PTS [Jose MONTES]
+Together We Are Rio Negro or JSRN [Alberto Edgardo
+WERETILNECK]
+We Do For Cordoba (Hacemos Por Cordoba) or HC [Juan
+SCHIARETTI]
+Workers' Party or PO [Jorge ALTAMIRA]
+Worker’s Socialist Movement or MST [Alejandro BODDART; Vilma
+RIPOLL]
+numerous provincial parties
+
+
+International organization
+participation: This entry lists
+in alphabetical order by abbreviation those international
+organizations in which the subject country is a member or
+participates in some other way. 
+
+AfDB (nonregional member),
+Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF,
+G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national
+committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
+IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES,
+LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS,
+OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN,
+UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina
+(observer), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO,
+WTO, ZC
+
+
+Diplomatic representation in
+the US: This entry includes the
+chief of mission, chancery address, telephone, FAX, consulate
+general locations, and consulate locations. The use of the
+annotated title Appointed Ambassador refers to a new ambassador who
+has presented his/her credentials to the secretary of state but not
+the US president. Such ambassadors fulfill all diplomatic functions
+except meeting with or appearing at functions attended by the
+president until such time as they formally present their
+credentials at a White Hou . . . more 
+
+Ambassador Fernando ORIS
+DE ROA (since 24 January 2018)
+chancery: 1600 New Hampshire Avenue NW,
+Washington, DC 20009
+telephone: [1] (202) 238-6400
+FAX: [1] (202) 332-3171
+consulate(s) general: Atlanta, Chicago,
+Houston, Los Angeles, Miami, New York, Washington, DC
+
+
+Diplomatic representation from
+the US: This entry includes the
+chief of mission, embassy address, mailing address, telephone
+number, FAX number, branch office locations, consulate general
+locations, and consulate locations. 
+
+chief of mission: Ambassador Edward Charles
+PRADO (since 16 May 2018)
+telephone: [54] (11) 5777-4533
+embassy: Avenida Colombia 4300, C1425GMN
+Buenos Aires
+mailing address: international mail: use
+embassy street address; APO address: US Embassy Buenos Aires, Unit
+4334, APO AA 34034
+FAX: [54] (11) 5777-4240
+
+Flag description:
+This entry provides a written flag
+description produced from actual flags or the best information
+available at the time the entry was written. The flags of
+independent states are used by their dependencies unless there is
+an officially recognized local flag. Some disputed and other areas
+do not have flags. 
+
+three equal horizontal
+bands of sky blue (top), white, and sky blue; centered in the white
+band is a radiant yellow sun with a human face (delineated in
+brown) known as the Sun of May; the colors represent the clear
+skies and snow of the Andes; the sun symbol commemorates the
+appearance of the sun through cloudy skies on 25 May 1810 during
+the first mass demonstration in favor of independence; the sun
+features are those of Inti, the Inca god of the sun
+
+National symbol(s):
+A national symbol is a faunal,
+floral, or other abstract representation - or some distinctive
+object - that over time has come to be closely identified with a
+country or entity. Not all countries have national symbols; a few
+countries have more than one. 
+
+Sun of May (a
+sun-with-face symbol); national colors: sky blue, white
+
+National anthem:
+A generally patriotic musical
+composition - usually in the form of a song or hymn of praise -
+that evokes and eulogizes the history, traditions, or struggles of
+a nation or its people. National anthems can be officially
+recognized as a national song by a country's constitution or by an
+enacted law, or simply by tradition. Although most anthems contain
+lyrics, some do not. 
+
+name: "Himno Nacional Argentino" (Argentine
+National Anthem)
+lyrics/music: Vicente LOPEZ y PLANES/Jose
+Blas PARERA
+
+note: adopted 1813; Vicente LOPEZ was inspired
+to write the anthem after watching a play about the 1810 May
+Revolution against Spain
+
+
+
+</government><economy>
+
+Argentina benefits from rich natural resources, a highly
+literate population, an export-oriented agricultural sector, and a
+diversified industrial base. Although one of the world's wealthiest
+countries 100 years ago, Argentina suffered during most of the 20th
+century from recurring economic crises, persistent fiscal and
+current account deficits, high inflation, mounting external debt,
+and capital flight.
+Cristina FERNANDEZ DE KIRCHNER succeeded her husband as
+president in late 2007, and in 2008 the rapid economic growth of
+previous years slowed sharply as government policies held back
+exports and the world economy fell into recession. In 2010 the
+economy rebounded strongly, but slowed in late 2011 even as the
+government continued to rely on expansionary fiscal and monetary
+policies, which kept inflation in the double digits.
+In order to deal with these problems, the government expanded
+state intervention in the economy: it nationalized the oil company
+YPF from Spain's Repsol, expanded measures to restrict imports, and
+further tightened currency controls in an effort to bolster foreign
+reserves and stem capital flight. Between 2011 and 2013, Central
+Bank foreign reserves dropped $21.3 billion from a high of $52.7
+billion. In July 2014, Argentina and China agreed on an $11 billion
+currency swap; the Argentine Central Bank has received the
+equivalent of $3.2 billion in Chinese yuan, which it counts as
+international reserves.
+With the election of President Mauricio MACRI in November 2015,
+Argentina began a historic political and economic transformation,
+as his administration took steps to liberalize the Argentine
+economy, lifting capital controls, floating the peso, removing
+export controls on some commodities, cutting some energy subsidies,
+and reforming the country’s official statistics. Argentina
+negotiated debt payments with holdout bond creditors, continued
+working with the IMF to shore up its finances, and returned to
+international capital markets in April 2016.
+In 2017, Argentina’s economy emerged from recession with GDP
+growth of nearly 3.0%. The government passed important pension,
+tax, and fiscal reforms. And after years of international
+isolation, Argentina took on several international leadership
+roles, including hosting the World Economic Forum on Latin America
+and the World Trade Organization Ministerial Conference, and is set
+to assume the presidency of the G-20 in 2018.
+
+</economy></argentina>
+
+    <cyprus><introduction>
+A former British colony,
+Cyprus became independent in 1960 following years of resistance to
+British rule. Tensions between the Greek Cypriot majority and
+Turkish Cypriot minority communities came to a head in December
+1963, when violence broke out in the capital of Nicosia. Despite
+the deployment of UN peacekeepers in 1964, sporadic intercommunal
+violence continued, forcing most Turkish Cypriots into enclaves
+throughout the island. In 1974, a Greek Government-sponsored
+attempt to overthrow the elected president of Cyprus was met by
+military intervention from Turkey, which soon controlled more than
+a third of the island. In 1983, the Turkish Cypriot administered
+area declared itself the "Turkish Republic of Northern Cyprus"
+("TRNC"), but it is recognized only by Turkey. An UN-mediated
+agreement, the Annan Plan, failed to win approval by both
+communities in 2004. In February 2014, after a hiatus of nearly two
+years, the leaders of the two communities resumed formal
+discussions under UN auspices aimed at reuniting the divided
+island. The most recent round of negotiations to reunify the island
+were suspended in July 2017 after failure to achieve a
+breakthrough. The entire island entered the EU on 1 May 2004,
+although the EU acquis - the body of common rights and obligations
+- applies only to the areas under the internationally recognized
+government, and is suspended in the "TRNC." However, individual
+Turkish Cypriots able to document their eligibility for Republic of
+Cyprus citizenship legally enjoy the same rights accorded to other
+citizens of EU states.
+</introduction><geography><location>
+Middle East, island in the
+Mediterranean Sea, south of Turkey; note - Cyprus views itself as
+part of Europe; geopolitically, it can be classified as falling
+within Europe, the Middle East, or both
+</location><coordinates>
+35 00 N, 33 00 E
+</coordinates><map-references>
+Middle East
+</map-references><area><total>9,251
+sq km</total><land>9,241 sq
+km</land><water>10 sq
+km</water></area><climate>
+temperate; Mediterranean
+with hot, dry summers and cool winters
+</climate></geography><people><population>
+1,266,676 (July 2020
+est.)
+country comparison to the world:
+157
+</population><description/></people><government>
+Country name: This entry includes all forms of the country's
+name approved by the US Board on Geographic Names (Italy is used as
+an example): conventional long form (Italian Republic),
+conventional short form (Italy), local long form (Repubblica
+Italiana), local short form (Italia), former (Kingdom of Italy), as
+well as the abbreviation. Also see the Terminology
+note. 
+
+conventional long form: Republic of
+Cyprus
+conventional short form: Cyprus
+local long form: Kypriaki Dimokratia/Kibris
+Cumhuriyeti
+local short form: Kypros/Kibris
+etymology: the derivation of the name
+"Cyprus" is unknown, but the extensive mining of copper metal on
+the island in antiquity gave rise to the Latin word "cuprum" for
+copper
+
+note: the Turkish Cypriot community, which
+administers the northern part of the island, refers to itself as
+the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris
+Turk Cumhuriyeti" or "KKTC")
+
+
+Government type:
+This entry gives the basic form of
+government. Definitions of the major governmental terms are as
+follows. (Note that for some countries more than one definition
+applies.): Absolute monarchy - a form of government where the
+monarch rules unhindered, i.e., without any laws, constitution, or
+legally organized opposition. Anarchy - a condition of lawlessness
+or political disorder brought about by the absence of governmental
+authority. Authoritarian - a form of government in whic . . .
+more
+
+
+Republic of Cyprus -
+presidential republic; "Turkish Republic of Northern Cyprus"
+(self-declared) - parliamentary republic with enhanced
+presidency
+
+note: a separation of the two main ethnic
+communities inhabiting the island began following the outbreak of
+communal strife in 1963; this separation was further solidified
+when a Greek military-junta-supported coup attempt prompted the
+Turkish military intervention in July 1974 that gave the Turkish
+Cypriots de facto control in the north; Greek Cypriots control the
+only internationally recognized government on the island; on 15
+November 1983, then Turkish Cypriot "President" Rauf DENKTAS
+declared independence and the formation of the "TRNC,” which is
+recognized only by Turkey
+
+
+Capital: This entry gives the name of the seat of
+government, its geographic coordinates, the time difference
+relative to Coordinated Universal Time (UTC) and the time observed
+in Washington, DC, and, if applicable, information on daylight
+saving time (DST). Where appropriate, a special note has been added
+to highlight those countries that have multiple time
+zones. 
+
+name: Nicosia (Lefkosia/Lefkosa)
+geographic coordinates: 35 10 N, 33 22
+E
+time difference: UTC+2 (7 hours ahead of
+Washington, DC, during Standard Time)
+daylight saving time: +1hr, begins last
+Sunday in March; ends last Sunday in October
+etymology: a
+mispronunciation of the city's Greek name Lefkosia and its Turkish
+name Lefkosa, both of which mean "White City"; the Greek name may
+derive from the Greek phrase "leuke ousia" ("white estate")
+
+Administrative divisions:
+This entry generally gives the
+numbers, designatory terms, and first-order administrative
+divisions as approved by the US Board on Geographic Names (BGN).
+Changes that have been reported but not yet acted on by the BGN are
+noted. Geographic names conform to spellings approved by the BGN
+with the exception of the omission of diacritical marks and special
+characters. 
+
+6 districts; Ammochostos
+(Famagusta); (all but a small part located in the Turkish Cypriot
+community), Keryneia (Kyrenia; the only district located entirely
+in the Turkish Cypriot community), Larnaka (Larnaca; with a small
+part located in the Turkish Cypriot community), Lefkosia (Nicosia;
+a small part administered by Turkish Cypriots), Lemesos (Limassol),
+Pafos (Paphos); note - the 5 "districts" of the "TRNC" are
+Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou),
+Iskele (Trikomo), Lefkosa (Nicosia)
+
+Independence: For most countries, this entry gives the date
+that sovereignty was achieved and from which nation, empire, or
+trusteeship. For the other countries, the date given may not
+represent "independence" in the strict sense, but rather some
+significant nationhood event such as the traditional founding date
+or the date of unification, federation, confederation,
+establishment, fundamental change in the form of government, or
+state succession. For a number of countries, the establishment of
+statehood . . . more 
+
+16 August 1960 (from the
+UK); note - Turkish Cypriots proclaimed self-rule on 13 February
+1975 and independence in 1983, but these proclamations are
+recognized only by Turkey
+
+National holiday:
+This entry gives the primary national
+day of celebration - usually independence day.
+
+
+Independence Day, 1
+October (1960); note - Turkish Cypriots celebrate 15 November
+(1983) as "Republic Day"
+
+Constitution: This entry provides information on a country’s
+constitution and includes two subfields. The history subfield
+includes the dates of previous constitutions and the main steps and
+dates in formulating and implementing the latest constitution. For
+countries with 1-3 previous constitutions, the years are listed;
+for those with 4-9 previous, the entry is listed as “several
+previous,” and for those with 10 or more, the entry is “many
+previous.” The amendments subfield summarizes the process of am . .
+. more
+
+
+history: ratified 16 August 1960; note - in
+1963, the constitution was partly suspended as Turkish Cypriots
+withdrew from the government; Turkish-held territory in 1983 was
+declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in
+1985, the "TRNC" approved its own constitution
+amendments: constitution of the Republic of
+Cyprus - proposed by the House of Representatives; passage requires
+at least two-thirds majority vote of the total membership of the
+"Greek Community" and the "Turkish Community"; however, all seats
+of Turkish Cypriot members have remained vacant since 1964; amended
+10 times, last in 2016
+constitution of the “Turkish Republic of Northern Cyprus” -
+proposed by at least 10 members of the "Assembly of the Republic";
+passage requires at least two-thirds majority vote of the total
+Assembly membership and approval by referendum; amended 2014
+(2019)
+
+Legal system: This entry provides the description of a
+country's legal system. A statement on judicial review of
+legislative acts is also included for a number of countries. The
+legal systems of nearly all countries are generally modeled upon
+elements of five main types: civil law (including French law, the
+Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
+common law (including United State law); customary law; mixed or
+pluralistic law; and religious law (including Islamic law). An
+addition . . . more 
+
+mixed legal system of
+English common law and civil law with European law supremacy
+
+
+International law organization
+participation: This entry
+includes information on a country's acceptance of jurisdiction of
+the International Court of Justice (ICJ) and of the International
+Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
+with reservations and 11 have accepted ICJ jurisdiction without
+reservations; 122 countries have accepted ICCt jurisdiction.
+Appendix B: International Organizations and Groups explains the
+differing mandates of the ICJ and ICCt. 
+
+accepts compulsory ICJ
+jurisdiction with reservations; accepts ICC jurisdiction
+
+Citizenship: This entry provides information related to the
+acquisition and exercise of citizenship; it includes four
+subfields: citizenship by birth describes the acquisition of
+citizenship based on place of birth, known as Jus soli, regardless
+of the citizenship of parents. citizenship by descent only
+describes the acquisition of citizenship based on the principle of
+Jus sanguinis, or by descent, where at least one parent is a
+citizen of the state and being born within the territorial limits
+of the s . . . more 
+
+citizenship by birth: no
+citizenship by descent only: at least one
+parent must be a citizen of Cyprus
+dual citizenship recognized: yes
+residency requirement for naturalization: 7
+years
+
+Suffrage: This entry gives the age at enfranchisement and
+whether the right to vote is universal or restricted.
+
+
+18 years of age;
+universal
+
+Executive branch:
+This entry includes five subentries:
+chief of state; head of government; cabinet;
+elections/appointments; election results. Chief of state includes
+the name, title, and beginning date in office of the titular leader
+of the country who represents the state at official and ceremonial
+functions but may not be involved with the day-to-day activities of
+the government. Head of government includes the name, title of the
+top executive designated to manage the executive branch of the
+government, a . . . more 
+
+chief of state: President  Nikos
+ANASTASIADIS (since 28 February 2013); the president is both chief
+of state and head of government; note - vice presidency reserved
+for a Turkish Cypriot, but vacant since 1974 because Turkish
+Cypriots do not participate in the Republic of Cyprus
+Government
+head of government: President Nikos
+ANASTASIADIS (since 28 February 2013)
+cabinet: Council of Ministers appointed by
+the president; note - under the 1960 constitution, 3 of the
+ministerial posts reserved for Turkish Cypriots, appointed by the
+vice president; positions currently filled by Greek Cypriots
+elections/appointments: president directly
+elected by absolute majority popular vote in 2 rounds if needed for
+a 5-year term; election last held on 28 January 2018 with a runoff
+on 4 February 2018 (next to be held in February 2023)
+election results: Nikos ANASTASIADIS
+reelected president in second round; percent of vote in first round
+- Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%,
+Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in
+second round - Nikos ANASTASIADIS 56%, Savros MALAS 44%
+
+note: Mustafa AKINCI assumed office as
+"president" of the "TRNC" on 30 April 2015; percent of vote in
+first round (19 April 2015) - Dervis EROGLU 28.2%, Mustafa AKINCI
+26.9%, other 44.9%; percent of vote in runoff (26 April 2015) -
+AKINCI 60.5%, EROGLU 39.5%
+
+
+Legislative branch:
+This entry has three subfields. The
+description subfield provides the legislative structure (unicameral
+– single house; bicameral – an upper and a lower house); formal
+name(s); number of member seats; types of constituencies or voting
+districts (single seat, multi-seat, nationwide); electoral voting
+system(s); and member term of office. The elections subfield
+includes the dates of the last election and next election. The
+election results subfield lists percent of vote by party/coalition
+an . . . more 
+
+description: area under government control:
+unicameral House of Representatives or Vouli Antiprosopon (80
+seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but
+only those assigned to Greek Cypriots are filled; members directly
+elected by both proportional representation and preferential vote;
+members serve 5-year terms); area administered by Turkish Cypriots:
+unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50
+seats; members directly elected to 5-year terms by proportional
+representation system using a hybrid d'Hondt method with
+voter preferences for individual candidates
+elections: area under government control:
+last held on 22 May 2016 (next to be held in May 2021); area
+administered by Turkish Cypriots: last held on 7 January 2018 (next
+to be held in 2023, unless early election called)
+election results: area under government
+control: House of Representatives - percent of vote by party - DISY
+30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, SP 6% Solidarity
+Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO
+9, KS-EDEK 3, Citizen's Alliance 3 (2 left the party in 2017 and
+2018 due to disagreements over the party's policy regarding the
+presidential election campaign; one joined DIKO and the other
+became an independent MP), Solidarity Movement 3, other 4; area
+administered by Turkish Cypriots: "Assembly of the Republic" -
+percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP
+8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9,
+DP 3, TDP 3, YDP 2
+
+Judicial branch:
+This entry includes three subfields.
+The highest court(s) subfield includes the name(s) of a country's
+highest level court(s), the number and titles of the judges, and
+the types of cases heard by the court, which commonly are based on
+civil, criminal, administrative, and constitutional law. A number
+of countries have separate constitutional courts. The judge
+selection and term of office subfield includes the organizations
+and associated officials responsible for nominating and appointing
+j . . . more 
+
+highest courts: Supreme Court of Cyprus
+(consists of 13 judges, including the court president); note - the
+highest court in the "TRNC" is the "Supreme Court" (consists of 8
+"judges," including the "court president")
+judge selection and term of office: Republic
+of Cyprus Supreme Court judges appointed by the president of the
+republic upon the recommendation of the Supreme Court judges;
+judges can serve until age 68; "TRNC Supreme Court" judges
+appointed by the "Supreme Council of Judicature," a 12-member body
+of judges, the attorney general, appointees by the president of the
+"TRNC," and by the "Legislative Assembly," and members elected by
+the bar association; judge tenure NA
+subordinate courts: Republic of Cyprus
+district courts; Assize Courts; Administrative Court; specialized
+courts for issues relating to family, industrial disputes, the
+military, and rent control; "TRNC Assize Courts"; "district and
+family courts"
+
+
+Political parties and
+leaders: This entry includes a
+listing of significant political parties, coalitions, and electoral
+lists as of each country's last legislative election, unless
+otherwise noted. 
+
+area under
+government control:
+Citizens' Alliance or SP [Giorgos LILLIKAS]
+Democratic Party or DIKO [Nicolas PAPADOPOULOS]
+Democratic Rally or DISY [Averof NEOPHYTOU]
+Movement of Ecologists and Environmentalists or KOP (Green party)
+[Giorgos PERDIKIS]
+I, the Citizen or EOP [Georgios KOUNTOURIS]
+Movement of Social Democrats EDEK [Marinos SIZOPOULOS]
+National Popular Front or ELAM [Christos CHRISTOU]
+Progressive Party of the Working People or AKEL (Communist party)
+[Andros KYPRIANOU]
+Solidarity Movement [Eleni THEOCHAROUS]
+United Democrats or EDI [Praxoula ANTONIADOU]
+Democratic Front or DIPA [Marios GAROYIAN]
+Animal Party Cyprus or APC [Kyriacos KYRIACOU]
+area administered by Turkish Cypriots:
+Communal Democracy Party or TDP [Cemal OZYIGIT]
+Communal Liberation Party-New Forces or TKP-YG [Mehmet
+CAKICI]
+Cyprus Socialist Party or KSP [Mehmet BIRINCI]
+Democratic Party or DP [Serdar DENKTAS]
+National Democratic Party or NDP [Buray BUSKUVUTCU]
+National Unity Party or UBP [Ersin TATAR]
+New Cyprus Party or YKP [Murat KANATLI]
+People's Party or HP [Kudret OZERSAY]
+Rebirth Party or YDP [Erhan ARIKLI]
+Republican Turkish Party or CTP [Tufan ERHURMAN]
+United Cyprus Party or BKP [Izzet IZCAN]
+
+
+International organization
+participation: This entry lists
+in alphabetical order by abbreviation those international
+organizations in which the subject country is a member or
+participates in some other way. 
+
+Australia Group, C, CD,
+CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national
+committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
+IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA,
+NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO,
+UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO,
+WTO
+
+
+Diplomatic representation in
+the US: This entry includes the
+chief of mission, chancery address, telephone, FAX, consulate
+general locations, and consulate locations. The use of the
+annotated title Appointed Ambassador refers to a new ambassador who
+has presented his/her credentials to the secretary of state but not
+the US president. Such ambassadors fulfill all diplomatic functions
+except meeting with or appearing at functions attended by the
+president until such time as they formally present their
+credentials at a White Hou . . . more 
+
+Ambassador Marios LYSIOTIS
+(since 17 September 2018)
+chancery: 2211 R Street NW, Washington, DC
+20008
+telephone: [1] (202) 462-5772,
+462-0873
+FAX: [1] (202) 483-6710
+consulate(s) general: New York
+
+note: representative of the Turkish Cypriot
+community in the US is Mustafa LAKADAMYALI; office at 1667 K Street
+NW, Washington, DC; telephone [1] (202) 887-6198
+
+
+
+Diplomatic representation from
+the US: This entry includes the
+chief of mission, embassy address, mailing address, telephone
+number, FAX number, branch office locations, consulate general
+locations, and consulate locations. 
+
+chief of mission: Ambassador Judith Gail
+GARBER (since 18 March 2019)
+telephone: [357] (22) 393939
+embassy: corner of Metochiou and Ploutarchou
+Streets, 2407 Engomi, Nicosia
+mailing address: P. O. Box 24536, 1385
+Nicosia
+FAX: [357] (22) 393344
+
+Flag description:
+This entry provides a written flag
+description produced from actual flags or the best information
+available at the time the entry was written. The flags of
+independent states are used by their dependencies unless there is
+an officially recognized local flag. Some disputed and other areas
+do not have flags. 
+
+centered on a white field
+is a copper-colored silhouette of the island (the island has long
+been famous for its copper deposits) above two olive-green-colored,
+crossed olive branches; the branches symbolize the hope for peace
+and reconciliation between the Greek and Turkish communities
+
+note: one of only two national flags that uses
+a map as a design element; the flag of Kosovo is the other
+note: the "Turkish Republic of Northern Cyprus"
+flag retains the white field of the Cyprus national flag but
+displays narrow horizontal red stripes positioned a small distance
+from the top and bottom edges between which are centered a red
+crescent and a red five-pointed star; the banner is modeled after
+the Turkish national flag but with the colors reversed
+
+
+National symbol(s):
+A national symbol is a faunal,
+floral, or other abstract representation - or some distinctive
+object - that over time has come to be closely identified with a
+country or entity. Not all countries have national symbols; a few
+countries have more than one. 
+
+Cypriot mouflon (wild
+sheep), white dove; national colors: blue, white
+
+National anthem:
+A generally patriotic musical
+composition - usually in the form of a song or hymn of praise -
+that evokes and eulogizes the history, traditions, or struggles of
+a nation or its people. National anthems can be officially
+recognized as a national song by a country's constitution or by an
+enacted law, or simply by tradition. Although most anthems contain
+lyrics, some do not. 
+
+name: "Ymnos eis tin Eleftherian" (Hymn to
+Liberty)
+lyrics/music: Dionysios SOLOMOS/Nikolaos
+MANTZAROS
+
+note: adopted 1960; Cyprus adopted the Greek
+national anthem as its own; the Turkish Cypriot community in Cyprus
+uses the anthem of Turkey
+
+
+</government><economy>
+
+The area of the Republic of Cyprus under government control has
+a market economy dominated by a services sector that accounts for
+more than four-fifths of GDP. Tourism, finance, shipping, and real
+estate have traditionally been the most important services. Cyprus
+has been a member of the EU since May 2004 and adopted the euro as
+its national currency in January 2008.
+During the first five years of EU membership, the Cyprus economy
+grew at an average rate of about 4%, with unemployment between 2004
+and 2008 averaging about 4%. However, the economy tipped into
+recession in 2009 as the ongoing global financial crisis and
+resulting low demand hit the tourism and construction sectors. An
+overextended banking sector with excessive exposure to Greek debt
+added to the contraction. Cyprus’ biggest two banks were among the
+largest holders of Greek bonds in Europe and had a substantial
+presence in Greece through bank branches and subsidiaries.
+Following numerous downgrades of its credit rating, Cyprus lost
+access to international capital markets in May 2011. In July 2012,
+Cyprus became the fifth euro-zone government to request an economic
+bailout program from the European Commission, European Central Bank
+and the International Monetary Fund - known collectively as the
+"Troika."
+Shortly after the election of President Nikos ANASTASIADES in
+February 2013, Cyprus reached an agreement with the Troika on a $13
+billion bailout that triggered a two-week bank closure and the
+imposition of capital controls that remained partially in place
+until April 2015. Cyprus' two largest banks merged and the combined
+entity was recapitalized through conversion of some large bank
+deposits to shares and imposition of losses on bank bondholders. As
+with other EU countries, the Troika conditioned the bailout on
+passing financial and structural reforms and privatizing
+state-owned enterprises. Despite downsizing and restructuring, the
+Cypriot financial sector remains burdened by the largest stock of
+non-performing loans in the euro zone, equal to nearly half of all
+loans. Since the bailout, Cyprus has received positive appraisals
+by the Troika and outperformed fiscal targets but has struggled to
+overcome political opposition to bailout-mandated legislation,
+particularly regarding privatizations. The rate of non-performing
+loans (NPLs) is still very high at around 49%, and growth would
+accelerate if Cypriot banks could increase the pace of resolution
+of the NPLs.
+In October 2013, a US-Israeli consortium completed preliminary
+appraisals of hydrocarbon deposits in Cyprus’ exclusive economic
+zone (EEZ), which estimated gross mean reserves of about 130
+billion cubic meters. Though exploration continues in Cyprus’ EEZ,
+no additional commercially exploitable reserves have been
+identified. Developing offshore hydrocarbon resources remains a
+critical component of the government’s economic recovery efforts,
+but development has been delayed as a result of regional
+developments and disagreements about exploitation methods.
+
+</economy></cyprus>
+    <yemen><introduction>
+
+The Kingdom of Yemen (colloquially known as North Yemen) became
+independent from the Ottoman Empire in 1918 and in 1962 became the
+Yemen Arab Republic. The British, who had set up a protectorate
+area around the southern port of Aden in the 19th century, withdrew
+in 1967 from what became the People's Republic of Southern Yemen
+(colloquially known as South Yemen). Three years later, the
+southern government adopted a Marxist orientation and changed the
+country's name to the People's Democratic Republic of Yemen. The
+massive exodus of hundreds of thousands of Yemenis from the south
+to the north contributed to two decades of hostility between the
+states. The two countries were formally unified as the Republic of
+Yemen in 1990. A southern secessionist movement and brief civil war
+in 1994 was quickly subdued. In 2000, Saudi Arabia and Yemen agreed
+to delineate their border.
+Fighting in the northwest between the government and the Huthis,
+a Zaydi Shia Muslim minority, continued intermittently from 2004 to
+2010, and then again from 2014-present. The southern secessionist
+movement was revitalized in 2007.
+Public rallies in Sana'a against then President Ali Abdallah
+SALIH - inspired by similar demonstrations in Tunisia and Egypt -
+slowly built momentum starting in late January 2011 fueled by
+complaints over high unemployment, poor economic conditions, and
+corruption. By the following month, some protests had resulted in
+violence, and the demonstrations had spread to other major cities.
+By March the opposition had hardened its demands and was unifying
+behind calls for SALIH's immediate ouster. In April 2011, the Gulf
+Cooperation Council (GCC), in an attempt to mediate the crisis in
+Yemen, proposed the GCC Initiative, an agreement in which the
+president would step down in exchange for immunity from
+prosecution. SALIH's refusal to sign an agreement led to further
+violence. The UN Security Council passed Resolution 2014 in October
+2011 calling for an end to the violence and completing a power
+transfer deal. In November 2011, SALIH signed the GCC Initiative to
+step down and to transfer some of his powers to Vice President Abd
+Rabuh Mansur HADI. Following HADI's uncontested election victory in
+February 2012, SALIH formally transferred all presidential powers.
+In accordance with the GCC Initiative, Yemen launched a National
+Dialogue Conference (NDC) in March 2013 to discuss key
+constitutional, political, and social issues. HADI concluded the
+NDC in January 2014 and planned to begin implementing subsequent
+steps in the transition process, including constitutional drafting,
+a constitutional referendum, and national elections.
+The Huthis, perceiving their grievances were not addressed in
+the NDC, joined forces with SALIH and expanded their influence in
+northwestern Yemen, which culminated in a major offensive against
+military units and rival tribes and enabled their forces to overrun
+the capital, Sanaa, in September 2014. In January 2015, the Huthis
+surrounded the presidential palace, HADI's residence, and key
+government facilities, prompting HADI and the cabinet to submit
+their resignations. HADI fled to Aden in February 2015 and
+rescinded his resignation. He subsequently escaped to Oman and then
+moved to Saudi Arabia and asked the GCC to intervene militarily in
+Yemen to protect the legitimate government from the Huthis. In
+March, Saudi Arabia assembled a coalition of Arab militaries and
+began airstrikes against the Huthis and Huthi-affiliated forces.
+Ground fighting between Huthi-aligned forces and anti-Huthi groups
+backed by the Saudi-led coalition continued through 2016. In 2016,
+the UN brokered a months-long cessation of hostilities that reduced
+airstrikes and fighting, and initiated peace talks in Kuwait.
+However, the talks ended without agreement. The Huthis and SALIH’s
+political party announced a Supreme Political Council in August
+2016 and a National Salvation Government, including a prime
+minister and several dozen cabinet members, in November 2016, to
+govern in Sanaa and further challenge the legitimacy of HADI’s
+government. However, amid rising tensions between the Huthis and
+SALIH, sporadic clashes erupted in mid-2017, and escalated into
+open fighting that ended when Huthi forces killed SALIH in early
+December 2017. In 2018, anti-Huthi forces made the most battlefield
+progress in Yemen since early 2016, most notably in Al Hudaydah
+Governorate. In December 2018, the Huthis and Yemeni Government
+participated in the first UN-brokered peace talks since 2016,
+agreeing to a limited ceasefire in Al Hudaydah Governorate and the
+establishment of a UN Mission to monitor the agreement. In April
+2019, Yemen’s parliament convened in Say'un for the first time
+since the conflict broke out in 2014. In August 2019, violence
+erupted between HADI's government and the pro-secessionist Southern
+Transition Council (STC) in southern Yemen. In November 2019,
+HADI's government and the STC signed a power-sharing agreement to
+end the fighting between them.
+
+</introduction><geography><location>
+Middle East, bordering the
+Arabian Sea, Gulf of Aden, and Red Sea, between Oman and Saudi
+Arabia
+</location><coordinates>
+15 00 N, 48 00 E
+</coordinates><map-references>
+Middle East
+</map-references><area><total>527,968
+sq km</total><land>527,968
+sq km</land><water>0 sq
+km</water></area><climate>
+mostly desert; hot and
+humid along west coast; temperate in western mountains affected by
+seasonal monsoon; extraordinarily hot, dry, harsh desert in
+east
+</climate></geography><people><population>
+29,884,405 (July 2020
+est.)
+country comparison to the world:
+48
+</population><description/></people><government>
+Country name: This entry includes all forms of the country's
+name approved by the US Board on Geographic Names (Italy is used as
+an example): conventional long form (Italian Republic),
+conventional short form (Italy), local long form (Repubblica
+Italiana), local short form (Italia), former (Kingdom of Italy), as
+well as the abbreviation. Also see the Terminology
+note. 
+
+conventional long form: Republic of
+Yemen
+conventional short form: Yemen
+local long form: Al Jumhuriyah al
+Yamaniyah
+local short form: Al Yaman
+former: Yemen Arab Republic [Yemen (Sanaa)
+or North Yemen] and People's Democratic Republic of Yemen [Yemen
+(Aden) or South Yemen]
+etymology: name derivation remains unclear
+but may come from the Arab term "yumn" (happiness) and be related
+to the region's classical name "Arabia Felix" (Fertile or Happy
+Arabia); the Romans referred to the rest of the peninsula as
+"Arabia Deserta" (Deserted Arabia)
+
+Government type:
+This entry gives the basic form of
+government. Definitions of the major governmental terms are as
+follows. (Note that for some countries more than one definition
+applies.): Absolute monarchy - a form of government where the
+monarch rules unhindered, i.e., without any laws, constitution, or
+legally organized opposition. Anarchy - a condition of lawlessness
+or political disorder brought about by the absence of governmental
+authority. Authoritarian - a form of government in whic . . .
+more
+
+
+in transition
+
+Capital: This entry gives the name of the seat of
+government, its geographic coordinates, the time difference
+relative to Coordinated Universal Time (UTC) and the time observed
+in Washington, DC, and, if applicable, information on daylight
+saving time (DST). Where appropriate, a special note has been added
+to highlight those countries that have multiple time
+zones. 
+
+name: Sanaa
+geographic coordinates: 15 21 N, 44 12
+E
+time difference: UTC+3 (8 hours ahead of
+Washington, DC, during Standard Time)
+etymology: the
+name is reputed to mean "well-fortified" in Sabaean, the South
+Arabian language that went extinct in Yemen in the 6th century
+A.D.
+
+Administrative divisions:
+This entry generally gives the
+numbers, designatory terms, and first-order administrative
+divisions as approved by the US Board on Geographic Names (BGN).
+Changes that have been reported but not yet acted on by the BGN are
+noted. Geographic names conform to spellings approved by the BGN
+with the exception of the omission of diacritical marks and special
+characters. 
+
+22 governorates
+(muhafazat, singular - muhafazah); Abyan, 'Adan (Aden), Ad Dali',
+Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al
+'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra
+Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib,
+Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz
+
+Independence: For most countries, this entry gives the date
+that sovereignty was achieved and from which nation, empire, or
+trusteeship. For the other countries, the date given may not
+represent "independence" in the strict sense, but rather some
+significant nationhood event such as the traditional founding date
+or the date of unification, federation, confederation,
+establishment, fundamental change in the form of government, or
+state succession. For a number of countries, the establishment of
+statehood . . . more 
+
+22 May 1990 (Republic of
+Yemen was established with the merger of the Yemen Arab Republic
+[Yemen (Sanaa) or North Yemen] and the Marxist-dominated People's
+Democratic Republic of Yemen [Yemen (Aden) or South Yemen]);
+notable earlier dates: North Yemen became independent on 1 November
+1918 (from the Ottoman Empire) and became a republic with the
+overthrow of the theocratic Imamate on 27 September 1962; South
+Yemen became independent on 30 November 1967 (from the UK)
+
+National holiday:
+This entry gives the primary national
+day of celebration - usually independence day.
+
+
+Unification Day, 22 May
+(1990)
+
+Constitution: This entry provides information on a country’s
+constitution and includes two subfields. The history subfield
+includes the dates of previous constitutions and the main steps and
+dates in formulating and implementing the latest constitution. For
+countries with 1-3 previous constitutions, the years are listed;
+for those with 4-9 previous, the entry is listed as “several
+previous,” and for those with 10 or more, the entry is “many
+previous.” The amendments subfield summarizes the process of am . .
+. more
+
+
+history: adopted by referendum 16 May 1991
+(following unification); note - after the National  Dialogue
+ended in January 2015, a Constitutional Drafting Committee
+appointed by the president worked to prepare a new draft
+constitution that was expected to be put to a national referendum
+before being adopted; however, the start of the current conflict in
+early 2015 interrupted the process
+amendments: amended several times, last in
+2009
+
+Legal system: This entry provides the description of a
+country's legal system. A statement on judicial review of
+legislative acts is also included for a number of countries. The
+legal systems of nearly all countries are generally modeled upon
+elements of five main types: civil law (including French law, the
+Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
+common law (including United State law); customary law; mixed or
+pluralistic law; and religious law (including Islamic law). An
+addition . . . more 
+
+mixed legal system of
+Islamic (sharia) law, Napoleonic law, English common law, and
+customary law
+
+
+International law organization
+participation: This entry
+includes information on a country's acceptance of jurisdiction of
+the International Court of Justice (ICJ) and of the International
+Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
+with reservations and 11 have accepted ICJ jurisdiction without
+reservations; 122 countries have accepted ICCt jurisdiction.
+Appendix B: International Organizations and Groups explains the
+differing mandates of the ICJ and ICCt. 
+
+has not submitted an ICJ
+jurisdiction declaration; non-party state to the ICCt
+
+Citizenship: This entry provides information related to the
+acquisition and exercise of citizenship; it includes four
+subfields: citizenship by birth describes the acquisition of
+citizenship based on place of birth, known as Jus soli, regardless
+of the citizenship of parents. citizenship by descent only
+describes the acquisition of citizenship based on the principle of
+Jus sanguinis, or by descent, where at least one parent is a
+citizen of the state and being born within the territorial limits
+of the s . . . more 
+
+citizenship by birth: no
+citizenship by descent only: the father must
+be a citizen of Yemen; if the father is unknown, the mother must be
+a citizen
+dual citizenship recognized: no
+residency requirement for naturalization: 10
+years
+
+Suffrage: This entry gives the age at enfranchisement and
+whether the right to vote is universal or restricted.
+
+
+18 years of age;
+universal
+
+Executive branch:
+This entry includes five subentries:
+chief of state; head of government; cabinet;
+elections/appointments; election results. Chief of state includes
+the name, title, and beginning date in office of the titular leader
+of the country who represents the state at official and ceremonial
+functions but may not be involved with the day-to-day activities of
+the government. Head of government includes the name, title of the
+top executive designated to manage the executive branch of the
+government, a . . . more 
+
+chief of state: President Abd Rabuh Mansur
+HADI (since 21 February 2012); Vice President ALI MUHSIN al-Ahmar,
+Lt. Gen. (since 3 April 2016)
+head of government: Prime Minister Maeen Abd
+al-Malik SAEED (since 15 October 2018)
+cabinet: appointed by the president
+elections/appointments: president directly
+elected by absolute majority popular vote in 2 rounds if needed for
+a 7-year term (eligible for a second term); election last held on
+21 February 2012 (next election NA); note - a special election was
+held on 21 February 2012 to remove Ali Abdallah SALIH under the
+terms of a Gulf Cooperation Council-mediated deal during the
+political crisis of 2011; vice president appointed by the
+president; prime minister appointed by the president
+election results: Abd Rabuh Mansur HADI
+(GPC) elected as a consensus president with about 50% popular
+participation; no other candidates
+
+Legislative branch:
+This entry has three subfields. The
+description subfield provides the legislative structure (unicameral
+– single house; bicameral – an upper and a lower house); formal
+name(s); number of member seats; types of constituencies or voting
+districts (single seat, multi-seat, nationwide); electoral voting
+system(s); and member term of office. The elections subfield
+includes the dates of the last election and next election. The
+election results subfield lists percent of vote by party/coalition
+an . . . more 
+
+description: bicameral Parliament or Majlis
+consists of:
+Shura Council or Majlis Alshoora (111 seats; members appointed by
+the president; member tenure NA)
+House of Representatives or Majlis al Nuwaab (301 seats; members
+directly elected in single-seat constituencies by simple majority
+vote to serve 6-year terms)
+elections:
+House of Representatives - last held on 27 April 2003 (next
+scheduled for April 2009 but postponed indefinitely)
+election results:
+percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%,
+Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah
+46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist
+Ba'ath Party 2, independent 4
+
+Judicial branch:
+This entry includes three subfields.
+The highest court(s) subfield includes the name(s) of a country's
+highest level court(s), the number and titles of the judges, and
+the types of cases heard by the court, which commonly are based on
+civil, criminal, administrative, and constitutional law. A number
+of countries have separate constitutional courts. The judge
+selection and term of office subfield includes the organizations
+and associated officials responsible for nominating and appointing
+j . . . more 
+
+highest courts: Supreme Court (consists of
+the court president, 2 deputies, and nearly 50 judges; court
+organized into constitutional, civil, commercial, family,
+administrative, criminal, military, and appeals scrutiny
+divisions)
+judge selection and term of office: judges
+appointed by the Supreme Judicial Council, which is chaired by the
+president of the republic and includes 10 high-ranking judicial
+officers; judges serve for life with mandatory retirement at age
+65
+subordinate courts: appeal courts; district
+or first instance courts; commercial courts
+
+
+Political parties and
+leaders: This entry includes a
+listing of significant political parties, coalitions, and electoral
+lists as of each country's last legislative election, unless
+otherwise noted. 
+
+General People’s Congress
+or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi
+[Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]
+National Arab Socialist Ba'ath Party [Qassem Salam SAID]
+Nasserist Unionist People's Organization [Abdulmalik
+al-MEKHLAFI]
+Southern Transitional Council or STC [Aidarus al-ZOUBAIDA]
+Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]
+Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar
+al-SAQQAF]
+(
+
+
+International organization
+participation: This entry lists
+in alphabetical order by abbreviation those international
+organizations in which the subject country is a member or
+participates in some other way. 
+
+AFESD, AMF, CAEU, CD, EITI
+(temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA,
+IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM,
+IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA,
+MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD,
+UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCO,
+WFTU (NGOs), WHO, WIPO, WMO, WTO
+
+
+Diplomatic representation in
+the US: This entry includes the
+chief of mission, chancery address, telephone, FAX, consulate
+general locations, and consulate locations. The use of the
+annotated title Appointed Ambassador refers to a new ambassador who
+has presented his/her credentials to the secretary of state but not
+the US president. Such ambassadors fulfill all diplomatic functions
+except meeting with or appearing at functions attended by the
+president until such time as they formally present their
+credentials at a White Hou . . . more 
+
+Ambassador Ahmad Awadh BIN
+MUBARAK (since 3 August 2015)
+chancery: 2319 Wyoming Avenue NW,
+Washington, DC 20008
+telephone: [1] (202) 965-4760
+FAX: [1] (202) 337-2017
+
+
+Diplomatic representation from
+the US: This entry includes the
+chief of mission, embassy address, mailing address, telephone
+number, FAX number, branch office locations, consulate general
+locations, and consulate locations. 
+
+chief of mission: Ambassador Christopher
+HENZEL (since 20 May 2019); note - the embassy closed in March
+2015; Yemen Affairs Unit currently operates out of US Embassy
+Riyadh
+telephone: US Embassy Riyadh [966]
+11-488-3800
+embassy: Sa'awan Street, Sanaa
+mailing address:
+US Embassy Riyadh
+
+FAX: US Embassy Riyadh [966]
+11-488-7360
+
+Flag description:
+This entry provides a written flag
+description produced from actual flags or the best information
+available at the time the entry was written. The flags of
+independent states are used by their dependencies unless there is
+an officially recognized local flag. Some disputed and other areas
+do not have flags. 
+
+three equal horizontal
+bands of red (top), white, and black; the band colors derive from
+the Arab Liberation flag and represent oppression (black), overcome
+through bloody struggle (red), to be replaced by a bright future
+(white)
+
+note: similar to the flag of Syria, which has
+two green stars in the white band, and of Iraq, which has an Arabic
+inscription centered in the white band; also similar to the flag of
+Egypt, which has a heraldic eagle centered in the white band
+
+
+National symbol(s):
+A national symbol is a faunal,
+floral, or other abstract representation - or some distinctive
+object - that over time has come to be closely identified with a
+country or entity. Not all countries have national symbols; a few
+countries have more than one. 
+
+golden eagle; national
+colors: red, white, black
+
+National anthem:
+A generally patriotic musical
+composition - usually in the form of a song or hymn of praise -
+that evokes and eulogizes the history, traditions, or struggles of
+a nation or its people. National anthems can be officially
+recognized as a national song by a country's constitution or by an
+enacted law, or simply by tradition. Although most anthems contain
+lyrics, some do not. 
+
+name: "al-qumhuriyatu l-muttahida" (United
+Republic)
+lyrics/music: Abdullah Abdulwahab
+NOA'MAN/Ayyoab Tarish ABSI
+
+note: adopted 1990; the music first served as
+the anthem for South Yemen before unification with North Yemen in
+1990
+
+
+
+</government><economy>
+
+Yemen is a low-income country that faces difficult long-term
+challenges to stabilizing and growing its economy, and the current
+conflict has only exacerbated those issues. The ongoing war has
+halted Yemen’s exports, pressured the currency’s exchange rate,
+accelerated inflation, severely limited food and fuel imports, and
+caused widespread damage to infrastructure. The conflict has also
+created a severe humanitarian crisis - the world’s largest cholera
+outbreak currently at nearly 1 million cases, more than 7 million
+people at risk of famine, and more than 80% of the population in
+need of humanitarian assistance.
+Prior to the start of the conflict in 2014, Yemen was highly
+dependent on declining oil and gas resources for revenue. Oil and
+gas earnings accounted for roughly 25% of GDP and 65% of government
+revenue. The Yemeni Government regularly faced annual budget
+shortfalls and tried to diversify the Yemeni economy through a
+reform program designed to bolster non-oil sectors of the economy
+and foreign investment. In July 2014, the government continued
+reform efforts by eliminating some fuel subsidies and in August
+2014, the IMF approved a three-year, $570 million Extended Credit
+Facility for Yemen.
+However, the conflict that began in 2014 stalled these reform
+efforts and ongoing fighting continues to accelerate the country’s
+economic decline. In September 2016, President HADI announced the
+move of the main branch of Central Bank of Yemen from Sanaa to Aden
+where his government could exert greater control over the central
+bank’s dwindling resources. Regardless of which group controls the
+main branch, the central bank system is struggling to function.
+Yemen’s Central Bank’s foreign reserves, which stood at roughly
+$5.2 billion prior to the conflict, have declined to negligible
+amounts. The Central Bank can no longer fully support imports of
+critical goods or the country’s exchange rate. The country also is
+facing a growing liquidity crisis and rising inflation. The private
+sector is hemorrhaging, with almost all businesses making
+substantial layoffs. Access to food and other critical commodities
+such as medical equipment is limited across the country due to
+security issues on the ground. The Social Welfare Fund, a cash
+transfer program for Yemen’s neediest, is no longer operational and
+has not made any disbursements since late 2014.
+Yemen will require significant international assistance during
+and after the protracted conflict to stabilize its economy.
+Long-term challenges include a high population growth rate, high
+unemployment, declining water resources, and severe food
+scarcity.
+
+</economy></yemen>
+    <nepal><introduction>
+
+During the late 18th-early 19th centuries, the principality of
+Gorkha united many of the other principalities and states of the
+sub-Himalayan region into a Nepali Kingdom. Nepal retained its
+independence following the Anglo-Nepalese War of 1814-16 and the
+subsequent peace treaty laid the foundations for two centuries of
+amicable relations between Britain and Nepal. (The Brigade of
+Gurkhas continues to serve in the British Army to the present day.)
+In 1951, the Nepali monarch ended the century-old system of rule by
+hereditary premiers and instituted a cabinet system that brought
+political parties into the government. That arrangement lasted
+until 1960, when political parties were again banned, but was
+reinstated in 1990 with the establishment of a multiparty democracy
+within the framework of a constitutional monarchy.
+An insurgency led by Maoists broke out in 1996. During the
+ensuing 10-year civil war between Maoist and government forces, the
+monarchy dissolved the cabinet and parliament and re-assumed
+absolute power in 2002, after the crown prince massacred the royal
+family in 2001. A peace accord in 2006 led to the promulgation of
+an interim constitution in 2007. Following a nationwide Constituent
+Assembly (CA) election in 2008, the newly formed CA declared Nepal
+a federal democratic republic, abolished the monarchy, and elected
+the country's first president. After the CA failed to draft a
+constitution by a 2012 deadline set by the Supreme Court,
+then-Prime Minister Baburam BHATTARAI dissolved the CA. Months of
+negotiations ensued until 2013 when the major political parties
+agreed to create an interim government headed by then-Chief Justice
+Khil Raj REGMI with a mandate to hold elections for a new CA.
+Elections were held in 2013, in which the Nepali Congress (NC) won
+the largest share of seats in the CA and in 2014 formed a coalition
+government with the second-place Communist Party of Nepal-Unified
+Marxist-Leninist (UML) with NC President Sushil KOIRALA serving as
+prime minister. Nepal's new constitution came into effect in 2015,
+at which point the CA became the Parliament. Khagda Prasad Sharma
+OLI served as the first post-constitution prime minister from 2015
+to 2016. OLI resigned ahead of a no-confidence motion against him,
+and Parliament elected Communist Party of Nepal-Maoist (CPN-M)
+leader Pushpa Kamal DAHAL (aka "Prachanda") prime minister. The
+constitution provided for a transitional period during which three
+sets of elections – local, provincial, and national – needed to
+take place. The first local elections in 20 years occurred in three
+phases between May and September 2017, and state and federal
+elections proceeded in two phases in November and December 2017.
+The parties headed by OLI and DAHAL ran in coalition and swept the
+parliamentary elections, and OLI, who led the larger of the two
+parties, was sworn in as prime minister in February 2018. In May
+2018, OLI and DAHAL announced the merger of their parties - the UML
+and CPN-M - to establish the Nepal Communist Party (NCP), which is
+now the ruling party in Parliament.
+ 
+
+</introduction><geography><location>
+Southern Asia, between
+China and India
+</location><coordinates>
+28 00 N, 84 00 E
+</coordinates><map-references>
+Asia
+</map-references><area><total>147,181
+sq km</total><land>143,351
+sq km</land><water>3,830
+sq km</water></area><climate>
+varies from cool summers
+and severe winters in north to subtropical summers and mild winters
+in south
+</climate></geography><people><population>
+30,327,877 (July 2020
+est.)
+country comparison to the world:
+46
+</population><description/></people><government>
+Country name: This entry includes all forms of the country's
+name approved by the US Board on Geographic Names (Italy is used as
+an example): conventional long form (Italian Republic),
+conventional short form (Italy), local long form (Repubblica
+Italiana), local short form (Italia), former (Kingdom of Italy), as
+well as the abbreviation. Also see the Terminology
+note. 
+
+conventional long form: Federal Democratic
+Republic of Nepal
+conventional short form: Nepal
+local long form: Sanghiya Loktantrik
+Ganatantra Nepal
+local short form: Nepal
+etymology: the Newar people of the Kathmandu
+Valley and surrounding areas apparently gave their name to the
+country; the terms "Nepal," "Newar," "Nepar," and "Newal" are
+phonetically different forms of the same word
+
+Government type:
+This entry gives the basic form of
+government. Definitions of the major governmental terms are as
+follows. (Note that for some countries more than one definition
+applies.): Absolute monarchy - a form of government where the
+monarch rules unhindered, i.e., without any laws, constitution, or
+legally organized opposition. Anarchy - a condition of lawlessness
+or political disorder brought about by the absence of governmental
+authority. Authoritarian - a form of government in whic . . .
+more
+
+
+federal parliamentary
+republic
+
+Capital: This entry gives the name of the seat of
+government, its geographic coordinates, the time difference
+relative to Coordinated Universal Time (UTC) and the time observed
+in Washington, DC, and, if applicable, information on daylight
+saving time (DST). Where appropriate, a special note has been added
+to highlight those countries that have multiple time
+zones. 
+
+name: Kathmandu
+geographic coordinates: 27 43 N, 85 19
+E
+time difference: UTC+5.75 (10.75 hours ahead
+of Washington, DC, during Standard Time)
+etymology: name
+derives from the Kasthamandap temple that stood in Durbar Square;
+in Sanskrit, "kastha" means "wood" and "mandapa" means "pavilion";
+the three-story structure was made entirely of wood, without iron
+nails or supports, and dated to the late 16th century; it collapsed
+during a 2015 earthquake
+
+Administrative divisions:
+This entry generally gives the
+numbers, designatory terms, and first-order administrative
+divisions as approved by the US Board on Geographic Names (BGN).
+Changes that have been reported but not yet acted on by the BGN are
+noted. Geographic names conform to spellings approved by the BGN
+with the exception of the omission of diacritical marks and special
+characters. 
+
+7 provinces; Gandaki
+Pradesh, Karnali Pradesh, Province No. One, Province No. Two,
+Province No. Three, Province No. Five, Sudurpashchim Pradesh
+
+Independence: For most countries, this entry gives the date
+that sovereignty was achieved and from which nation, empire, or
+trusteeship. For the other countries, the date given may not
+represent "independence" in the strict sense, but rather some
+significant nationhood event such as the traditional founding date
+or the date of unification, federation, confederation,
+establishment, fundamental change in the form of government, or
+state succession. For a number of countries, the establishment of
+statehood . . . more 
+
+1768 (unified by Prithvi
+Narayan SHAH)
+
+National holiday:
+This entry gives the primary national
+day of celebration - usually independence day.
+
+
+Constitution Day, 20
+September (2015); note - marks the promulgation of Nepal’s
+constitution in 2015 and replaces the previous 28 May Republic Day
+as the official national day in Nepal; the Gregorian day fluctuates
+based on Nepal’s Hindu calendar
+
+Constitution: This entry provides information on a country’s
+constitution and includes two subfields. The history subfield
+includes the dates of previous constitutions and the main steps and
+dates in formulating and implementing the latest constitution. For
+countries with 1-3 previous constitutions, the years are listed;
+for those with 4-9 previous, the entry is listed as “several
+previous,” and for those with 10 or more, the entry is “many
+previous.” The amendments subfield summarizes the process of am . .
+. more
+
+
+history: several previous; latest approved
+by the Second Constituent Assembly 16 September 2015, signed by the
+president and effective 20 September 2015
+amendments: proposed as a bill by either
+house of the Federal Parliament; bills affecting a state border or
+powers delegated to a state must be submitted to the affected state
+assembly; passage of such bills requires a majority vote of that
+state assembly membership; bills not requiring state assembly
+consent require at least two-thirds majority vote by the membership
+of both houses of the Federal Parliament; parts of the constitution
+on the sovereignty, territorial integrity, independence, and
+sovereignty vested in the people cannot be amended; last amended
+2016 (2019)
+
+Legal system: This entry provides the description of a
+country's legal system. A statement on judicial review of
+legislative acts is also included for a number of countries. The
+legal systems of nearly all countries are generally modeled upon
+elements of five main types: civil law (including French law, the
+Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
+common law (including United State law); customary law; mixed or
+pluralistic law; and religious law (including Islamic law). An
+addition . . . more 
+
+English common law and
+Hindu legal concepts; note - new criminal and civil codes came
+into effect on 17 August 2018
+
+
+International law organization
+participation: This entry
+includes information on a country's acceptance of jurisdiction of
+the International Court of Justice (ICJ) and of the International
+Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
+with reservations and 11 have accepted ICJ jurisdiction without
+reservations; 122 countries have accepted ICCt jurisdiction.
+Appendix B: International Organizations and Groups explains the
+differing mandates of the ICJ and ICCt. 
+
+has not submitted an ICJ
+jurisdiction declaration; non-party state to the ICCt
+
+Citizenship: This entry provides information related to the
+acquisition and exercise of citizenship; it includes four
+subfields: citizenship by birth describes the acquisition of
+citizenship based on place of birth, known as Jus soli, regardless
+of the citizenship of parents. citizenship by descent only
+describes the acquisition of citizenship based on the principle of
+Jus sanguinis, or by descent, where at least one parent is a
+citizen of the state and being born within the territorial limits
+of the s . . . more 
+
+citizenship by birth: yes
+citizenship by descent only: yes
+dual citizenship recognized: no
+residency requirement for naturalization: 15
+years
+
+Suffrage: This entry gives the age at enfranchisement and
+whether the right to vote is universal or restricted.
+
+
+18 years of age;
+universal
+
+Executive branch:
+This entry includes five subentries:
+chief of state; head of government; cabinet;
+elections/appointments; election results. Chief of state includes
+the name, title, and beginning date in office of the titular leader
+of the country who represents the state at official and ceremonial
+functions but may not be involved with the day-to-day activities of
+the government. Head of government includes the name, title of the
+top executive designated to manage the executive branch of the
+government, a . . . more 
+
+chief of state: President Bidhya Devi
+BHANDARI (since October 2015)
+head of government: Prime Minister Khadga
+Prasad (KP) Sharma OLI (since 15 February 2018); deputy prime
+ministers Ishwar POKHREL, Upendra YADAV (since 1 June 2018)
+(an)
+cabinet: Council of Ministers appointed by
+the prime minister; cabinet dominated by the Nepal Communist
+Party
+elections/appointments: president indirectly
+elected by an electoral college of the Federal Parliament and of
+the state assemblies for a 5-year term (eligible for a second
+term); election last held 13 March 2018 (next to be held in 2023);
+prime minister indirectly elected by the Federal Parliament
+election results: Bidhya Devi BHANDARI
+reelected president; electoral vote - Bidhya Devi BHANDARI
+(CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730
+head of state: President Bidhya Devi
+BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN
+(since 31 October 2015)
+
+Legislative branch:
+This entry has three subfields. The
+description subfield provides the legislative structure (unicameral
+– single house; bicameral – an upper and a lower house); formal
+name(s); number of member seats; types of constituencies or voting
+districts (single seat, multi-seat, nationwide); electoral voting
+system(s); and member term of office. The elections subfield
+includes the dates of the last election and next election. The
+election results subfield lists percent of vote by party/coalition
+an . . . more 
+
+description: bicameral Federal Parliament
+consists of:
+National Assembly (59 seats; 56 members, including at least 3
+women, 1 Dalit, 1 member with disabilities, or 1 minority
+indirectly elected by an electoral college of state and municipal
+government leaders, and 3 members, including 1 woman, nominated by
+the president of Nepal on the recommendation of the government;
+members serve 6-year terms with renewal of one-third of the
+membership every 2 years)
+House of Representatives (275 seats; 165 members directly elected
+in single-seat constituencies by simple majority vote and 110
+members directly elected in a single nationwide constituency by
+party-list proportional representation vote; members serve 5-year
+terms)
+elections:
+first election for the National Assembly held on 7 February 2018
+(next to be held in 2024)
+first election for House of Representatives held on 26 November and
+7 December 2017 (next to be held in 2022)
+election results:
+National Assembly - percent of vote by party - NA; seats by party -
+NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22,
+percent of women 37.3%
+House of Representatives - percent of vote by party - NA; seats by
+party - NCP 174, NC 63, RJPN 17, FSFN 16, other 4, independent 1;
+composition - men 185, women 90, percent of women 32.7%; note -
+total Federal Parliament percent of women 33.5%
+
+Judicial branch:
+This entry includes three subfields.
+The highest court(s) subfield includes the name(s) of a country's
+highest level court(s), the number and titles of the judges, and
+the types of cases heard by the court, which commonly are based on
+civil, criminal, administrative, and constitutional law. A number
+of countries have separate constitutional courts. The judge
+selection and term of office subfield includes the organizations
+and associated officials responsible for nominating and appointing
+j . . . more 
+
+highest courts: Supreme Court (consists of
+the chief justice and up to 20 judges)
+judge selection and term of office: Supreme
+Court chief justice appointed by the president upon the
+recommendation of the Constitutional Council, a 5-member,
+high-level advisory body headed by the prime minister; other judges
+appointed by the president upon the recommendation of the Judicial
+Council, a 5-member advisory body headed by the chief justice; the
+chief justice serves a 6-year term; judges serve until age 65
+subordinate courts: High Court; district
+courts
+
+
+Political parties and
+leaders: This entry includes a
+listing of significant political parties, coalitions, and electoral
+lists as of each country's last legislative election, unless
+otherwise noted. 
+
+
+the Election Commission of Nepal granted ballot access under the
+proportional system to 88 political parties for the
+November-December 2017 House of Representatives election to the
+Federal Parliament; of these, the following 8 parties won
+seats:
+Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]
+Naya Shakti Party, Nepal [Baburam BHATTARAI]
+Nepal Communist Party or NCP [Khadga Prasad OLI, Pushpa
+Kamal DAHAL]
+Nepali Congress or NC [Sher Bahadur DEUBA]
+Nepal Mazdoor Kisan Party [Narayan Man BIJUKCHHE]
+Rastriya Janamorcha [Chitra Bahadur K.C.]
+Rastriya Janata Party or RJPN [Mahanta THAKUR]
+Rastriya Prajatantra party or RPP [Kamal THAPA]
+
+
+
+International organization
+participation: This entry lists
+in alphabetical order by abbreviation those international
+organizations in which the subject country is a member or
+participates in some other way. 
+
+ADB, BIMSTEC, CD, CP, FAO,
+G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS,
+ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC
+(NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW,
+SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL,
+UNMIL, UNMISS, UNOCI, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO,
+WIPO, WMO, WTO
+
+
+Diplomatic representation in
+the US: This entry includes the
+chief of mission, chancery address, telephone, FAX, consulate
+general locations, and consulate locations. The use of the
+annotated title Appointed Ambassador refers to a new ambassador who
+has presented his/her credentials to the secretary of state but not
+the US president. Such ambassadors fulfill all diplomatic functions
+except meeting with or appearing at functions attended by the
+president until such time as they formally present their
+credentials at a White Hou . . . more 
+
+Ambassador Arjun Kumar
+KARKI (since 18 May 2015)
+chancery: 2730 34th Place NW, Washington, DC
+20007
+telephone: [1] (202) 667-4550
+FAX: [1] (202) 667-5534
+consulate(s) general: Chicago (IL), New
+York
+
+
+Diplomatic representation from
+the US: This entry includes the
+chief of mission, embassy address, mailing address, telephone
+number, FAX number, branch office locations, consulate general
+locations, and consulate locations. 
+
+chief of mission: Ambassador Randy BERRY
+(since 25 October 2018)
+telephone: [977] (1) 423-4000
+embassy: Maharajgunj, Kathmandu, Nepal
+mailing address: US Embassy, Maharajgunj
+Chakrapath, Kathmandu, Nepal 44600
+FAX: [977] (1) 400-7272
+
+Flag description:
+This entry provides a written flag
+description produced from actual flags or the best information
+available at the time the entry was written. The flags of
+independent states are used by their dependencies unless there is
+an officially recognized local flag. Some disputed and other areas
+do not have flags. 
+
+crimson red with a blue
+border around the unique shape of two overlapping right triangles;
+the smaller, upper triangle bears a white stylized moon and the
+larger, lower triangle displays a white 12-pointed sun; the color
+red represents the rhododendron (Nepal's national flower) and is a
+sign of victory and bravery, the blue border signifies peace and
+harmony; the two right triangles are a combination of two single
+pennons (pennants) that originally symbolized the Himalaya
+Mountains while their charges represented the families of the king
+(upper) and the prime minister, but today they are understood to
+denote Hinduism and Buddhism, the country's two main religions; the
+moon represents the serenity of the Nepalese people and the shade
+and cool weather in the Himalayas, while the sun depicts the heat
+and higher temperatures of the lower parts of Nepal; the moon and
+the sun are also said to express the hope that the nation will
+endure as long as these heavenly bodies
+
+note: Nepal is the only country in the world
+whose flag is not rectangular or square
+
+
+National symbol(s):
+A national symbol is a faunal,
+floral, or other abstract representation - or some distinctive
+object - that over time has come to be closely identified with a
+country or entity. Not all countries have national symbols; a few
+countries have more than one. 
+
+rhododendron blossom;
+national color: red
+
+National anthem:
+A generally patriotic musical
+composition - usually in the form of a song or hymn of praise -
+that evokes and eulogizes the history, traditions, or struggles of
+a nation or its people. National anthems can be officially
+recognized as a national song by a country's constitution or by an
+enacted law, or simply by tradition. Although most anthems contain
+lyrics, some do not. 
+
+name: "Sayaun Thunga Phool Ka" (Hundreds of
+Flowers)
+lyrics/music: Pradeep Kumar RAI/Ambar
+GURUNG
+
+note: adopted 2007; after the abolition of the
+monarchy in 2006, a new anthem was required because of the previous
+anthem's praise for the king
+
+
+
+</government><economy>
+
+Nepal is among the least developed countries in the world, with
+about one-quarter of its population living below the poverty line.
+Nepal is heavily dependent on remittances, which amount to as much
+as 30% of GDP. Agriculture is the mainstay of the economy,
+providing a livelihood for almost two-thirds of the population but
+accounting for less than a third of GDP. Industrial activity mainly
+involves the processing of agricultural products, including pulses,
+jute, sugarcane, tobacco, and grain.
+Nepal has considerable scope for exploiting its potential in
+hydropower, with an estimated 42,000 MW of commercially feasible
+capacity. Nepal has signed trade and investment agreements with
+India, China, and other countries, but political uncertainty and a
+difficult business climate have hampered foreign investment. The
+United States and Nepal signed a $500 million Millennium Challenge
+Corporation Compact in September 2017 which will expand Nepal’s
+electricity infrastructure and help maintain transportation
+infrastructure.
+Massive earthquakes struck Nepal in early 2015, which damaged or
+destroyed infrastructure and homes and set back economic
+development. Although political gridlock and lack of capacity have
+hindered post-earthquake recovery, government-led reconstruction
+efforts have progressively picked up speed, although many hard hit
+areas still have seen little assistance. Additional challenges to
+Nepal's growth include its landlocked geographic location,
+inconsistent electricity supply, and underdeveloped transportation
+infrastructure.
+
+</economy></nepal>
+</countries>
