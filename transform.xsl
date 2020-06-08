@@ -6,6 +6,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 
   <country>
+      <name>
+          <xsl:value-of select="//*[@class='region_name1 countryName']"/>
+      </name>
       <introduction>
         <xsl:value-of select="//div[@id='field-background']"/>
       </introduction>

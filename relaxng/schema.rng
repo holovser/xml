@@ -1,4 +1,8 @@
 <element name="country" xmlns="http://relaxng.org/ns/structure/1.0">
+    <element name="name">
+        <text/>
+    </element>
+
     <element name="introduction">
         <text/>
     </element>

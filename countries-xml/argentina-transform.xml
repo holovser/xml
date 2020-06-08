@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!--<!DOCTYPE country SYSTEM "../schema/schema.dtd">-->
-
-<country><introduction>
+<?xml version="1.0" encoding="UTF-8"?><country><name>Argentina</name><introduction>
 
 In 1816, the United Provinces of the Rio Plata declared their
 independence from Spain. After Bolivia, Paraguay, and Uruguay went

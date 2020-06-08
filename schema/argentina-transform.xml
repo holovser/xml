@@ -1,530 +1,529 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE country SYSTEM "schema.dtd">
+<country><name>Argentina</name><introduction>
 
-<country><introduction>
-
-In 1816, the United Provinces of the Rio Plata declared their
-independence from Spain. After Bolivia, Paraguay, and Uruguay went
-their separate ways, the area that remained became Argentina. The
-country's population and culture were heavily shaped by immigrants
-from throughout Europe, with Italy and Spain providing the largest
-percentage of newcomers from 1860 to 1930. Up until about the
-mid-20th century, much of Argentina's history was dominated by
-periods of internal political unrest and conflict between civilian
-and military factions.
-After World War II, an era of Peronist populism and direct and
-indirect military interference in subsequent governments was
-followed by a military junta that took power in 1976. Democracy
-returned in 1983 after a failed bid to seize the Falkland Islands
-(Islas Malvinas) by force, and has persisted despite numerous
-challenges, the most formidable of which was a severe economic
-crisis in 2001-02 that led to violent public protests and the
-successive resignations of several presidents. The years 2003-15
-saw Peronist rule by Nestor and Cristina FERNANDEZ de KIRCHNER,
-whose policies isolated Argentina and caused economic stagnation.
-With the election of Mauricio MACRI in November 2015, Argentina
-began a period of reform and international reintegration.
+    In 1816, the United Provinces of the Rio Plata declared their
+    independence from Spain. After Bolivia, Paraguay, and Uruguay went
+    their separate ways, the area that remained became Argentina. The
+    country's population and culture were heavily shaped by immigrants
+    from throughout Europe, with Italy and Spain providing the largest
+    percentage of newcomers from 1860 to 1930. Up until about the
+    mid-20th century, much of Argentina's history was dominated by
+    periods of internal political unrest and conflict between civilian
+    and military factions.
+    After World War II, an era of Peronist populism and direct and
+    indirect military interference in subsequent governments was
+    followed by a military junta that took power in 1976. Democracy
+    returned in 1983 after a failed bid to seize the Falkland Islands
+    (Islas Malvinas) by force, and has persisted despite numerous
+    challenges, the most formidable of which was a severe economic
+    crisis in 2001-02 that led to violent public protests and the
+    successive resignations of several presidents. The years 2003-15
+    saw Peronist rule by Nestor and Cristina FERNANDEZ de KIRCHNER,
+    whose policies isolated Argentina and caused economic stagnation.
+    With the election of Mauricio MACRI in November 2015, Argentina
+    began a period of reform and international reintegration.
 
 </introduction><geography><location>
-Southern South America,
-bordering the South Atlantic Ocean, between Chile and Uruguay
+    Southern South America,
+    bordering the South Atlantic Ocean, between Chile and Uruguay
 </location><coordinates>
-34 00 S, 64 00 W
+    34 00 S, 64 00 W
 </coordinates><map-references>
-South America
+    South America
 </map-references><area><total>2,780,400 sq km</total><land>2,736,690 sq km</land><water>43,710
-sq km</water></area><climate>
-mostly temperate; arid in
-southeast; subantarctic in southwest
+    sq km</water></area><climate>
+    mostly temperate; arid in
+    southeast; subantarctic in southwest
 </climate></geography><people><population>
-45,479,118 (July 2020
-est.)
-country comparison to the world:
-32
+    45,479,118 (July 2020
+    est.)
+    country comparison to the world:
+    32
 </population><description>
 
-Argentina's population continues to grow but at a slower rate
-because of its steadily declining birth rate. Argentina's fertility
-decline began earlier than in the rest of Latin America, occurring
-most rapidly between the early 20th century and the 1950s, and then
-becoming more gradual. Life expectancy has been improving, most
-notably among the young and the poor. While the population under
-age 15 is shrinking, the youth cohort - ages 15-24 - is the largest
-in Argentina's history and will continue to bolster the working-age
-population. If this large working-age population is well-educated
-and gainfully employed, Argentina is likely to experience an
-economic boost and possibly higher per capita savings and
-investment. Although literacy and primary school enrollment are
-nearly universal, grade repetition is problematic and secondary
-school completion is low. Both of these issues vary widely by
-region and socioeconomic group.
-Argentina has been primarily a country of immigration for most
-of its history, welcoming European immigrants (often providing
-needed low-skilled labor) after its independence in the 19th
-century and attracting especially large numbers from Spain and
-Italy. More than 7 million European immigrants are estimated to
-have arrived in Argentina between 1880 and 1930, when it adopted a
-more restrictive immigration policy. European immigration also
-began to wane in the 1930s because of the global depression. The
-inflow rebounded temporarily following WWII and resumed its decline
-in the 1950s when Argentina's military dictators tightened
-immigration rules and European economies rebounded. Regional
-migration increased, however, supplying low-skilled workers
-escaping economic and political instability in their home
-countries. As of 2015, immigrants made up almost 5% of Argentina's
-population, the largest share in South America. Migration from
-neighboring countries accounted for approximately 80% of
-Argentina's immigrant population in 2015.
-The first waves of highly skilled Argentine emigrant workers
-headed mainly to the United States and Spain in the 1960s and
-1970s, driven by economic decline and repressive military
-dictatorships. The 2008 European economic crisis drove the return
-migration of some Argentinean and other Latin American nationals,
-as well as the immigration of Europeans to South America, where
-Argentina was a key recipient. In 2015, Argentina received the
-highest number of legal migrants in Latin America and the
-Caribbean. The majority of its migrant inflow came from Paraguay
-and Bolivia.
+    Argentina's population continues to grow but at a slower rate
+    because of its steadily declining birth rate. Argentina's fertility
+    decline began earlier than in the rest of Latin America, occurring
+    most rapidly between the early 20th century and the 1950s, and then
+    becoming more gradual. Life expectancy has been improving, most
+    notably among the young and the poor. While the population under
+    age 15 is shrinking, the youth cohort - ages 15-24 - is the largest
+    in Argentina's history and will continue to bolster the working-age
+    population. If this large working-age population is well-educated
+    and gainfully employed, Argentina is likely to experience an
+    economic boost and possibly higher per capita savings and
+    investment. Although literacy and primary school enrollment are
+    nearly universal, grade repetition is problematic and secondary
+    school completion is low. Both of these issues vary widely by
+    region and socioeconomic group.
+    Argentina has been primarily a country of immigration for most
+    of its history, welcoming European immigrants (often providing
+    needed low-skilled labor) after its independence in the 19th
+    century and attracting especially large numbers from Spain and
+    Italy. More than 7 million European immigrants are estimated to
+    have arrived in Argentina between 1880 and 1930, when it adopted a
+    more restrictive immigration policy. European immigration also
+    began to wane in the 1930s because of the global depression. The
+    inflow rebounded temporarily following WWII and resumed its decline
+    in the 1950s when Argentina's military dictators tightened
+    immigration rules and European economies rebounded. Regional
+    migration increased, however, supplying low-skilled workers
+    escaping economic and political instability in their home
+    countries. As of 2015, immigrants made up almost 5% of Argentina's
+    population, the largest share in South America. Migration from
+    neighboring countries accounted for approximately 80% of
+    Argentina's immigrant population in 2015.
+    The first waves of highly skilled Argentine emigrant workers
+    headed mainly to the United States and Spain in the 1960s and
+    1970s, driven by economic decline and repressive military
+    dictatorships. The 2008 European economic crisis drove the return
+    migration of some Argentinean and other Latin American nationals,
+    as well as the immigration of Europeans to South America, where
+    Argentina was a key recipient. In 2015, Argentina received the
+    highest number of legal migrants in Latin America and the
+    Caribbean. The majority of its migrant inflow came from Paraguay
+    and Bolivia.
 
 </description></people><government>
-Country name: This entry includes all forms of the country's
-name approved by the US Board on Geographic Names (Italy is used as
-an example): conventional long form (Italian Republic),
-conventional short form (Italy), local long form (Repubblica
-Italiana), local short form (Italia), former (Kingdom of Italy), as
-well as the abbreviation. Also see the Terminology
-note. 
+    Country name: This entry includes all forms of the country's
+    name approved by the US Board on Geographic Names (Italy is used as
+    an example): conventional long form (Italian Republic),
+    conventional short form (Italy), local long form (Repubblica
+    Italiana), local short form (Italia), former (Kingdom of Italy), as
+    well as the abbreviation. Also see the Terminology
+    note.
 
-conventional long form: Argentine
-Republic
-conventional short form: Argentina
-local long form: Republica Argentina
-local short form: Argentina
-etymology: originally the area was referred
-to as Tierra Argentina, i.e., "Land beside the Silvery River" or
-"silvery land," which referred to the massive estuary in the east
-of the country, the Rio de la Plata (River of Silver); over time
-the name shortened to simply Argentina or "silvery"
+    conventional long form: Argentine
+    Republic
+    conventional short form: Argentina
+    local long form: Republica Argentina
+    local short form: Argentina
+    etymology: originally the area was referred
+    to as Tierra Argentina, i.e., "Land beside the Silvery River" or
+    "silvery land," which referred to the massive estuary in the east
+    of the country, the Rio de la Plata (River of Silver); over time
+    the name shortened to simply Argentina or "silvery"
 
-Government type:
-This entry gives the basic form of
-government. Definitions of the major governmental terms are as
-follows. (Note that for some countries more than one definition
-applies.): Absolute monarchy - a form of government where the
-monarch rules unhindered, i.e., without any laws, constitution, or
-legally organized opposition. Anarchy - a condition of lawlessness
-or political disorder brought about by the absence of governmental
-authority. Authoritarian - a form of government in whic . . .
-more
-
-
-presidential
-republic
-
-Capital: This entry gives the name of the seat of
-government, its geographic coordinates, the time difference
-relative to Coordinated Universal Time (UTC) and the time observed
-in Washington, DC, and, if applicable, information on daylight
-saving time (DST). Where appropriate, a special note has been added
-to highlight those countries that have multiple time
-zones. 
-
-name: Buenos Aires
-geographic coordinates: 34 36 S, 58 22
-W
-time difference: UTC-3 (2 hours ahead of
-Washington, DC, during Standard Time)
-etymology: the
-name translates as "fair winds" in Spanish and derives from the
-original designation of the settlement that would become the
-present-day city, "Santa Maria del Buen Aire" (Saint Mary of the
-Fair Winds)
-
-Administrative divisions:
-This entry generally gives the
-numbers, designatory terms, and first-order administrative
-divisions as approved by the US Board on Geographic Names (BGN).
-Changes that have been reported but not yet acted on by the BGN are
-noted. Geographic names conform to spellings approved by the BGN
-with the exception of the omission of diacritical marks and special
-characters. 
-
-23 provinces (provincias,
-singular - provincia) and 1 autonomous city*; Buenos Aires,
-Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*,
-Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La
-Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San
-Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego -
-Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica
-and the South Atlantic Islands), Tucuman
-
-note: the US does not recognize any claims to
-Antarctica
+    Government type:
+    This entry gives the basic form of
+    government. Definitions of the major governmental terms are as
+    follows. (Note that for some countries more than one definition
+    applies.): Absolute monarchy - a form of government where the
+    monarch rules unhindered, i.e., without any laws, constitution, or
+    legally organized opposition. Anarchy - a condition of lawlessness
+    or political disorder brought about by the absence of governmental
+    authority. Authoritarian - a form of government in whic . . .
+    more
 
 
-Independence: For most countries, this entry gives the date
-that sovereignty was achieved and from which nation, empire, or
-trusteeship. For the other countries, the date given may not
-represent "independence" in the strict sense, but rather some
-significant nationhood event such as the traditional founding date
-or the date of unification, federation, confederation,
-establishment, fundamental change in the form of government, or
-state succession. For a number of countries, the establishment of
-statehood . . . more 
+    presidential
+    republic
 
-9 July 1816 (from
-Spain)
+    Capital: This entry gives the name of the seat of
+    government, its geographic coordinates, the time difference
+    relative to Coordinated Universal Time (UTC) and the time observed
+    in Washington, DC, and, if applicable, information on daylight
+    saving time (DST). Where appropriate, a special note has been added
+    to highlight those countries that have multiple time
+    zones.
 
-National holiday:
-This entry gives the primary national
-day of celebration - usually independence day.
+    name: Buenos Aires
+    geographic coordinates: 34 36 S, 58 22
+    W
+    time difference: UTC-3 (2 hours ahead of
+    Washington, DC, during Standard Time)
+    etymology: the
+    name translates as "fair winds" in Spanish and derives from the
+    original designation of the settlement that would become the
+    present-day city, "Santa Maria del Buen Aire" (Saint Mary of the
+    Fair Winds)
 
+    Administrative divisions:
+    This entry generally gives the
+    numbers, designatory terms, and first-order administrative
+    divisions as approved by the US Board on Geographic Names (BGN).
+    Changes that have been reported but not yet acted on by the BGN are
+    noted. Geographic names conform to spellings approved by the BGN
+    with the exception of the omission of diacritical marks and special
+    characters.
 
-Revolution Day (May
-Revolution Day), 25 May (1810)
+    23 provinces (provincias,
+    singular - provincia) and 1 autonomous city*; Buenos Aires,
+    Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*,
+    Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La
+    Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San
+    Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego -
+    Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica
+    and the South Atlantic Islands), Tucuman
 
-Constitution: This entry provides information on a country’s
-constitution and includes two subfields. The history subfield
-includes the dates of previous constitutions and the main steps and
-dates in formulating and implementing the latest constitution. For
-countries with 1-3 previous constitutions, the years are listed;
-for those with 4-9 previous, the entry is listed as “several
-previous,” and for those with 10 or more, the entry is “many
-previous.” The amendments subfield summarizes the process of am . .
-. more
-
-
-history: several previous; latest effective
-11 May 1853
-amendments: a declaration of proposed
-amendments requires two-thirds majority vote by both houses of the
-National Congress followed by approval by an ad hoc, multi-member
-constitutional convention; amended many times, last significant
-amendment in 1994 (2018)
-
-Legal system: This entry provides the description of a
-country's legal system. A statement on judicial review of
-legislative acts is also included for a number of countries. The
-legal systems of nearly all countries are generally modeled upon
-elements of five main types: civil law (including French law, the
-Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
-common law (including United State law); customary law; mixed or
-pluralistic law; and religious law (including Islamic law). An
-addition . . . more 
-
-civil law system based on
-West European legal systems; note - in mid-2015, Argentina adopted
-a new civil code, replacing the old one in force since 1871
+    note: the US does not recognize any claims to
+    Antarctica
 
 
-International law organization
-participation: This entry
-includes information on a country's acceptance of jurisdiction of
-the International Court of Justice (ICJ) and of the International
-Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
-with reservations and 11 have accepted ICJ jurisdiction without
-reservations; 122 countries have accepted ICCt jurisdiction.
-Appendix B: International Organizations and Groups explains the
-differing mandates of the ICJ and ICCt. 
+    Independence: For most countries, this entry gives the date
+    that sovereignty was achieved and from which nation, empire, or
+    trusteeship. For the other countries, the date given may not
+    represent "independence" in the strict sense, but rather some
+    significant nationhood event such as the traditional founding date
+    or the date of unification, federation, confederation,
+    establishment, fundamental change in the form of government, or
+    state succession. For a number of countries, the establishment of
+    statehood . . . more
 
-has not submitted an ICJ
-jurisdiction declaration; accepts ICCt jurisdiction
+    9 July 1816 (from
+    Spain)
 
-Citizenship: This entry provides information related to the
-acquisition and exercise of citizenship; it includes four
-subfields: citizenship by birth describes the acquisition of
-citizenship based on place of birth, known as Jus soli, regardless
-of the citizenship of parents. citizenship by descent only
-describes the acquisition of citizenship based on the principle of
-Jus sanguinis, or by descent, where at least one parent is a
-citizen of the state and being born within the territorial limits
-of the s . . . more 
-
-citizenship by birth: yes
-citizenship by descent only: yes
-dual citizenship recognized: yes
-residency requirement for naturalization: 2
-years
-
-Suffrage: This entry gives the age at enfranchisement and
-whether the right to vote is universal or restricted.
+    National holiday:
+    This entry gives the primary national
+    day of celebration - usually independence day.
 
 
-18-70 years of age;
-universal and compulsory; 16-17 years of age - optional for
-national elections
+    Revolution Day (May
+    Revolution Day), 25 May (1810)
 
-Executive branch:
-This entry includes five subentries:
-chief of state; head of government; cabinet;
-elections/appointments; election results. Chief of state includes
-the name, title, and beginning date in office of the titular leader
-of the country who represents the state at official and ceremonial
-functions but may not be involved with the day-to-day activities of
-the government. Head of government includes the name, title of the
-top executive designated to manage the executive branch of the
-government, a . . . more 
-
-chief of state: President Alberto Angel
-FERNANDEZ (since 10 December 2019); Vice President Cristina
-FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the
-president is both chief of state and head of government
-head of government: President Alberto Angel
-FERNANDEZ (since 10 December 2019); Vice President Cristina
-FERNANDEZ DE KIRCHNER (since 10 December 2019)
-cabinet: Cabinet appointed by the
-president
-elections/appointments: president and vice
-president directly elected on the same ballot by qualified majority
-vote (to win, a candidate must receive at least 45% of votes or 40%
-of votes and a 10-point lead over the second place candidate; if
-neither occurs, a second round is held ); the president serves a
-4-year term (eligible for a second consecutive term); election last
-held on 27 October 2019 (next to be held in October 2023)
-election results: Alberto Angel FERNANDEZ
-elected president; percent of vote - Alberto Angel FERNANDEZ
-(TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA
-(independent) 6.2%, other 5.3%
-
-Legislative branch:
-This entry has three subfields. The
-description subfield provides the legislative structure (unicameral
-– single house; bicameral – an upper and a lower house); formal
-name(s); number of member seats; types of constituencies or voting
-districts (single seat, multi-seat, nationwide); electoral voting
-system(s); and member term of office. The elections subfield
-includes the dates of the last election and next election. The
-election results subfield lists percent of vote by party/coalition
-an . . . more 
-
-description: bicameral National Congress or
-Congreso Nacional consists of:
-Senate (72 seats; members directly elected in multi-seat
-constituencies by simple majority vote to serve 6-year terms with
-one-third of the membership elected every 2 years)
-Chamber of Deputies (257 seats; members directly elected in
-multi-seat constituencies by proportional representation vote;
-members serve 4-year terms with one-half of the membership renewed
-every 2 years)
-elections:
-Senate - last held on 27 October 2019 (next to be held in October
-2021)
-Chamber of Deputies - last held on 27 October 2019 (next to be held
-in October 2021)
-election results: Senate - percent of vote
-by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos
-8, FCS 2, JSRN 1;
-Chamber of Deputies - percent of vote by bloc or party - NA; seats
-by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1,
-other 3
-
-Judicial branch:
-This entry includes three subfields.
-The highest court(s) subfield includes the name(s) of a country's
-highest level court(s), the number and titles of the judges, and
-the types of cases heard by the court, which commonly are based on
-civil, criminal, administrative, and constitutional law. A number
-of countries have separate constitutional courts. The judge
-selection and term of office subfield includes the organizations
-and associated officials responsible for nominating and appointing
-j . . . more 
-
-highest courts: Supreme Court or Corte
-Suprema (consists of the court president, vice president, and 5
-justices)
-judge selection and term of office: justices
-nominated by the president and approved by the Senate; justices can
-serve until mandatory retirement at age 75; extensions beyond 75
-require renomination by the president and approval by the
-Senate
-subordinate courts: federal level appellate,
-district, and territorial courts; provincial level supreme,
-appellate, and first instance courts
+    Constitution: This entry provides information on a country’s
+    constitution and includes two subfields. The history subfield
+    includes the dates of previous constitutions and the main steps and
+    dates in formulating and implementing the latest constitution. For
+    countries with 1-3 previous constitutions, the years are listed;
+    for those with 4-9 previous, the entry is listed as “several
+    previous,” and for those with 10 or more, the entry is “many
+    previous.” The amendments subfield summarizes the process of am . .
+    . more
 
 
-Political parties and
-leaders: This entry includes a
-listing of significant political parties, coalitions, and electoral
-lists as of each country's last legislative election, unless
-otherwise noted. 
+    history: several previous; latest effective
+    11 May 1853
+    amendments: a declaration of proposed
+    amendments requires two-thirds majority vote by both houses of the
+    National Congress followed by approval by an ad hoc, multi-member
+    constitutional convention; amended many times, last significant
+    amendment in 1994 (2018)
 
-Argentina Federal
-[coalition led by Pablo KOSINER]
-Cambiemos [Mauricio MACRI] (coalition of CC-ARI, PRO, and
-UCR)
-Citizen's Unity or UC [Cristina FERNANDEZ DE KIRCHNER]
-Civic Coalition ARI or CC-ARI [Elisa CARRIO, Maximiliano
-FERRARO]
-Civic Front for Santiago or FCS [Gerardo ZAMORA]
-Everyone's Front (Frente de Todos) or TODOS [Alberto Angel
-FERNANDEZ]
-Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel
-URTUBEY]
-Front for the Renewal of Concord or FRC
-Front for Victory or FpV [coalition led by Cristina FERNANDEZ DE
-KIRCHNER and Agustin ROSSI]
-Generation for a National Encounter or GEN [Monica PERALTA]
-Justicialist Party or PJ [Miguel Angel PICHETTO]
-Radical Civic Union or UCR [Alfredo CORNEJO]
-Renewal Front (Frente Renovador) or FR [Sergio MASSA]
-Republican Proposal or PRO [Mauricio MACRI, Humberto
-SCHIAVONI]
-Socialist Party or PS [Antonio BONFATTI]
-Socialist Workers’ Party or PTS [Jose MONTES]
-Together We Are Rio Negro or JSRN [Alberto Edgardo
-WERETILNECK]
-We Do For Cordoba (Hacemos Por Cordoba) or HC [Juan
-SCHIARETTI]
-Workers' Party or PO [Jorge ALTAMIRA]
-Worker’s Socialist Movement or MST [Alejandro BODDART; Vilma
-RIPOLL]
-numerous provincial parties
+    Legal system: This entry provides the description of a
+    country's legal system. A statement on judicial review of
+    legislative acts is also included for a number of countries. The
+    legal systems of nearly all countries are generally modeled upon
+    elements of five main types: civil law (including French law, the
+    Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
+    common law (including United State law); customary law; mixed or
+    pluralistic law; and religious law (including Islamic law). An
+    addition . . . more
+
+    civil law system based on
+    West European legal systems; note - in mid-2015, Argentina adopted
+    a new civil code, replacing the old one in force since 1871
 
 
-International organization
-participation: This entry lists
-in alphabetical order by abbreviation those international
-organizations in which the subject country is a member or
-participates in some other way. 
+    International law organization
+    participation: This entry
+    includes information on a country's acceptance of jurisdiction of
+    the International Court of Justice (ICJ) and of the International
+    Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
+    with reservations and 11 have accepted ICJ jurisdiction without
+    reservations; 122 countries have accepted ICCt jurisdiction.
+    Appendix B: International Organizations and Groups explains the
+    differing mandates of the ICJ and ICCt.
 
-AfDB (nonregional member),
-Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF,
-G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national
-committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
-IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES,
-LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS,
-OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN,
-UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina
-(observer), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO,
-WTO, ZC
+    has not submitted an ICJ
+    jurisdiction declaration; accepts ICCt jurisdiction
 
+    Citizenship: This entry provides information related to the
+    acquisition and exercise of citizenship; it includes four
+    subfields: citizenship by birth describes the acquisition of
+    citizenship based on place of birth, known as Jus soli, regardless
+    of the citizenship of parents. citizenship by descent only
+    describes the acquisition of citizenship based on the principle of
+    Jus sanguinis, or by descent, where at least one parent is a
+    citizen of the state and being born within the territorial limits
+    of the s . . . more
 
-Diplomatic representation in
-the US: This entry includes the
-chief of mission, chancery address, telephone, FAX, consulate
-general locations, and consulate locations. The use of the
-annotated title Appointed Ambassador refers to a new ambassador who
-has presented his/her credentials to the secretary of state but not
-the US president. Such ambassadors fulfill all diplomatic functions
-except meeting with or appearing at functions attended by the
-president until such time as they formally present their
-credentials at a White Hou . . . more 
+    citizenship by birth: yes
+    citizenship by descent only: yes
+    dual citizenship recognized: yes
+    residency requirement for naturalization: 2
+    years
 
-Ambassador Fernando ORIS
-DE ROA (since 24 January 2018)
-chancery: 1600 New Hampshire Avenue NW,
-Washington, DC 20009
-telephone: [1] (202) 238-6400
-FAX: [1] (202) 332-3171
-consulate(s) general: Atlanta, Chicago,
-Houston, Los Angeles, Miami, New York, Washington, DC
+    Suffrage: This entry gives the age at enfranchisement and
+    whether the right to vote is universal or restricted.
 
 
-Diplomatic representation from
-the US: This entry includes the
-chief of mission, embassy address, mailing address, telephone
-number, FAX number, branch office locations, consulate general
-locations, and consulate locations. 
+    18-70 years of age;
+    universal and compulsory; 16-17 years of age - optional for
+    national elections
 
-chief of mission: Ambassador Edward Charles
-PRADO (since 16 May 2018)
-telephone: [54] (11) 5777-4533
-embassy: Avenida Colombia 4300, C1425GMN
-Buenos Aires
-mailing address: international mail: use
-embassy street address; APO address: US Embassy Buenos Aires, Unit
-4334, APO AA 34034
-FAX: [54] (11) 5777-4240
+    Executive branch:
+    This entry includes five subentries:
+    chief of state; head of government; cabinet;
+    elections/appointments; election results. Chief of state includes
+    the name, title, and beginning date in office of the titular leader
+    of the country who represents the state at official and ceremonial
+    functions but may not be involved with the day-to-day activities of
+    the government. Head of government includes the name, title of the
+    top executive designated to manage the executive branch of the
+    government, a . . . more
 
-Flag description:
-This entry provides a written flag
-description produced from actual flags or the best information
-available at the time the entry was written. The flags of
-independent states are used by their dependencies unless there is
-an officially recognized local flag. Some disputed and other areas
-do not have flags. 
+    chief of state: President Alberto Angel
+    FERNANDEZ (since 10 December 2019); Vice President Cristina
+    FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the
+    president is both chief of state and head of government
+    head of government: President Alberto Angel
+    FERNANDEZ (since 10 December 2019); Vice President Cristina
+    FERNANDEZ DE KIRCHNER (since 10 December 2019)
+    cabinet: Cabinet appointed by the
+    president
+    elections/appointments: president and vice
+    president directly elected on the same ballot by qualified majority
+    vote (to win, a candidate must receive at least 45% of votes or 40%
+    of votes and a 10-point lead over the second place candidate; if
+    neither occurs, a second round is held ); the president serves a
+    4-year term (eligible for a second consecutive term); election last
+    held on 27 October 2019 (next to be held in October 2023)
+    election results: Alberto Angel FERNANDEZ
+    elected president; percent of vote - Alberto Angel FERNANDEZ
+    (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA
+    (independent) 6.2%, other 5.3%
 
-three equal horizontal
-bands of sky blue (top), white, and sky blue; centered in the white
-band is a radiant yellow sun with a human face (delineated in
-brown) known as the Sun of May; the colors represent the clear
-skies and snow of the Andes; the sun symbol commemorates the
-appearance of the sun through cloudy skies on 25 May 1810 during
-the first mass demonstration in favor of independence; the sun
-features are those of Inti, the Inca god of the sun
+    Legislative branch:
+    This entry has three subfields. The
+    description subfield provides the legislative structure (unicameral
+    – single house; bicameral – an upper and a lower house); formal
+    name(s); number of member seats; types of constituencies or voting
+    districts (single seat, multi-seat, nationwide); electoral voting
+    system(s); and member term of office. The elections subfield
+    includes the dates of the last election and next election. The
+    election results subfield lists percent of vote by party/coalition
+    an . . . more
 
-National symbol(s):
-A national symbol is a faunal,
-floral, or other abstract representation - or some distinctive
-object - that over time has come to be closely identified with a
-country or entity. Not all countries have national symbols; a few
-countries have more than one. 
+    description: bicameral National Congress or
+    Congreso Nacional consists of:
+    Senate (72 seats; members directly elected in multi-seat
+    constituencies by simple majority vote to serve 6-year terms with
+    one-third of the membership elected every 2 years)
+    Chamber of Deputies (257 seats; members directly elected in
+    multi-seat constituencies by proportional representation vote;
+    members serve 4-year terms with one-half of the membership renewed
+    every 2 years)
+    elections:
+    Senate - last held on 27 October 2019 (next to be held in October
+    2021)
+    Chamber of Deputies - last held on 27 October 2019 (next to be held
+    in October 2021)
+    election results: Senate - percent of vote
+    by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos
+    8, FCS 2, JSRN 1;
+    Chamber of Deputies - percent of vote by bloc or party - NA; seats
+    by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1,
+    other 3
 
-Sun of May (a
-sun-with-face symbol); national colors: sky blue, white
+    Judicial branch:
+    This entry includes three subfields.
+    The highest court(s) subfield includes the name(s) of a country's
+    highest level court(s), the number and titles of the judges, and
+    the types of cases heard by the court, which commonly are based on
+    civil, criminal, administrative, and constitutional law. A number
+    of countries have separate constitutional courts. The judge
+    selection and term of office subfield includes the organizations
+    and associated officials responsible for nominating and appointing
+    j . . . more
 
-National anthem:
-A generally patriotic musical
-composition - usually in the form of a song or hymn of praise -
-that evokes and eulogizes the history, traditions, or struggles of
-a nation or its people. National anthems can be officially
-recognized as a national song by a country's constitution or by an
-enacted law, or simply by tradition. Although most anthems contain
-lyrics, some do not. 
+    highest courts: Supreme Court or Corte
+    Suprema (consists of the court president, vice president, and 5
+    justices)
+    judge selection and term of office: justices
+    nominated by the president and approved by the Senate; justices can
+    serve until mandatory retirement at age 75; extensions beyond 75
+    require renomination by the president and approval by the
+    Senate
+    subordinate courts: federal level appellate,
+    district, and territorial courts; provincial level supreme,
+    appellate, and first instance courts
 
-name: "Himno Nacional Argentino" (Argentine
-National Anthem)
-lyrics/music: Vicente LOPEZ y PLANES/Jose
-Blas PARERA
 
-note: adopted 1813; Vicente LOPEZ was inspired
-to write the anthem after watching a play about the 1810 May
-Revolution against Spain
+    Political parties and
+    leaders: This entry includes a
+    listing of significant political parties, coalitions, and electoral
+    lists as of each country's last legislative election, unless
+    otherwise noted.
+
+    Argentina Federal
+    [coalition led by Pablo KOSINER]
+    Cambiemos [Mauricio MACRI] (coalition of CC-ARI, PRO, and
+    UCR)
+    Citizen's Unity or UC [Cristina FERNANDEZ DE KIRCHNER]
+    Civic Coalition ARI or CC-ARI [Elisa CARRIO, Maximiliano
+    FERRARO]
+    Civic Front for Santiago or FCS [Gerardo ZAMORA]
+    Everyone's Front (Frente de Todos) or TODOS [Alberto Angel
+    FERNANDEZ]
+    Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel
+    URTUBEY]
+    Front for the Renewal of Concord or FRC
+    Front for Victory or FpV [coalition led by Cristina FERNANDEZ DE
+    KIRCHNER and Agustin ROSSI]
+    Generation for a National Encounter or GEN [Monica PERALTA]
+    Justicialist Party or PJ [Miguel Angel PICHETTO]
+    Radical Civic Union or UCR [Alfredo CORNEJO]
+    Renewal Front (Frente Renovador) or FR [Sergio MASSA]
+    Republican Proposal or PRO [Mauricio MACRI, Humberto
+    SCHIAVONI]
+    Socialist Party or PS [Antonio BONFATTI]
+    Socialist Workers’ Party or PTS [Jose MONTES]
+    Together We Are Rio Negro or JSRN [Alberto Edgardo
+    WERETILNECK]
+    We Do For Cordoba (Hacemos Por Cordoba) or HC [Juan
+    SCHIARETTI]
+    Workers' Party or PO [Jorge ALTAMIRA]
+    Worker’s Socialist Movement or MST [Alejandro BODDART; Vilma
+    RIPOLL]
+    numerous provincial parties
+
+
+    International organization
+    participation: This entry lists
+    in alphabetical order by abbreviation those international
+    organizations in which the subject country is a member or
+    participates in some other way.
+
+    AfDB (nonregional member),
+    Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF,
+    G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national
+    committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
+    IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES,
+    LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS,
+    OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN,
+    UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina
+    (observer), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO,
+    WTO, ZC
+
+
+    Diplomatic representation in
+    the US: This entry includes the
+    chief of mission, chancery address, telephone, FAX, consulate
+    general locations, and consulate locations. The use of the
+    annotated title Appointed Ambassador refers to a new ambassador who
+    has presented his/her credentials to the secretary of state but not
+    the US president. Such ambassadors fulfill all diplomatic functions
+    except meeting with or appearing at functions attended by the
+    president until such time as they formally present their
+    credentials at a White Hou . . . more
+
+    Ambassador Fernando ORIS
+    DE ROA (since 24 January 2018)
+    chancery: 1600 New Hampshire Avenue NW,
+    Washington, DC 20009
+    telephone: [1] (202) 238-6400
+    FAX: [1] (202) 332-3171
+    consulate(s) general: Atlanta, Chicago,
+    Houston, Los Angeles, Miami, New York, Washington, DC
+
+
+    Diplomatic representation from
+    the US: This entry includes the
+    chief of mission, embassy address, mailing address, telephone
+    number, FAX number, branch office locations, consulate general
+    locations, and consulate locations.
+
+    chief of mission: Ambassador Edward Charles
+    PRADO (since 16 May 2018)
+    telephone: [54] (11) 5777-4533
+    embassy: Avenida Colombia 4300, C1425GMN
+    Buenos Aires
+    mailing address: international mail: use
+    embassy street address; APO address: US Embassy Buenos Aires, Unit
+    4334, APO AA 34034
+    FAX: [54] (11) 5777-4240
+
+    Flag description:
+    This entry provides a written flag
+    description produced from actual flags or the best information
+    available at the time the entry was written. The flags of
+    independent states are used by their dependencies unless there is
+    an officially recognized local flag. Some disputed and other areas
+    do not have flags.
+
+    three equal horizontal
+    bands of sky blue (top), white, and sky blue; centered in the white
+    band is a radiant yellow sun with a human face (delineated in
+    brown) known as the Sun of May; the colors represent the clear
+    skies and snow of the Andes; the sun symbol commemorates the
+    appearance of the sun through cloudy skies on 25 May 1810 during
+    the first mass demonstration in favor of independence; the sun
+    features are those of Inti, the Inca god of the sun
+
+    National symbol(s):
+    A national symbol is a faunal,
+    floral, or other abstract representation - or some distinctive
+    object - that over time has come to be closely identified with a
+    country or entity. Not all countries have national symbols; a few
+    countries have more than one.
+
+    Sun of May (a
+    sun-with-face symbol); national colors: sky blue, white
+
+    National anthem:
+    A generally patriotic musical
+    composition - usually in the form of a song or hymn of praise -
+    that evokes and eulogizes the history, traditions, or struggles of
+    a nation or its people. National anthems can be officially
+    recognized as a national song by a country's constitution or by an
+    enacted law, or simply by tradition. Although most anthems contain
+    lyrics, some do not.
+
+    name: "Himno Nacional Argentino" (Argentine
+    National Anthem)
+    lyrics/music: Vicente LOPEZ y PLANES/Jose
+    Blas PARERA
+
+    note: adopted 1813; Vicente LOPEZ was inspired
+    to write the anthem after watching a play about the 1810 May
+    Revolution against Spain
 
 
 
 </government><economy>
 
-Argentina benefits from rich natural resources, a highly
-literate population, an export-oriented agricultural sector, and a
-diversified industrial base. Although one of the world's wealthiest
-countries 100 years ago, Argentina suffered during most of the 20th
-century from recurring economic crises, persistent fiscal and
-current account deficits, high inflation, mounting external debt,
-and capital flight.
-Cristina FERNANDEZ DE KIRCHNER succeeded her husband as
-president in late 2007, and in 2008 the rapid economic growth of
-previous years slowed sharply as government policies held back
-exports and the world economy fell into recession. In 2010 the
-economy rebounded strongly, but slowed in late 2011 even as the
-government continued to rely on expansionary fiscal and monetary
-policies, which kept inflation in the double digits.
-In order to deal with these problems, the government expanded
-state intervention in the economy: it nationalized the oil company
-YPF from Spain's Repsol, expanded measures to restrict imports, and
-further tightened currency controls in an effort to bolster foreign
-reserves and stem capital flight. Between 2011 and 2013, Central
-Bank foreign reserves dropped $21.3 billion from a high of $52.7
-billion. In July 2014, Argentina and China agreed on an $11 billion
-currency swap; the Argentine Central Bank has received the
-equivalent of $3.2 billion in Chinese yuan, which it counts as
-international reserves.
-With the election of President Mauricio MACRI in November 2015,
-Argentina began a historic political and economic transformation,
-as his administration took steps to liberalize the Argentine
-economy, lifting capital controls, floating the peso, removing
-export controls on some commodities, cutting some energy subsidies,
-and reforming the country’s official statistics. Argentina
-negotiated debt payments with holdout bond creditors, continued
-working with the IMF to shore up its finances, and returned to
-international capital markets in April 2016.
-In 2017, Argentina’s economy emerged from recession with GDP
-growth of nearly 3.0%. The government passed important pension,
-tax, and fiscal reforms. And after years of international
-isolation, Argentina took on several international leadership
-roles, including hosting the World Economic Forum on Latin America
-and the World Trade Organization Ministerial Conference, and is set
-to assume the presidency of the G-20 in 2018.
+    Argentina benefits from rich natural resources, a highly
+    literate population, an export-oriented agricultural sector, and a
+    diversified industrial base. Although one of the world's wealthiest
+    countries 100 years ago, Argentina suffered during most of the 20th
+    century from recurring economic crises, persistent fiscal and
+    current account deficits, high inflation, mounting external debt,
+    and capital flight.
+    Cristina FERNANDEZ DE KIRCHNER succeeded her husband as
+    president in late 2007, and in 2008 the rapid economic growth of
+    previous years slowed sharply as government policies held back
+    exports and the world economy fell into recession. In 2010 the
+    economy rebounded strongly, but slowed in late 2011 even as the
+    government continued to rely on expansionary fiscal and monetary
+    policies, which kept inflation in the double digits.
+    In order to deal with these problems, the government expanded
+    state intervention in the economy: it nationalized the oil company
+    YPF from Spain's Repsol, expanded measures to restrict imports, and
+    further tightened currency controls in an effort to bolster foreign
+    reserves and stem capital flight. Between 2011 and 2013, Central
+    Bank foreign reserves dropped $21.3 billion from a high of $52.7
+    billion. In July 2014, Argentina and China agreed on an $11 billion
+    currency swap; the Argentine Central Bank has received the
+    equivalent of $3.2 billion in Chinese yuan, which it counts as
+    international reserves.
+    With the election of President Mauricio MACRI in November 2015,
+    Argentina began a historic political and economic transformation,
+    as his administration took steps to liberalize the Argentine
+    economy, lifting capital controls, floating the peso, removing
+    export controls on some commodities, cutting some energy subsidies,
+    and reforming the country’s official statistics. Argentina
+    negotiated debt payments with holdout bond creditors, continued
+    working with the IMF to shore up its finances, and returned to
+    international capital markets in April 2016.
+    In 2017, Argentina’s economy emerged from recession with GDP
+    growth of nearly 3.0%. The government passed important pension,
+    tax, and fiscal reforms. And after years of international
+    isolation, Argentina took on several international leadership
+    roles, including hosting the World Economic Forum on Latin America
+    and the World Trade Organization Ministerial Conference, and is set
+    to assume the presidency of the G-20 in 2018.
 
 </economy></country>
