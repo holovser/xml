@@ -1,0 +1,58 @@
+<element name="country" xmlns="http://relaxng.org/ns/structure/1.0">
+    <element name="introduction">
+        <text/>
+    </element>
+
+    <element name="geography">
+        <element name="location">
+            <text/>
+        </element>
+        <element name="coordinates">
+            <text/>
+        </element>
+        <element name="map-references">
+            <text/>
+        </element>
+        <element name="area">
+            <zeroOrMore>
+                <element name="total">
+                    <text/>
+                </element>
+            </zeroOrMore>
+
+            <zeroOrMore>
+                <element name="land">
+                    <text/>
+                </element>
+            </zeroOrMore>
+
+            <zeroOrMore>
+                <element name="water">
+                    <text/>
+                </element>
+            </zeroOrMore>
+        </element>
+        <element name="climate">
+            <text/>
+        </element>
+    </element>
+
+    <element name="people">
+        <element name="population">
+            <text/>
+        </element>
+
+        <element name="description">
+            <text/>
+        </element>
+    </element>
+
+    <element name="government">
+        <text/>
+    </element>
+
+    <element name="economy">
+        <text/>
+    </element>
+
+</element>
