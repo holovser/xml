@@ -98,6 +98,7 @@
             </fo:page-sequence>
 
             <xsl:for-each select="countries/*">
+<!--                Generating each country's content-->
                 <xsl:variable name="pageId" select="country/name"/>
                 <fo:page-sequence master-reference="A4-portrait">
                     <fo:static-content flow-name="xsl-region-after">
@@ -112,6 +113,11 @@
 
                     <fo:flow flow-name="xsl-region-body">
                         <xsl:variable name="country" select="country/name"/>
+
+                        <fo:block>
+                            <fo:external-graphic src="url('../countries-png/{$country}.png')"/>
+                        </fo:block>
+
                         <fo:block font-size="24pt" font-weight="bold" id="{$country}">
                             <xsl:value-of select="country/name"/>
                         </fo:block>
