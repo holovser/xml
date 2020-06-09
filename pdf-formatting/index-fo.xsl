@@ -56,7 +56,7 @@
                                         <fo:page-number-citation ref-id="{$country}"/>
                                     </fo:block>
 
-<!--                                    List of contents sections-->
+<!--                                    Content of sections-->
 
                                     <fo:list-block>
                                         <xsl:for-each select="country/*">

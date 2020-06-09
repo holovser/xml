@@ -17,6 +17,9 @@
 
                     <h1><xsl:value-of select="country/name"/></h1>
 
+                    <xsl:variable name="country-name" select="country/name"/>
+                    <img src="../countries-png/{$country-name}.png"/>
+
                     <h2>Introduction</h2>
                     <p><xsl:value-of select="country/introduction"/></p>
 
