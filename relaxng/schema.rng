@@ -54,7 +54,6 @@
             <text/>
         </element>
 
-
         <element name="age-structure">
             <zeroOrMore>
                 <element name="category">

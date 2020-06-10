@@ -1,904 +1,849 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE country SYSTEM "schema.dtd">
-
-<country>
-    <name>Cyprus</name>
-    <introduction>
-        A former British colony,
-        Cyprus became independent in 1960 following years of resistance to
-        British rule. Tensions between the Greek Cypriot majority and
-        Turkish Cypriot minority communities came to a head in December
-        1963, when violence broke out in the capital of Nicosia. Despite
-        the deployment of UN peacekeepers in 1964, sporadic intercommunal
-        violence continued, forcing most Turkish Cypriots into enclaves
-        throughout the island. In 1974, a Greek Government-sponsored
-        attempt to overthrow the elected president of Cyprus was met by
-        military intervention from Turkey, which soon controlled more than
-        a third of the island. In 1983, the Turkish Cypriot administered
-        area declared itself the "Turkish Republic of Northern Cyprus"
-        ("TRNC"), but it is recognized only by Turkey. An UN-mediated
-        agreement, the Annan Plan, failed to win approval by both
-        communities in 2004. In February 2014, after a hiatus of nearly two
-        years, the leaders of the two communities resumed formal
-        discussions under UN auspices aimed at reuniting the divided
-        island. The most recent round of negotiations to reunify the island
-        were suspended in July 2017 after failure to achieve a
-        breakthrough. The entire island entered the EU on 1 May 2004,
-        although the EU acquis - the body of common rights and obligations
-        - applies only to the areas under the internationally recognized
-        government, and is suspended in the "TRNC." However, individual
-        Turkish Cypriots able to document their eligibility for Republic of
-        Cyprus citizenship legally enjoy the same rights accorded to other
-        citizens of EU states.
-    </introduction>
-    <geography>Geography - note:
-        This entry includes miscellaneous
-        geographic information of significance not included
-        elsewhere.
-        <location>
-            Middle East, island in the
-            Mediterranean Sea, south of Turkey; note - Cyprus views itself as
-            part of Europe; geopolitically, it can be classified as falling
-            within Europe, the Middle East, or both
-        </location>
-        <coordinates>
-            35 00 N, 33 00 E
-        </coordinates>
-        <map-references>
-            Middle East
-        </map-references>
-        <area>
-            <total>9,251
-                sq km
-            </total>
-            <land>9,241 sq
-                km
-            </land>
-            <water>10 sq
-                km
-            </water>
-        </area>
-        <climate>
-            temperate; Mediterranean
-            with hot, dry summers and cool winters
-        </climate>
-        <natural-hazards>
-            moderate earthquake
-            activity; droughts
-        </natural-hazards>
-        <population-distribution>
-            population concentrated in
-            central Nicosia and in the major cities of the south: Paphos,
-            Limassol, and Larnaca
-        </population-distribution>
-    </geography>
-    <people>
-        <population>
-            1,266,676 (July 2020
-            est.)
-            country comparison to the world:
-            157
-        </population>
-        <age-structure>
-            <category>0-14 years: 15.69% (male
-                102,095/female 96,676)
-            </category>
-            <category>15-24 years: 12.29% (male
-                84,832/female 70,879)
-            </category>
-            <category>25-54 years: 47.12% (male
-                316,710/female 280,167)
-            </category>
-            <category>55-64 years: 11.92% (male
-                72,476/female 78,511)
-            </category>
-            <category>65 years and over: 12.97% (male
-                71,053/female 93,277) (2020 est.)
-            </category>
-        </age-structure>
-        <urbanization>
-            urban population: 66.8% of total population (2020)
-            rate of urbanization: 0.75% annual rate of change (2015-20 est.)
-        </urbanization>
-        <distribution>
-            population concentrated in
-            central Nicosia and in the major cities of the south: Paphos,
-            Limassol, and Larnaca
-        </distribution>
-    </people>
-    <government>
-        Country name: This entry includes all forms of the country's
-        name approved by the US Board on Geographic Names (Italy is used as
-        an example): conventional long form (Italian Republic),
-        conventional short form (Italy), local long form (Repubblica
-        Italiana), local short form (Italia), former (Kingdom of Italy), as
-        well as the abbreviation. Also see the Terminology
-        note.
-
-        conventional long form: Republic of
-        Cyprus
-        conventional short form: Cyprus
-        local long form: Kypriaki Dimokratia/Kibris
-        Cumhuriyeti
-        local short form: Kypros/Kibris
-        etymology: the derivation of the name
-        "Cyprus" is unknown, but the extensive mining of copper metal on
-        the island in antiquity gave rise to the Latin word "cuprum" for
-        copper
-
-        note: the Turkish Cypriot community, which
-        administers the northern part of the island, refers to itself as
-        the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris
-        Turk Cumhuriyeti" or "KKTC")
-
-
-        Government type:
-        This entry gives the basic form of
-        government. Definitions of the major governmental terms are as
-        follows. (Note that for some countries more than one definition
-        applies.): Absolute monarchy - a form of government where the
-        monarch rules unhindered, i.e., without any laws, constitution, or
-        legally organized opposition. Anarchy - a condition of lawlessness
-        or political disorder brought about by the absence of governmental
-        authority. Authoritarian - a form of government in whic . . .
-        more
-
-
-        Republic of Cyprus -
-        presidential republic; "Turkish Republic of Northern Cyprus"
-        (self-declared) - parliamentary republic with enhanced
-        presidency
-
-        note: a separation of the two main ethnic
-        communities inhabiting the island began following the outbreak of
-        communal strife in 1963; this separation was further solidified
-        when a Greek military-junta-supported coup attempt prompted the
-        Turkish military intervention in July 1974 that gave the Turkish
-        Cypriots de facto control in the north; Greek Cypriots control the
-        only internationally recognized government on the island; on 15
-        November 1983, then Turkish Cypriot "President" Rauf DENKTAS
-        declared independence and the formation of the "TRNC,” which is
-        recognized only by Turkey
-
-
-        Capital: This entry gives the name of the seat of
-        government, its geographic coordinates, the time difference
-        relative to Coordinated Universal Time (UTC) and the time observed
-        in Washington, DC, and, if applicable, information on daylight
-        saving time (DST). Where appropriate, a special note has been added
-        to highlight those countries that have multiple time
-        zones.
-
-        name: Nicosia (Lefkosia/Lefkosa)
-        geographic coordinates: 35 10 N, 33 22
-        E
-        time difference: UTC+2 (7 hours ahead of
-        Washington, DC, during Standard Time)
-        daylight saving time: +1hr, begins last
-        Sunday in March; ends last Sunday in October
-        etymology: a
-        mispronunciation of the city's Greek name Lefkosia and its Turkish
-        name Lefkosa, both of which mean "White City"; the Greek name may
-        derive from the Greek phrase "leuke ousia" ("white estate")
-
-        Administrative divisions:
-        This entry generally gives the
-        numbers, designatory terms, and first-order administrative
-        divisions as approved by the US Board on Geographic Names (BGN).
-        Changes that have been reported but not yet acted on by the BGN are
-        noted. Geographic names conform to spellings approved by the BGN
-        with the exception of the omission of diacritical marks and special
-        characters.
-
-        6 districts; Ammochostos
-        (Famagusta); (all but a small part located in the Turkish Cypriot
-        community), Keryneia (Kyrenia; the only district located entirely
-        in the Turkish Cypriot community), Larnaka (Larnaca; with a small
-        part located in the Turkish Cypriot community), Lefkosia (Nicosia;
-        a small part administered by Turkish Cypriots), Lemesos (Limassol),
-        Pafos (Paphos); note - the 5 "districts" of the "TRNC" are
-        Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou),
-        Iskele (Trikomo), Lefkosa (Nicosia)
-
-        Independence: For most countries, this entry gives the date
-        that sovereignty was achieved and from which nation, empire, or
-        trusteeship. For the other countries, the date given may not
-        represent "independence" in the strict sense, but rather some
-        significant nationhood event such as the traditional founding date
-        or the date of unification, federation, confederation,
-        establishment, fundamental change in the form of government, or
-        state succession. For a number of countries, the establishment of
-        statehood . . . more
-
-        16 August 1960 (from the
-        UK); note - Turkish Cypriots proclaimed self-rule on 13 February
-        1975 and independence in 1983, but these proclamations are
-        recognized only by Turkey
-
-        National holiday:
-        This entry gives the primary national
-        day of celebration - usually independence day.
-
-
-        Independence Day, 1
-        October (1960); note - Turkish Cypriots celebrate 15 November
-        (1983) as "Republic Day"
-
-        Constitution: This entry provides information on a country’s
-        constitution and includes two subfields. The history subfield
-        includes the dates of previous constitutions and the main steps and
-        dates in formulating and implementing the latest constitution. For
-        countries with 1-3 previous constitutions, the years are listed;
-        for those with 4-9 previous, the entry is listed as “several
-        previous,” and for those with 10 or more, the entry is “many
-        previous.” The amendments subfield summarizes the process of am . .
-        . more
-
-
-        history: ratified 16 August 1960; note - in
-        1963, the constitution was partly suspended as Turkish Cypriots
-        withdrew from the government; Turkish-held territory in 1983 was
-        declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in
-        1985, the "TRNC" approved its own constitution
-        amendments: constitution of the Republic of
-        Cyprus - proposed by the House of Representatives; passage requires
-        at least two-thirds majority vote of the total membership of the
-        "Greek Community" and the "Turkish Community"; however, all seats
-        of Turkish Cypriot members have remained vacant since 1964; amended
-        10 times, last in 2016
-        constitution of the “Turkish Republic of Northern Cyprus” -
-        proposed by at least 10 members of the "Assembly of the Republic";
-        passage requires at least two-thirds majority vote of the total
-        Assembly membership and approval by referendum; amended 2014
-        (2019)
-
-        Legal system: This entry provides the description of a
-        country's legal system. A statement on judicial review of
-        legislative acts is also included for a number of countries. The
-        legal systems of nearly all countries are generally modeled upon
-        elements of five main types: civil law (including French law, the
-        Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
-        common law (including United State law); customary law; mixed or
-        pluralistic law; and religious law (including Islamic law). An
-        addition . . . more
-
-        mixed legal system of
-        English common law and civil law with European law supremacy
-
-
-        International law organization
-        participation: This entry
-        includes information on a country's acceptance of jurisdiction of
-        the International Court of Justice (ICJ) and of the International
-        Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
-        with reservations and 11 have accepted ICJ jurisdiction without
-        reservations; 122 countries have accepted ICCt jurisdiction.
-        Appendix B: International Organizations and Groups explains the
-        differing mandates of the ICJ and ICCt.
-
-        accepts compulsory ICJ
-        jurisdiction with reservations; accepts ICC jurisdiction
-
-        Citizenship: This entry provides information related to the
-        acquisition and exercise of citizenship; it includes four
-        subfields: citizenship by birth describes the acquisition of
-        citizenship based on place of birth, known as Jus soli, regardless
-        of the citizenship of parents. citizenship by descent only
-        describes the acquisition of citizenship based on the principle of
-        Jus sanguinis, or by descent, where at least one parent is a
-        citizen of the state and being born within the territorial limits
-        of the s . . . more
-
-        citizenship by birth: no
-        citizenship by descent only: at least one
-        parent must be a citizen of Cyprus
-        dual citizenship recognized: yes
-        residency requirement for naturalization: 7
-        years
-
-        Suffrage: This entry gives the age at enfranchisement and
-        whether the right to vote is universal or restricted.
-
-
-        18 years of age;
-        universal
-
-        Executive branch:
-        This entry includes five subentries:
-        chief of state; head of government; cabinet;
-        elections/appointments; election results. Chief of state includes
-        the name, title, and beginning date in office of the titular leader
-        of the country who represents the state at official and ceremonial
-        functions but may not be involved with the day-to-day activities of
-        the government. Head of government includes the name, title of the
-        top executive designated to manage the executive branch of the
-        government, a . . . more
-
-        chief of state: President  Nikos
-        ANASTASIADIS (since 28 February 2013); the president is both chief
-        of state and head of government; note - vice presidency reserved
-        for a Turkish Cypriot, but vacant since 1974 because Turkish
-        Cypriots do not participate in the Republic of Cyprus
-        Government
-        head of government: President Nikos
-        ANASTASIADIS (since 28 February 2013)
-        cabinet: Council of Ministers appointed by
-        the president; note - under the 1960 constitution, 3 of the
-        ministerial posts reserved for Turkish Cypriots, appointed by the
-        vice president; positions currently filled by Greek Cypriots
-        elections/appointments: president directly
-        elected by absolute majority popular vote in 2 rounds if needed for
-        a 5-year term; election last held on 28 January 2018 with a runoff
-        on 4 February 2018 (next to be held in February 2023)
-        election results: Nikos ANASTASIADIS
-        reelected president in second round; percent of vote in first round
-        - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%,
-        Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in
-        second round - Nikos ANASTASIADIS 56%, Savros MALAS 44%
-
-        note: Mustafa AKINCI assumed office as
-        "president" of the "TRNC" on 30 April 2015; percent of vote in
-        first round (19 April 2015) - Dervis EROGLU 28.2%, Mustafa AKINCI
-        26.9%, other 44.9%; percent of vote in runoff (26 April 2015) -
-        AKINCI 60.5%, EROGLU 39.5%
-
-
-        Legislative branch:
-        This entry has three subfields. The
-        description subfield provides the legislative structure (unicameral
-        – single house; bicameral – an upper and a lower house); formal
-        name(s); number of member seats; types of constituencies or voting
-        districts (single seat, multi-seat, nationwide); electoral voting
-        system(s); and member term of office. The elections subfield
-        includes the dates of the last election and next election. The
-        election results subfield lists percent of vote by party/coalition
-        an . . . more
-
-        description: area under government control:
-        unicameral House of Representatives or Vouli Antiprosopon (80
-        seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but
-        only those assigned to Greek Cypriots are filled; members directly
-        elected by both proportional representation and preferential vote;
-        members serve 5-year terms); area administered by Turkish Cypriots:
-        unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50
-        seats; members directly elected to 5-year terms by proportional
-        representation system using a hybrid d'Hondt method with
-        voter preferences for individual candidates
-        elections: area under government control:
-        last held on 22 May 2016 (next to be held in May 2021); area
-        administered by Turkish Cypriots: last held on 7 January 2018 (next
-        to be held in 2023, unless early election called)
-        election results: area under government
-        control: House of Representatives - percent of vote by party - DISY
-        30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, SP 6% Solidarity
-        Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO
-        9, KS-EDEK 3, Citizen's Alliance 3 (2 left the party in 2017 and
-        2018 due to disagreements over the party's policy regarding the
-        presidential election campaign; one joined DIKO and the other
-        became an independent MP), Solidarity Movement 3, other 4; area
-        administered by Turkish Cypriots: "Assembly of the Republic" -
-        percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP
-        8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9,
-        DP 3, TDP 3, YDP 2
-
-        Judicial branch:
-        This entry includes three subfields.
-        The highest court(s) subfield includes the name(s) of a country's
-        highest level court(s), the number and titles of the judges, and
-        the types of cases heard by the court, which commonly are based on
-        civil, criminal, administrative, and constitutional law. A number
-        of countries have separate constitutional courts. The judge
-        selection and term of office subfield includes the organizations
-        and associated officials responsible for nominating and appointing
-        j . . . more
-
-        highest courts: Supreme Court of Cyprus
-        (consists of 13 judges, including the court president); note - the
-        highest court in the "TRNC" is the "Supreme Court" (consists of 8
-        "judges," including the "court president")
-        judge selection and term of office: Republic
-        of Cyprus Supreme Court judges appointed by the president of the
-        republic upon the recommendation of the Supreme Court judges;
-        judges can serve until age 68; "TRNC Supreme Court" judges
-        appointed by the "Supreme Council of Judicature," a 12-member body
-        of judges, the attorney general, appointees by the president of the
-        "TRNC," and by the "Legislative Assembly," and members elected by
-        the bar association; judge tenure NA
-        subordinate courts: Republic of Cyprus
-        district courts; Assize Courts; Administrative Court; specialized
-        courts for issues relating to family, industrial disputes, the
-        military, and rent control; "TRNC Assize Courts"; "district and
-        family courts"
-
-
-        Political parties and
-        leaders: This entry includes a
-        listing of significant political parties, coalitions, and electoral
-        lists as of each country's last legislative election, unless
-        otherwise noted.
-
-        area under
-        government control:
-        Citizens' Alliance or SP [Giorgos LILLIKAS]
-        Democratic Party or DIKO [Nicolas PAPADOPOULOS]
-        Democratic Rally or DISY [Averof NEOPHYTOU]
-        Movement of Ecologists and Environmentalists or KOP (Green party)
-        [Giorgos PERDIKIS]
-        I, the Citizen or EOP [Georgios KOUNTOURIS]
-        Movement of Social Democrats EDEK [Marinos SIZOPOULOS]
-        National Popular Front or ELAM [Christos CHRISTOU]
-        Progressive Party of the Working People or AKEL (Communist party)
-        [Andros KYPRIANOU]
-        Solidarity Movement [Eleni THEOCHAROUS]
-        United Democrats or EDI [Praxoula ANTONIADOU]
-        Democratic Front or DIPA [Marios GAROYIAN]
-        Animal Party Cyprus or APC [Kyriacos KYRIACOU]
-        area administered by Turkish Cypriots:
-        Communal Democracy Party or TDP [Cemal OZYIGIT]
-        Communal Liberation Party-New Forces or TKP-YG [Mehmet
-        CAKICI]
-        Cyprus Socialist Party or KSP [Mehmet BIRINCI]
-        Democratic Party or DP [Serdar DENKTAS]
-        National Democratic Party or NDP [Buray BUSKUVUTCU]
-        National Unity Party or UBP [Ersin TATAR]
-        New Cyprus Party or YKP [Murat KANATLI]
-        People's Party or HP [Kudret OZERSAY]
-        Rebirth Party or YDP [Erhan ARIKLI]
-        Republican Turkish Party or CTP [Tufan ERHURMAN]
-        United Cyprus Party or BKP [Izzet IZCAN]
-
-
-        International organization
-        participation: This entry lists
-        in alphabetical order by abbreviation those international
-        organizations in which the subject country is a member or
-        participates in some other way.
-
-        Australia Group, C, CD,
-        CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national
-        committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
-        IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA,
-        NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO,
-        UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO,
-        WTO
-
-
-        Diplomatic representation in
-        the US: This entry includes the
-        chief of mission, chancery address, telephone, FAX, consulate
-        general locations, and consulate locations. The use of the
-        annotated title Appointed Ambassador refers to a new ambassador who
-        has presented his/her credentials to the secretary of state but not
-        the US president. Such ambassadors fulfill all diplomatic functions
-        except meeting with or appearing at functions attended by the
-        president until such time as they formally present their
-        credentials at a White Hou . . . more
-
-        Ambassador Marios LYSIOTIS
-        (since 17 September 2018)
-        chancery: 2211 R Street NW, Washington, DC
-        20008
-        telephone: [1] (202) 462-5772,
-        462-0873
-        FAX: [1] (202) 483-6710
-        consulate(s) general: New York
-
-        note: representative of the Turkish Cypriot
-        community in the US is Mustafa LAKADAMYALI; office at 1667 K Street
-        NW, Washington, DC; telephone [1] (202) 887-6198
-
-
-        Diplomatic representation from
-        the US: This entry includes the
-        chief of mission, embassy address, mailing address, telephone
-        number, FAX number, branch office locations, consulate general
-        locations, and consulate locations.
-
-        chief of mission: Ambassador Judith Gail
-        GARBER (since 18 March 2019)
-        telephone: [357] (22) 393939
-        embassy: corner of Metochiou and Ploutarchou
-        Streets, 2407 Engomi, Nicosia
-        mailing address: P. O. Box 24536, 1385
-        Nicosia
-        FAX: [357] (22) 393344
-
-        Flag description:
-        This entry provides a written flag
-        description produced from actual flags or the best information
-        available at the time the entry was written. The flags of
-        independent states are used by their dependencies unless there is
-        an officially recognized local flag. Some disputed and other areas
-        do not have flags.
-
-        centered on a white field
-        is a copper-colored silhouette of the island (the island has long
-        been famous for its copper deposits) above two olive-green-colored,
-        crossed olive branches; the branches symbolize the hope for peace
-        and reconciliation between the Greek and Turkish communities
-
-        note: one of only two national flags that uses
-        a map as a design element; the flag of Kosovo is the other
-        note: the "Turkish Republic of Northern Cyprus"
-        flag retains the white field of the Cyprus national flag but
-        displays narrow horizontal red stripes positioned a small distance
-        from the top and bottom edges between which are centered a red
-        crescent and a red five-pointed star; the banner is modeled after
-        the Turkish national flag but with the colors reversed
-
-
-        National symbol(s):
-        A national symbol is a faunal,
-        floral, or other abstract representation - or some distinctive
-        object - that over time has come to be closely identified with a
-        country or entity. Not all countries have national symbols; a few
-        countries have more than one.
-
-        Cypriot mouflon (wild
-        sheep), white dove; national colors: blue, white
-
-        National anthem:
-        A generally patriotic musical
-        composition - usually in the form of a song or hymn of praise -
-        that evokes and eulogizes the history, traditions, or struggles of
-        a nation or its people. National anthems can be officially
-        recognized as a national song by a country's constitution or by an
-        enacted law, or simply by tradition. Although most anthems contain
-        lyrics, some do not.
-
-        name: "Ymnos eis tin Eleftherian" (Hymn to
-        Liberty)
-        lyrics/music: Dionysios SOLOMOS/Nikolaos
-        MANTZAROS
-
-        note: adopted 1960; Cyprus adopted the Greek
-        national anthem as its own; the Turkish Cypriot community in Cyprus
-        uses the anthem of Turkey
-
-
-    </government>
-    <economy>
-
-        The area of the Republic of Cyprus under government control has
-        a market economy dominated by a services sector that accounts for
-        more than four-fifths of GDP. Tourism, finance, shipping, and real
-        estate have traditionally been the most important services. Cyprus
-        has been a member of the EU since May 2004 and adopted the euro as
-        its national currency in January 2008.
-        During the first five years of EU membership, the Cyprus economy
-        grew at an average rate of about 4%, with unemployment between 2004
-        and 2008 averaging about 4%. However, the economy tipped into
-        recession in 2009 as the ongoing global financial crisis and
-        resulting low demand hit the tourism and construction sectors. An
-        overextended banking sector with excessive exposure to Greek debt
-        added to the contraction. Cyprus’ biggest two banks were among the
-        largest holders of Greek bonds in Europe and had a substantial
-        presence in Greece through bank branches and subsidiaries.
-        Following numerous downgrades of its credit rating, Cyprus lost
-        access to international capital markets in May 2011. In July 2012,
-        Cyprus became the fifth euro-zone government to request an economic
-        bailout program from the European Commission, European Central Bank
-        and the International Monetary Fund - known collectively as the
-        "Troika."
-        Shortly after the election of President Nikos ANASTASIADES in
-        February 2013, Cyprus reached an agreement with the Troika on a $13
-        billion bailout that triggered a two-week bank closure and the
-        imposition of capital controls that remained partially in place
-        until April 2015. Cyprus' two largest banks merged and the combined
-        entity was recapitalized through conversion of some large bank
-        deposits to shares and imposition of losses on bank bondholders. As
-        with other EU countries, the Troika conditioned the bailout on
-        passing financial and structural reforms and privatizing
-        state-owned enterprises. Despite downsizing and restructuring, the
-        Cypriot financial sector remains burdened by the largest stock of
-        non-performing loans in the euro zone, equal to nearly half of all
-        loans. Since the bailout, Cyprus has received positive appraisals
-        by the Troika and outperformed fiscal targets but has struggled to
-        overcome political opposition to bailout-mandated legislation,
-        particularly regarding privatizations. The rate of non-performing
-        loans (NPLs) is still very high at around 49%, and growth would
-        accelerate if Cypriot banks could increase the pace of resolution
-        of the NPLs.
-        In October 2013, a US-Israeli consortium completed preliminary
-        appraisals of hydrocarbon deposits in Cyprus’ exclusive economic
-        zone (EEZ), which estimated gross mean reserves of about 130
-        billion cubic meters. Though exploration continues in Cyprus’ EEZ,
-        no additional commercially exploitable reserves have been
-        identified. Developing offshore hydrocarbon resources remains a
-        critical component of the government’s economic recovery efforts,
-        but development has been delayed as a result of regional
-        developments and disagreements about exploitation methods.
-
-        <gdp>
-            $31.78 billion (2017 est.)
-            $30.59 billion (2016 est.)
-            $29.58 billion (2015 est.)
-
-            note: data are in 2017 dollars
-
-            country comparison to the world:
-            129
-        </gdp>
-        <agriculture>
-            agriculture: 2% (2017 est.)
-            industry: 12.5% (2017 est.)
-            services: 85.5% (2017 est.)
-        </agriculture>
-        <industries>
-            tourism, food and beverage
-            processing, cement and gypsum, ship repair and refurbishment,
-            textiles, light chemicals, metal products, wood, paper, stone and
-            clay products
-        </industries>
-        <uneployment>
-            11.1% (2017 est.)
-            13% (2016 est.)
-            country comparison to the world:
-            150
-        </uneployment>
-        <balance>
-            -$1.458 billion (2017
-            est.)
-            -$984 million (2016 est.)
-            country comparison to the world:
-            154
-        </balance>
-        <budget>
-            revenues: 8.663 billion (2017 est.)
-            expenditures: 8.275 billion (2017 est.)
-        </budget>
-    </economy>
-    <communications>
-        general assessment: broadband market
-        steadily developing with one of the highest penetrations rates in
-        the region; despite the growth of Cyprus's telecom
-        sector, the market overall continues to be dominated by the
-        incumbent, Cyprus Telecommunications Authority (CyTA), which is
-        still fully-owned by the state, but it is losing ground to its
-        competition annually; improved regulatory
-        circumstances, especially in relation to network
-        interconnection and access, has given competing operators
-        the certainty to invest in network infrastructure, and to
-        launch competing services; fiber infrastructure in the early days
-        and DSL remains the dominate access platform (2020)
-        domestic: fixed-line is 25 per 100, and
-         97 per 100 for mobile-cellular; open-wire, fiber-optic cable,
-        and microwave radio relay (2018)
-        international: country code - 357 (area
-        administered by Turkish Cypriots uses the country code of Turkey -
-        90); a number of submarine cables, including the SEA-ME-WE-3,
-        CADMOS, MedNautilus Submarine System, POSEIDON, TE
-        North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2,
-        Hawk, Lev Submarine System, and Tamares combine to provide
-        connectivity to Europe, the Middle East, Africa, Asia,
-        Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine
-        cable in Turkish North Cyprus link to Turkey; tropospheric scatter;
-        satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2
-        Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat)
-        (2019)
-        note: the COVID-19
-        outbreak is negatively impacting telecommunications production and
-        supply chains globally; consumer spending on telecom devices and
-        services has also slowed due to the pandemic's effect on economies
-        worldwide; overall progress towards improvements in all facets of
-        the telecom industry - mobile, fixed-line, broadband, submarine
-        cable and satellite - has moderated
-        <static-telephones>
-            total subscriptions: 311,559
-            subscriptions per 100 inhabitants:
-            25 (2018 est.)
-            country comparison to the world:
-            112
-        </static-telephones>
-        <mobile-phones>
-            total subscriptions: 1,200,378
-            subscriptions per 100 inhabitants:
-            97 (2018 est.)
-            country comparison to the world:
-            158
-        </mobile-phones>
-        <broadcast-media>
-            mixture of state and
-            privately run TV and radio services; the public broadcaster
-            operates 2 TV channels and 4 radio stations; 6 private TV
-            broadcasters, satellite and cable TV services including telecasts
-            from Greece and Turkey, and a number of private radio stations are
-            available; in areas administered by Turkish Cypriots, there are 2
-            public TV stations, 4 public radio stations, and 7 privately owned
-            TV and 21 radio broadcast stations plus 6 radio and 4 TV channels
-            of local universities, plus 1 radio station of military, security
-            forces and 1 radio station of civil defense cooperation, as well as
-            relay stations from Turkey (2019)
-        </broadcast-media>
-        <internet>
-            total: 915,036
-            percent of population: 75.9% (July 2016
-            est.)
-            country comparison to the world:
-            134
-        </internet>
-    </communications>
-    <military>
-        the United Nations
-        Peacekeeping Force in Cyprus (UNICYP) was set up in 1964 to prevent
-        further fighting between the Greek Cypriot and Turkish Cypriot
-        communities on the island and bring about a return to normal
-        conditions;  as of October 2019, the UNICYP mission consisted
-        of about 1,000 personnel
-        <forces>
-            Republic of Cyprus:
-            Cypriot National Guard (Ethniki Froura, EF, includes ground, naval,
-            and air elements) (2019)
-        </forces>
-        <obligation>
-            Cypriot National Guard
-            (CNG): 18-50 years of age for compulsory military service for all
-            Greek Cypriot males; 17 years of age for voluntary service;
-            14-month service obligation (2016)
-        </obligation>
-        <expenditures>
-            1.6% of GDP (2019)
-            1.8% of GDP (2018)
-            1.6% of GDP (2017)
-            1.4% of GDP (2016)
-            1.7% of GDP (2015)
-            country comparison to the world:
-            70
-        </expenditures>
-    </military>
-    <transportation>
-
-        National air transport
-        system: This entry includes four
-        subfields describing the air transport system of a given country in
-        terms of both structure and performance. The first subfield, number
-        of registered air carriers, indicates the total number of air
-        carriers registered with the country’s national aviation authority
-        and issued an air operator certificate as required by the
-        Convention on International Civil Aviation. The second subfield,
-        inventory of registered aircraft operated by air carriers, lists
-        the total number . . . more
-
-        number of registered air carriers:
-        2 (2015)
-        inventory of registered aircraft operated by air
-        carriers: 6
-        (2015)
-        annual passenger traffic on registered air
-        carriers: 23,404
-        (2015)
-        annual freight traffic on registered air
-        carriers: 230,600
-        mt-km (2015)
-
-
-        Civil aircraft registration
-        country code prefix: This entry
-        provides the one- or two-character alphanumeric code indicating the
-        nationality of civil aircraft. Article 20 of the Convention on
-        International Civil Aviation (Chicago Convention), signed in 1944,
-        requires that all aircraft engaged in international air navigation
-        bear appropriate nationality marks. The aircraft registration
-        number consists of two parts: a prefix consisting of a one- or
-        two-character alphanumeric code indicating nationality and a
-        registration suffix of one to fi . . . more
-
-        5B (2016)
-
-        Airports: This entry gives the total number of airports or
-        airfields recognizable from the air. The runway(s) may be paved
-        (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or
-        gravel surfaces) and may include closed or abandoned installations.
-        Airports or airfields that are no longer recognizable (overgrown,
-        no facilities, etc.) are not included. Note that not all airports
-        have accommodations for refueling, maintenance, or air traffic
-        control.
-
-        15 (2013)
-        country comparison to the world:
-        145
-
-
-        Airports - with paved
-        runways: This entry gives the
-        total number of airports with paved runways (concrete or asphalt
-        surfaces) by length. For airports with more than one runway, only
-        the longest runway is included according to the following five
-        groups - (1) over 3,047 m (over 10,000 ft), (2) 2,438 to 3,047 m
-        (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000 to 8,000 ft), (4)
-        914 to 1,523 m (3,000 to 5,000 ft), and (5) under 914 m (under
-        3,000 ft). Only airports with usable runways are included in this
-        listing. Not all . . . more
-
-        total: 13 (2017)
-        2,438 to 3,047 m: 7 (2017)
-        1,524 to 2,437 m: 2 (2017)
-        914 to 1,523 m: 3 (2017)
-        under 914 m: 1 (2017)
-
-
-        Airports - with unpaved
-        runways: This entry gives the
-        total number of airports with unpaved runways (grass, dirt, sand,
-        or gravel surfaces) by length. For airports with more than one
-        runway, only the longest runway is included according to the
-        following five groups - (1) over 3,047 m (over 10,000 ft), (2)
-        2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000
-        to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under
-        914 m (under 3,000 ft). Only airports with usable runways are
-        included in this listin . . . more
-
-        total: 2 (2013)
-        under 914 m: 2 (2013)
-
-        Heliports: This entry gives the total number of heliports
-        with hard-surface runways, helipads, or landing areas that support
-        routine sustained helicopter operations exclusively and have
-        support facilities including one or more of the following
-        facilities: lighting, fuel, passenger handling, or maintenance. It
-        includes former airports used exclusively for helicopter operations
-        but excludes heliports limited to day operations and natural
-        clearings that could support helicopter landings and
-        takeoffs.
-
-        9 (2013)
-
-        Pipelines: This entry gives the lengths and types of
-        pipelines for transporting products like natural gas, crude oil, or
-        petroleum products.
-
-        0 km oil
-
-        Roadways: This entry gives the total length of the road
-        network and includes the length of the paved and unpaved
-        portions.
-
-        total: 19,901
-        km (2016)
-        government control: 12,901 km (includes 272 km of expressways)
-        (2016)
-        paved: 8,631
-        km (2016)
-        unpaved: 4,270
-        km (2016)
-        Turkish Cypriot control: 7,000 km (2011)
-        country comparison to the world:
-        112
-
-        Merchant marine:
-        This entry provides the total and the
-        number of each type of privately or publicly owned commercial ship
-        for each country; military ships are not included; the five ships
-        by type include: bulk carrier - for cargo such as coal, grain,
-        cement, ores, and gravel; container ship - for loads in truck-size
-        containers, a transportation system called containerization;
-        general cargo - also referred to as break-bulk containers - for a
-        wide variety of packaged merchandise, such as textiles, furniture .
-        . . more
-
-
-        total: 1,039
-        by type: bulk carrier 304, container ship
-        190, general cargo 183, oil tanker 42, other 320 (2019)
-        country comparison to the world:
-        25
-
-        Ports and terminals:
-        This entry lists major ports and
-        terminals primarily on the basis of the amount of cargo tonnage
-        shipped through the facilities on an annual basis. In some
-        instances, the number of containers handled or ship visits were
-        also considered. Most ports service multiple classes of vessels
-        including bulk carriers (dry and liquid), break bulk cargoes (goods
-        loaded individually in bags, boxes, crates, or drums; sometimes
-        palletized), containers, roll-on/roll-off, and passenger ships. The
-        listing le . . . more
-
-        major seaport(s): area under government
-        control: Larnaca, Limassol, Vasilikos
-        area administered by Turkish
-        Cypriots: Famagusta, Kyrenia
-
-    </transportation>
-</country>
+<?xml version="1.0" encoding="UTF-8"?><country><name>Cyprus</name><introduction>
+A former British colony,
+Cyprus became independent in 1960 following years of resistance to
+British rule. Tensions between the Greek Cypriot majority and
+Turkish Cypriot minority communities came to a head in December
+1963, when violence broke out in the capital of Nicosia. Despite
+the deployment of UN peacekeepers in 1964, sporadic intercommunal
+violence continued, forcing most Turkish Cypriots into enclaves
+throughout the island. In 1974, a Greek Government-sponsored
+attempt to overthrow the elected president of Cyprus was met by
+military intervention from Turkey, which soon controlled more than
+a third of the island. In 1983, the Turkish Cypriot administered
+area declared itself the "Turkish Republic of Northern Cyprus"
+("TRNC"), but it is recognized only by Turkey. An UN-mediated
+agreement, the Annan Plan, failed to win approval by both
+communities in 2004. In February 2014, after a hiatus of nearly two
+years, the leaders of the two communities resumed formal
+discussions under UN auspices aimed at reuniting the divided
+island. The most recent round of negotiations to reunify the island
+were suspended in July 2017 after failure to achieve a
+breakthrough. The entire island entered the EU on 1 May 2004,
+although the EU acquis - the body of common rights and obligations
+- applies only to the areas under the internationally recognized
+government, and is suspended in the "TRNC." However, individual
+Turkish Cypriots able to document their eligibility for Republic of
+Cyprus citizenship legally enjoy the same rights accorded to other
+citizens of EU states.
+</introduction><geography>
+the third largest island
+in the Mediterranean Sea (after Sicily and Sardinia); several small
+Cypriot enclaves exist within the Dhekelia Sovereign Base
+Area
+<location>
+Middle East, island in the
+Mediterranean Sea, south of Turkey; note - Cyprus views itself as
+part of Europe; geopolitically, it can be classified as falling
+within Europe, the Middle East, or both
+</location><coordinates>
+35 00 N, 33 00 E
+</coordinates><map-references>
+Middle East
+</map-references><area><total>9,251
+sq km</total><land>9,241 sq
+km</land><water>10 sq
+km</water></area><climate>
+temperate; Mediterranean
+with hot, dry summers and cool winters
+</climate><natural-hazards>
+moderate earthquake
+activity; droughts
+</natural-hazards><population-distribution>
+population concentrated in
+central Nicosia and in the major cities of the south: Paphos,
+Limassol, and Larnaca
+</population-distribution></geography><people><population>
+1,266,676 (July 2020
+est.)
+country comparison to the world:
+157
+</population><age-structure><category>0-14 years: 15.69% (male
+102,095/female 96,676)</category><category>15-24 years: 12.29% (male
+84,832/female 70,879)</category><category>25-54 years: 47.12% (male
+316,710/female 280,167)</category><category>55-64 years: 11.92% (male
+72,476/female 78,511)</category><category>65 years and over: 12.97% (male
+71,053/female 93,277) (2020 est.)</category></age-structure><urbanization>
+urban population: 66.8% of total population (2020)
+rate of urbanization: 0.75% annual rate of change (2015-20 est.)
+</urbanization><distribution>
+population concentrated in
+central Nicosia and in the major cities of the south: Paphos,
+Limassol, and Larnaca
+</distribution></people><government>
+Country name: This entry includes all forms of the country's
+name approved by the US Board on Geographic Names (Italy is used as
+an example): conventional long form (Italian Republic),
+conventional short form (Italy), local long form (Repubblica
+Italiana), local short form (Italia), former (Kingdom of Italy), as
+well as the abbreviation. Also see the Terminology
+note. 
+
+conventional long form: Republic of
+Cyprus
+conventional short form: Cyprus
+local long form: Kypriaki Dimokratia/Kibris
+Cumhuriyeti
+local short form: Kypros/Kibris
+etymology: the derivation of the name
+"Cyprus" is unknown, but the extensive mining of copper metal on
+the island in antiquity gave rise to the Latin word "cuprum" for
+copper
+
+note: the Turkish Cypriot community, which
+administers the northern part of the island, refers to itself as
+the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris
+Turk Cumhuriyeti" or "KKTC")
+
+
+Government type:
+This entry gives the basic form of
+government. Definitions of the major governmental terms are as
+follows. (Note that for some countries more than one definition
+applies.): Absolute monarchy - a form of government where the
+monarch rules unhindered, i.e., without any laws, constitution, or
+legally organized opposition. Anarchy - a condition of lawlessness
+or political disorder brought about by the absence of governmental
+authority. Authoritarian - a form of government in whic . . .
+more
+
+
+Republic of Cyprus -
+presidential republic; "Turkish Republic of Northern Cyprus"
+(self-declared) - parliamentary republic with enhanced
+presidency
+
+note: a separation of the two main ethnic
+communities inhabiting the island began following the outbreak of
+communal strife in 1963; this separation was further solidified
+when a Greek military-junta-supported coup attempt prompted the
+Turkish military intervention in July 1974 that gave the Turkish
+Cypriots de facto control in the north; Greek Cypriots control the
+only internationally recognized government on the island; on 15
+November 1983, then Turkish Cypriot "President" Rauf DENKTAS
+declared independence and the formation of the "TRNC,” which is
+recognized only by Turkey
+
+
+Capital: This entry gives the name of the seat of
+government, its geographic coordinates, the time difference
+relative to Coordinated Universal Time (UTC) and the time observed
+in Washington, DC, and, if applicable, information on daylight
+saving time (DST). Where appropriate, a special note has been added
+to highlight those countries that have multiple time
+zones. 
+
+name: Nicosia (Lefkosia/Lefkosa)
+geographic coordinates: 35 10 N, 33 22
+E
+time difference: UTC+2 (7 hours ahead of
+Washington, DC, during Standard Time)
+daylight saving time: +1hr, begins last
+Sunday in March; ends last Sunday in October
+etymology: a
+mispronunciation of the city's Greek name Lefkosia and its Turkish
+name Lefkosa, both of which mean "White City"; the Greek name may
+derive from the Greek phrase "leuke ousia" ("white estate")
+
+Administrative divisions:
+This entry generally gives the
+numbers, designatory terms, and first-order administrative
+divisions as approved by the US Board on Geographic Names (BGN).
+Changes that have been reported but not yet acted on by the BGN are
+noted. Geographic names conform to spellings approved by the BGN
+with the exception of the omission of diacritical marks and special
+characters. 
+
+6 districts; Ammochostos
+(Famagusta); (all but a small part located in the Turkish Cypriot
+community), Keryneia (Kyrenia; the only district located entirely
+in the Turkish Cypriot community), Larnaka (Larnaca; with a small
+part located in the Turkish Cypriot community), Lefkosia (Nicosia;
+a small part administered by Turkish Cypriots), Lemesos (Limassol),
+Pafos (Paphos); note - the 5 "districts" of the "TRNC" are
+Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou),
+Iskele (Trikomo), Lefkosa (Nicosia)
+
+Independence: For most countries, this entry gives the date
+that sovereignty was achieved and from which nation, empire, or
+trusteeship. For the other countries, the date given may not
+represent "independence" in the strict sense, but rather some
+significant nationhood event such as the traditional founding date
+or the date of unification, federation, confederation,
+establishment, fundamental change in the form of government, or
+state succession. For a number of countries, the establishment of
+statehood . . . more 
+
+16 August 1960 (from the
+UK); note - Turkish Cypriots proclaimed self-rule on 13 February
+1975 and independence in 1983, but these proclamations are
+recognized only by Turkey
+
+National holiday:
+This entry gives the primary national
+day of celebration - usually independence day.
+
+
+Independence Day, 1
+October (1960); note - Turkish Cypriots celebrate 15 November
+(1983) as "Republic Day"
+
+Constitution: This entry provides information on a country’s
+constitution and includes two subfields. The history subfield
+includes the dates of previous constitutions and the main steps and
+dates in formulating and implementing the latest constitution. For
+countries with 1-3 previous constitutions, the years are listed;
+for those with 4-9 previous, the entry is listed as “several
+previous,” and for those with 10 or more, the entry is “many
+previous.” The amendments subfield summarizes the process of am . .
+. more
+
+
+history: ratified 16 August 1960; note - in
+1963, the constitution was partly suspended as Turkish Cypriots
+withdrew from the government; Turkish-held territory in 1983 was
+declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in
+1985, the "TRNC" approved its own constitution
+amendments: constitution of the Republic of
+Cyprus - proposed by the House of Representatives; passage requires
+at least two-thirds majority vote of the total membership of the
+"Greek Community" and the "Turkish Community"; however, all seats
+of Turkish Cypriot members have remained vacant since 1964; amended
+10 times, last in 2016
+constitution of the “Turkish Republic of Northern Cyprus” -
+proposed by at least 10 members of the "Assembly of the Republic";
+passage requires at least two-thirds majority vote of the total
+Assembly membership and approval by referendum; amended 2014
+(2019)
+
+Legal system: This entry provides the description of a
+country's legal system. A statement on judicial review of
+legislative acts is also included for a number of countries. The
+legal systems of nearly all countries are generally modeled upon
+elements of five main types: civil law (including French law, the
+Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law);
+common law (including United State law); customary law; mixed or
+pluralistic law; and religious law (including Islamic law). An
+addition . . . more 
+
+mixed legal system of
+English common law and civil law with European law supremacy
+
+
+International law organization
+participation: This entry
+includes information on a country's acceptance of jurisdiction of
+the International Court of Justice (ICJ) and of the International
+Criminal Court (ICCt); 59 countries have accepted ICJ jurisdiction
+with reservations and 11 have accepted ICJ jurisdiction without
+reservations; 122 countries have accepted ICCt jurisdiction.
+Appendix B: International Organizations and Groups explains the
+differing mandates of the ICJ and ICCt. 
+
+accepts compulsory ICJ
+jurisdiction with reservations; accepts ICC jurisdiction
+
+Citizenship: This entry provides information related to the
+acquisition and exercise of citizenship; it includes four
+subfields: citizenship by birth describes the acquisition of
+citizenship based on place of birth, known as Jus soli, regardless
+of the citizenship of parents. citizenship by descent only
+describes the acquisition of citizenship based on the principle of
+Jus sanguinis, or by descent, where at least one parent is a
+citizen of the state and being born within the territorial limits
+of the s . . . more 
+
+citizenship by birth: no
+citizenship by descent only: at least one
+parent must be a citizen of Cyprus
+dual citizenship recognized: yes
+residency requirement for naturalization: 7
+years
+
+Suffrage: This entry gives the age at enfranchisement and
+whether the right to vote is universal or restricted.
+
+
+18 years of age;
+universal
+
+Executive branch:
+This entry includes five subentries:
+chief of state; head of government; cabinet;
+elections/appointments; election results. Chief of state includes
+the name, title, and beginning date in office of the titular leader
+of the country who represents the state at official and ceremonial
+functions but may not be involved with the day-to-day activities of
+the government. Head of government includes the name, title of the
+top executive designated to manage the executive branch of the
+government, a . . . more 
+
+chief of state: President  Nikos
+ANASTASIADIS (since 28 February 2013); the president is both chief
+of state and head of government; note - vice presidency reserved
+for a Turkish Cypriot, but vacant since 1974 because Turkish
+Cypriots do not participate in the Republic of Cyprus
+Government
+head of government: President Nikos
+ANASTASIADIS (since 28 February 2013)
+cabinet: Council of Ministers appointed by
+the president; note - under the 1960 constitution, 3 of the
+ministerial posts reserved for Turkish Cypriots, appointed by the
+vice president; positions currently filled by Greek Cypriots
+elections/appointments: president directly
+elected by absolute majority popular vote in 2 rounds if needed for
+a 5-year term; election last held on 28 January 2018 with a runoff
+on 4 February 2018 (next to be held in February 2023)
+election results: Nikos ANASTASIADIS
+reelected president in second round; percent of vote in first round
+- Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%,
+Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in
+second round - Nikos ANASTASIADIS 56%, Savros MALAS 44%
+
+note: Mustafa AKINCI assumed office as
+"president" of the "TRNC" on 30 April 2015; percent of vote in
+first round (19 April 2015) - Dervis EROGLU 28.2%, Mustafa AKINCI
+26.9%, other 44.9%; percent of vote in runoff (26 April 2015) -
+AKINCI 60.5%, EROGLU 39.5%
+
+
+Legislative branch:
+This entry has three subfields. The
+description subfield provides the legislative structure (unicameral
+– single house; bicameral – an upper and a lower house); formal
+name(s); number of member seats; types of constituencies or voting
+districts (single seat, multi-seat, nationwide); electoral voting
+system(s); and member term of office. The elections subfield
+includes the dates of the last election and next election. The
+election results subfield lists percent of vote by party/coalition
+an . . . more 
+
+description: area under government control:
+unicameral House of Representatives or Vouli Antiprosopon (80
+seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but
+only those assigned to Greek Cypriots are filled; members directly
+elected by both proportional representation and preferential vote;
+members serve 5-year terms); area administered by Turkish Cypriots:
+unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50
+seats; members directly elected to 5-year terms by proportional
+representation system using a hybrid d'Hondt method with
+voter preferences for individual candidates
+elections: area under government control:
+last held on 22 May 2016 (next to be held in May 2021); area
+administered by Turkish Cypriots: last held on 7 January 2018 (next
+to be held in 2023, unless early election called)
+election results: area under government
+control: House of Representatives - percent of vote by party - DISY
+30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, SP 6% Solidarity
+Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO
+9, KS-EDEK 3, Citizen's Alliance 3 (2 left the party in 2017 and
+2018 due to disagreements over the party's policy regarding the
+presidential election campaign; one joined DIKO and the other
+became an independent MP), Solidarity Movement 3, other 4; area
+administered by Turkish Cypriots: "Assembly of the Republic" -
+percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP
+8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9,
+DP 3, TDP 3, YDP 2
+
+Judicial branch:
+This entry includes three subfields.
+The highest court(s) subfield includes the name(s) of a country's
+highest level court(s), the number and titles of the judges, and
+the types of cases heard by the court, which commonly are based on
+civil, criminal, administrative, and constitutional law. A number
+of countries have separate constitutional courts. The judge
+selection and term of office subfield includes the organizations
+and associated officials responsible for nominating and appointing
+j . . . more 
+
+highest courts: Supreme Court of Cyprus
+(consists of 13 judges, including the court president); note - the
+highest court in the "TRNC" is the "Supreme Court" (consists of 8
+"judges," including the "court president")
+judge selection and term of office: Republic
+of Cyprus Supreme Court judges appointed by the president of the
+republic upon the recommendation of the Supreme Court judges;
+judges can serve until age 68; "TRNC Supreme Court" judges
+appointed by the "Supreme Council of Judicature," a 12-member body
+of judges, the attorney general, appointees by the president of the
+"TRNC," and by the "Legislative Assembly," and members elected by
+the bar association; judge tenure NA
+subordinate courts: Republic of Cyprus
+district courts; Assize Courts; Administrative Court; specialized
+courts for issues relating to family, industrial disputes, the
+military, and rent control; "TRNC Assize Courts"; "district and
+family courts"
+
+
+Political parties and
+leaders: This entry includes a
+listing of significant political parties, coalitions, and electoral
+lists as of each country's last legislative election, unless
+otherwise noted. 
+
+area under
+government control:
+Citizens' Alliance or SP [Giorgos LILLIKAS]
+Democratic Party or DIKO [Nicolas PAPADOPOULOS]
+Democratic Rally or DISY [Averof NEOPHYTOU]
+Movement of Ecologists and Environmentalists or KOP (Green party)
+[Giorgos PERDIKIS]
+I, the Citizen or EOP [Georgios KOUNTOURIS]
+Movement of Social Democrats EDEK [Marinos SIZOPOULOS]
+National Popular Front or ELAM [Christos CHRISTOU]
+Progressive Party of the Working People or AKEL (Communist party)
+[Andros KYPRIANOU]
+Solidarity Movement [Eleni THEOCHAROUS]
+United Democrats or EDI [Praxoula ANTONIADOU]
+Democratic Front or DIPA [Marios GAROYIAN]
+Animal Party Cyprus or APC [Kyriacos KYRIACOU]
+area administered by Turkish Cypriots:
+Communal Democracy Party or TDP [Cemal OZYIGIT]
+Communal Liberation Party-New Forces or TKP-YG [Mehmet
+CAKICI]
+Cyprus Socialist Party or KSP [Mehmet BIRINCI]
+Democratic Party or DP [Serdar DENKTAS]
+National Democratic Party or NDP [Buray BUSKUVUTCU]
+National Unity Party or UBP [Ersin TATAR]
+New Cyprus Party or YKP [Murat KANATLI]
+People's Party or HP [Kudret OZERSAY]
+Rebirth Party or YDP [Erhan ARIKLI]
+Republican Turkish Party or CTP [Tufan ERHURMAN]
+United Cyprus Party or BKP [Izzet IZCAN]
+
+
+International organization
+participation: This entry lists
+in alphabetical order by abbreviation those international
+organizations in which the subject country is a member or
+participates in some other way. 
+
+Australia Group, C, CD,
+CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national
+committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO,
+IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA,
+NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO,
+UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO,
+WTO
+
+
+Diplomatic representation in
+the US: This entry includes the
+chief of mission, chancery address, telephone, FAX, consulate
+general locations, and consulate locations. The use of the
+annotated title Appointed Ambassador refers to a new ambassador who
+has presented his/her credentials to the secretary of state but not
+the US president. Such ambassadors fulfill all diplomatic functions
+except meeting with or appearing at functions attended by the
+president until such time as they formally present their
+credentials at a White Hou . . . more 
+
+Ambassador Marios LYSIOTIS
+(since 17 September 2018)
+chancery: 2211 R Street NW, Washington, DC
+20008
+telephone: [1] (202) 462-5772,
+462-0873
+FAX: [1] (202) 483-6710
+consulate(s) general: New York
+
+note: representative of the Turkish Cypriot
+community in the US is Mustafa LAKADAMYALI; office at 1667 K Street
+NW, Washington, DC; telephone [1] (202) 887-6198
+
+
+
+Diplomatic representation from
+the US: This entry includes the
+chief of mission, embassy address, mailing address, telephone
+number, FAX number, branch office locations, consulate general
+locations, and consulate locations. 
+
+chief of mission: Ambassador Judith Gail
+GARBER (since 18 March 2019)
+telephone: [357] (22) 393939
+embassy: corner of Metochiou and Ploutarchou
+Streets, 2407 Engomi, Nicosia
+mailing address: P. O. Box 24536, 1385
+Nicosia
+FAX: [357] (22) 393344
+
+Flag description:
+This entry provides a written flag
+description produced from actual flags or the best information
+available at the time the entry was written. The flags of
+independent states are used by their dependencies unless there is
+an officially recognized local flag. Some disputed and other areas
+do not have flags. 
+
+centered on a white field
+is a copper-colored silhouette of the island (the island has long
+been famous for its copper deposits) above two olive-green-colored,
+crossed olive branches; the branches symbolize the hope for peace
+and reconciliation between the Greek and Turkish communities
+
+note: one of only two national flags that uses
+a map as a design element; the flag of Kosovo is the other
+note: the "Turkish Republic of Northern Cyprus"
+flag retains the white field of the Cyprus national flag but
+displays narrow horizontal red stripes positioned a small distance
+from the top and bottom edges between which are centered a red
+crescent and a red five-pointed star; the banner is modeled after
+the Turkish national flag but with the colors reversed
+
+
+National symbol(s):
+A national symbol is a faunal,
+floral, or other abstract representation - or some distinctive
+object - that over time has come to be closely identified with a
+country or entity. Not all countries have national symbols; a few
+countries have more than one. 
+
+Cypriot mouflon (wild
+sheep), white dove; national colors: blue, white
+
+National anthem:
+A generally patriotic musical
+composition - usually in the form of a song or hymn of praise -
+that evokes and eulogizes the history, traditions, or struggles of
+a nation or its people. National anthems can be officially
+recognized as a national song by a country's constitution or by an
+enacted law, or simply by tradition. Although most anthems contain
+lyrics, some do not. 
+
+name: "Ymnos eis tin Eleftherian" (Hymn to
+Liberty)
+lyrics/music: Dionysios SOLOMOS/Nikolaos
+MANTZAROS
+
+note: adopted 1960; Cyprus adopted the Greek
+national anthem as its own; the Turkish Cypriot community in Cyprus
+uses the anthem of Turkey
+
+
+</government><economy>
+
+The area of the Republic of Cyprus under government control has
+a market economy dominated by a services sector that accounts for
+more than four-fifths of GDP. Tourism, finance, shipping, and real
+estate have traditionally been the most important services. Cyprus
+has been a member of the EU since May 2004 and adopted the euro as
+its national currency in January 2008.
+During the first five years of EU membership, the Cyprus economy
+grew at an average rate of about 4%, with unemployment between 2004
+and 2008 averaging about 4%. However, the economy tipped into
+recession in 2009 as the ongoing global financial crisis and
+resulting low demand hit the tourism and construction sectors. An
+overextended banking sector with excessive exposure to Greek debt
+added to the contraction. Cyprus’ biggest two banks were among the
+largest holders of Greek bonds in Europe and had a substantial
+presence in Greece through bank branches and subsidiaries.
+Following numerous downgrades of its credit rating, Cyprus lost
+access to international capital markets in May 2011. In July 2012,
+Cyprus became the fifth euro-zone government to request an economic
+bailout program from the European Commission, European Central Bank
+and the International Monetary Fund - known collectively as the
+"Troika."
+Shortly after the election of President Nikos ANASTASIADES in
+February 2013, Cyprus reached an agreement with the Troika on a $13
+billion bailout that triggered a two-week bank closure and the
+imposition of capital controls that remained partially in place
+until April 2015. Cyprus' two largest banks merged and the combined
+entity was recapitalized through conversion of some large bank
+deposits to shares and imposition of losses on bank bondholders. As
+with other EU countries, the Troika conditioned the bailout on
+passing financial and structural reforms and privatizing
+state-owned enterprises. Despite downsizing and restructuring, the
+Cypriot financial sector remains burdened by the largest stock of
+non-performing loans in the euro zone, equal to nearly half of all
+loans. Since the bailout, Cyprus has received positive appraisals
+by the Troika and outperformed fiscal targets but has struggled to
+overcome political opposition to bailout-mandated legislation,
+particularly regarding privatizations. The rate of non-performing
+loans (NPLs) is still very high at around 49%, and growth would
+accelerate if Cypriot banks could increase the pace of resolution
+of the NPLs.
+In October 2013, a US-Israeli consortium completed preliminary
+appraisals of hydrocarbon deposits in Cyprus’ exclusive economic
+zone (EEZ), which estimated gross mean reserves of about 130
+billion cubic meters. Though exploration continues in Cyprus’ EEZ,
+no additional commercially exploitable reserves have been
+identified. Developing offshore hydrocarbon resources remains a
+critical component of the government’s economic recovery efforts,
+but development has been delayed as a result of regional
+developments and disagreements about exploitation methods.
+
+<gdp>
+$31.78 billion (2017 est.)
+$30.59 billion (2016 est.)
+$29.58 billion (2015 est.)
+
+note: data are in 2017 dollars
+
+country comparison to the world:
+129
+</gdp><agriculture>
+agriculture: 2% (2017 est.)
+industry: 12.5% (2017 est.)
+services: 85.5% (2017 est.)
+</agriculture><industries>
+tourism, food and beverage
+processing, cement and gypsum, ship repair and refurbishment,
+textiles, light chemicals, metal products, wood, paper, stone and
+clay products
+</industries><uneployment>
+11.1% (2017 est.)
+13% (2016 est.)
+country comparison to the world:
+150
+</uneployment><balance>
+-$1.458 billion (2017
+est.)
+-$984 million (2016 est.)
+country comparison to the world:
+154
+</balance><budget>
+revenues: 8.663 billion (2017 est.)
+expenditures: 8.275 billion (2017 est.)
+</budget></economy><communications>
+general assessment: broadband market
+steadily developing with one of the highest penetrations rates in
+the region; despite the growth of Cyprus's telecom
+sector, the market overall continues to be dominated by the
+incumbent, Cyprus Telecommunications Authority (CyTA), which is
+still fully-owned by the state, but it is losing ground to its
+competition annually; improved regulatory
+circumstances, especially in relation to network
+interconnection and access, has given competing operators
+the certainty to invest in network infrastructure, and to
+launch competing services; fiber infrastructure in the early days
+and DSL remains the dominate access platform (2020)
+domestic: fixed-line is 25 per 100, and
+ 97 per 100 for mobile-cellular; open-wire, fiber-optic cable,
+and microwave radio relay (2018)
+international: country code - 357 (area
+administered by Turkish Cypriots uses the country code of Turkey -
+90); a number of submarine cables, including the SEA-ME-WE-3,
+CADMOS, MedNautilus Submarine System, POSEIDON, TE
+North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2,
+Hawk, Lev Submarine System, and Tamares combine to provide
+connectivity to Europe, the Middle East, Africa, Asia,
+Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine
+cable in Turkish North Cyprus link to Turkey; tropospheric scatter;
+satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2
+Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat)
+(2019)
+note: the COVID-19
+outbreak is negatively impacting telecommunications production and
+supply chains globally; consumer spending on telecom devices and
+services has also slowed due to the pandemic's effect on economies
+worldwide; overall progress towards improvements in all facets of
+the telecom industry - mobile, fixed-line, broadband, submarine
+cable and satellite - has moderated
+<static-telephones>
+total subscriptions: 311,559
+subscriptions per 100 inhabitants:
+25 (2018 est.)
+country comparison to the world:
+112
+</static-telephones><mobile-phones>
+total subscriptions: 1,200,378
+subscriptions per 100 inhabitants:
+97 (2018 est.)
+country comparison to the world:
+158
+</mobile-phones><broadcast-media>
+mixture of state and
+privately run TV and radio services; the public broadcaster
+operates 2 TV channels and 4 radio stations; 6 private TV
+broadcasters, satellite and cable TV services including telecasts
+from Greece and Turkey, and a number of private radio stations are
+available; in areas administered by Turkish Cypriots, there are 2
+public TV stations, 4 public radio stations, and 7 privately owned
+TV and 21 radio broadcast stations plus 6 radio and 4 TV channels
+of local universities, plus 1 radio station of military, security
+forces and 1 radio station of civil defense cooperation, as well as
+relay stations from Turkey (2019)
+</broadcast-media><internet>
+total: 915,036
+percent of population: 75.9% (July 2016
+est.)
+country comparison to the world:
+134
+</internet></communications><military>
+the United Nations
+Peacekeeping Force in Cyprus (UNICYP) was set up in 1964 to prevent
+further fighting between the Greek Cypriot and Turkish Cypriot
+communities on the island and bring about a return to normal
+conditions;  as of October 2019, the UNICYP mission consisted
+of about 1,000 personnel
+<forces>
+Republic of Cyprus:
+Cypriot National Guard (Ethniki Froura, EF, includes ground, naval,
+and air elements) (2019)
+</forces><obligation>
+Cypriot National Guard
+(CNG): 18-50 years of age for compulsory military service for all
+Greek Cypriot males; 17 years of age for voluntary service;
+14-month service obligation (2016)
+</obligation><expenditures>
+1.6% of GDP (2019)
+1.8% of GDP (2018)
+1.6% of GDP (2017)
+1.4% of GDP (2016)
+1.7% of GDP (2015)
+country comparison to the world:
+70
+</expenditures></military><transportation>
+
+National air transport
+system: This entry includes four
+subfields describing the air transport system of a given country in
+terms of both structure and performance. The first subfield, number
+of registered air carriers, indicates the total number of air
+carriers registered with the country’s national aviation authority
+and issued an air operator certificate as required by the
+Convention on International Civil Aviation. The second subfield,
+inventory of registered aircraft operated by air carriers, lists
+the total number . . . more 
+
+number of registered air carriers:
+2 (2015)
+inventory of registered aircraft operated by air
+carriers: 6
+(2015)
+annual passenger traffic on registered air
+carriers: 23,404
+(2015)
+annual freight traffic on registered air
+carriers: 230,600
+mt-km (2015)
+
+
+Civil aircraft registration
+country code prefix: This entry
+provides the one- or two-character alphanumeric code indicating the
+nationality of civil aircraft. Article 20 of the Convention on
+International Civil Aviation (Chicago Convention), signed in 1944,
+requires that all aircraft engaged in international air navigation
+bear appropriate nationality marks. The aircraft registration
+number consists of two parts: a prefix consisting of a one- or
+two-character alphanumeric code indicating nationality and a
+registration suffix of one to fi . . . more 
+
+5B (2016)
+
+Airports: This entry gives the total number of airports or
+airfields recognizable from the air. The runway(s) may be paved
+(concrete or asphalt surfaces) or unpaved (grass, earth, sand, or
+gravel surfaces) and may include closed or abandoned installations.
+Airports or airfields that are no longer recognizable (overgrown,
+no facilities, etc.) are not included. Note that not all airports
+have accommodations for refueling, maintenance, or air traffic
+control. 
+
+15 (2013)
+country comparison to the world:
+145
+
+
+Airports - with paved
+runways: This entry gives the
+total number of airports with paved runways (concrete or asphalt
+surfaces) by length. For airports with more than one runway, only
+the longest runway is included according to the following five
+groups - (1) over 3,047 m (over 10,000 ft), (2) 2,438 to 3,047 m
+(8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000 to 8,000 ft), (4)
+914 to 1,523 m (3,000 to 5,000 ft), and (5) under 914 m (under
+3,000 ft). Only airports with usable runways are included in this
+listing. Not all . . . more 
+
+total: 13 (2017)
+2,438 to 3,047 m: 7 (2017)
+1,524 to 2,437 m: 2 (2017)
+914 to 1,523 m: 3 (2017)
+under 914 m: 1 (2017)
+
+
+Airports - with unpaved
+runways: This entry gives the
+total number of airports with unpaved runways (grass, dirt, sand,
+or gravel surfaces) by length. For airports with more than one
+runway, only the longest runway is included according to the
+following five groups - (1) over 3,047 m (over 10,000 ft), (2)
+2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000
+to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under
+914 m (under 3,000 ft). Only airports with usable runways are
+included in this listin . . . more 
+
+total: 2 (2013)
+under 914 m: 2 (2013)
+
+Heliports: This entry gives the total number of heliports
+with hard-surface runways, helipads, or landing areas that support
+routine sustained helicopter operations exclusively and have
+support facilities including one or more of the following
+facilities: lighting, fuel, passenger handling, or maintenance. It
+includes former airports used exclusively for helicopter operations
+but excludes heliports limited to day operations and natural
+clearings that could support helicopter landings and
+takeoffs. 
+
+9 (2013)
+
+Pipelines: This entry gives the lengths and types of
+pipelines for transporting products like natural gas, crude oil, or
+petroleum products. 
+
+0 km oil
+
+Roadways: This entry gives the total length of the road
+network and includes the length of the paved and unpaved
+portions. 
+
+total: 19,901
+km (2016)
+government control: 12,901 km (includes 272 km of expressways)
+(2016)
+paved: 8,631
+km (2016)
+unpaved: 4,270
+km (2016)
+Turkish Cypriot control: 7,000 km (2011)
+country comparison to the world:
+112
+
+Merchant marine:
+This entry provides the total and the
+number of each type of privately or publicly owned commercial ship
+for each country; military ships are not included; the five ships
+by type include: bulk carrier - for cargo such as coal, grain,
+cement, ores, and gravel; container ship - for loads in truck-size
+containers, a transportation system called containerization;
+general cargo - also referred to as break-bulk containers - for a
+wide variety of packaged merchandise, such as textiles, furniture .
+. . more
+
+
+total: 1,039
+by type: bulk carrier 304, container ship
+190, general cargo 183, oil tanker 42, other 320 (2019)
+country comparison to the world:
+25
+
+Ports and terminals:
+This entry lists major ports and
+terminals primarily on the basis of the amount of cargo tonnage
+shipped through the facilities on an annual basis. In some
+instances, the number of containers handled or ship visits were
+also considered. Most ports service multiple classes of vessels
+including bulk carriers (dry and liquid), break bulk cargoes (goods
+loaded individually in bags, boxes, crates, or drums; sometimes
+palletized), containers, roll-on/roll-off, and passenger ships. The
+listing le . . . more 
+
+major seaport(s): area under government
+control: Larnaca, Limassol, Vasilikos
+area administered by Turkish
+Cypriots: Famagusta, Kyrenia
+
+</transportation></country>

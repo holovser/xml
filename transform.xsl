@@ -14,7 +14,7 @@
             </introduction>
 
             <geography>
-                <xsl:value-of select="//div[@id='field-anchor-geography-geography-note']"/>
+                <xsl:value-of select="//div[@id='field-geography-note']"/>
                 <location>
                     <xsl:value-of select="//div[@id='field-location']"/>
                 </location>

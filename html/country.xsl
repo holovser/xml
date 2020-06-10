@@ -3,6 +3,9 @@
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
+    <xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'"/>
+    <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
+
     <xsl:template match="/">
 
         <html>
@@ -14,55 +17,14 @@
             </head>
             <body>
                 <div class="container">
-
-                    <h1><xsl:value-of select="country/name"/></h1>
+                    <h1>
+                        <xsl:value-of select="country/name"/>
+                    </h1>
 
                     <xsl:variable name="country-name" select="country/name"/>
                     <img src="../countries-png/{$country-name}.png"/>
 
-                    <h2>Introduction</h2>
-                    <p><xsl:value-of select="country/introduction"/></p>
-
-                    <h2>Geography</h2>
-
-                    <h3>Location</h3>
-                    <p><xsl:value-of select="country/geography/location"/></p>
-
-                    <h3>Coordinates</h3>
-                    <p><xsl:value-of select="country/geography/coordinates"/></p>
-
-                    <h3>Area</h3>
-                    <ul>
-                        <xsl:for-each select="country/geography/area/*">
-                            <li>
-                                <xsl:value-of select="name(.)"/> : <xsl:value-of select="."/>
-                            </li>
-                        </xsl:for-each>
-                    </ul>
-
-                    <h3>Climate</h3>
-                    <p><xsl:value-of select="country/geography/climate"/></p>
-
-
-                    <h2>People</h2>
-
-                    <h3>Population</h3>
-                    <p><xsl:value-of select="country/people/population"/></p>
-
-                    <h3>Description</h3>
-                    <p><xsl:value-of select="country/people/description"/></p>
-
-                    <h2>Government</h2>
-                    <p><xsl:value-of select="country/government"/></p>
-
-                    <h2>Economy</h2>
-                    <p><xsl:value-of select="country/economy/text()"/></p>
-
-
-                    <h3>GDP</h3>
-                    <p><xsl:value-of select="country/economy/gdp"/></p>
-
-                    <h3>Agriculture</h3>
+                    <xsl:apply-templates select="country"/>
 
                     <script
                             src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -79,9 +41,55 @@
                 </div>
             </body>
         </html>
-
     </xsl:template>
 
 
+    <xsl:template match="country/*">
+        <xsl:if test="name() != 'name'">
+            <h2>
+                <xsl:value-of select="concat(translate(substring(name(),1,1), $lowercase, $uppercase),
+          substring(name(), 2))"/>
+            </h2>
+            <p>
+                <xsl:copy-of select="text()"/>
+            </p>
+
+            <xsl:for-each select="*">
+                <xsl:if test="not(*) and text() != ''">
+                    <h3>
+                        <xsl:value-of select="concat(translate(substring(name(),1,1), $lowercase, $uppercase),
+          substring(name(), 2))"/>
+                    </h3>
+                    <p>
+                        <xsl:value-of select="."/>
+                    </p>
+                </xsl:if>
+
+                <xsl:if test="*">
+                    <ul>
+                        <xsl:for-each select="*">
+                            <li>
+                                <xsl:if test="name() != 'category'">
+                                    <p>
+                                        <strong>
+                                            <xsl:value-of
+                                                    select="concat(translate(substring(name(),1,1),
+                                                 $lowercase, $uppercase),substring(name(), 2))"/> :
+                                        </strong>
+                                        <xsl:value-of select="."/>
+                                    </p>
+                                </xsl:if>
+                                <xsl:if test="name() = 'category'">
+                                    <p>
+                                        <xsl:value-of select="."/>
+                                    </p>
+                                </xsl:if>
+                            </li>
+                        </xsl:for-each>
+                    </ul>
+                </xsl:if>
+            </xsl:for-each>
+        </xsl:if>
+    </xsl:template>
 </xsl:stylesheet>
 

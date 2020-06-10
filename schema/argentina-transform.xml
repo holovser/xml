@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE country SYSTEM "schema.dtd">
-
 <country>
     <name>Argentina</name>
     <introduction>
@@ -29,10 +26,16 @@
         began a period of reform and international reintegration.
 
     </introduction>
-    <geography>Geography - note:
-        This entry includes miscellaneous
-        geographic information of significance not included
-        elsewhere.
+    <geography>
+        second-largest country in
+        South America (after Brazil); strategic location relative to sea
+        lanes between the South Atlantic and the South Pacific Oceans
+        (Strait of Magellan, Beagle Channel, Drake Passage); diverse
+        geophysical landscapes range from tropical climates in the north to
+        tundra in the far south; Cerro Aconcagua is the Western
+        Hemisphere's tallest mountain, while Laguna del Carbon is the
+        lowest point in the Western Hemisphere; shares Iguazu Falls, the
+        world's largest waterfalls system, with Brazil
         <location>
             Southern South America,
             bordering the South Atlantic Ocean, between Chile and Uruguay
@@ -728,7 +731,6 @@
             country comparison to the world:
             130
         </expenditures>
-
     </military>
     <transportation>
 

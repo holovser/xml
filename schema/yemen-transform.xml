@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE country SYSTEM "schema.dtd">
-
-<country><name>Yemen</name><introduction>
+<?xml version="1.0" encoding="UTF-8"?><country><name>Yemen</name><introduction>
 
 The Kingdom of Yemen (colloquially known as North Yemen) became
 independent from the Ottoman Empire in 1918 and in 1962 became the
@@ -84,10 +80,11 @@ Transition Council (STC) in southern Yemen. In November 2019,
 HADI's government and the STC signed a power-sharing agreement to
 end the fighting between them.
 
-</introduction><geography>Geography - note:
-This entry includes miscellaneous
-geographic information of significance not included
-elsewhere. <location>
+</introduction><geography>
+strategic location on Bab
+el Mandeb, the strait linking the Red Sea and the Gulf of Aden, one
+of world's most active shipping lanes
+<location>
 Middle East, bordering the
 Arabian Sea, Gulf of Aden, and Red Sea, between Oman and Saudi
 Arabia
