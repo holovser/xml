@@ -56,7 +56,13 @@
                     <p><xsl:value-of select="country/government"/></p>
 
                     <h2>Economy</h2>
-                    <p><xsl:value-of select="country/economy"/></p>
+                    <p><xsl:value-of select="country/economy/text()"/></p>
+
+
+                    <h3>GDP</h3>
+                    <p><xsl:value-of select="country/economy/gdp"/></p>
+
+                    <h3>Agriculture</h3>
 
                     <script
                             src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
