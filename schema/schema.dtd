@@ -1,24 +1,45 @@
-<!ELEMENT country (name+,introduction+, geography+, people+, government+, economy+ )>
+<!ELEMENT country (name+, introduction+, geography+, people+, government+, economy+, communications+, military+, transportation+ )>
 
         <!ELEMENT name (#PCDATA)>
         <!ELEMENT introduction (#PCDATA)>
-        <!ELEMENT geography (location+, coordinates+, map-references+, area+, climate+)>
-        <!ELEMENT people (population+, description+)>
+        <!ELEMENT geography (#PCDATA|location|coordinates|map-references|area|climate|natural-hazards|population-distribution)* >
+        <!ELEMENT people (#PCDATA|population|age-structure|urbanization|distribution)*>
         <!ELEMENT government (#PCDATA)>
-        <!ELEMENT economy (#PCDATA)>
+        <!ELEMENT economy (#PCDATA|gdp|agriculture|industries|uneployment|balance|budget)*>
+        <!ELEMENT communications (#PCDATA|static-telephones|mobile-phones|broadcast-media|internet)*>
+        <!ELEMENT military (#PCDATA|forces|obligation|expenditures)*>
+        <!ELEMENT transportation (#PCDATA)>
 
+        <!ELEMENT natural-hazards (#PCDATA)>
+        <!ELEMENT population-distribution (#PCDATA)>
         <!ELEMENT location (#PCDATA)>
         <!ELEMENT coordinates (#PCDATA)>
         <!ELEMENT map-references (#PCDATA)>
         <!ELEMENT area (total?, land?, water?)>
         <!ELEMENT climate (#PCDATA)>
+        <!ELEMENT age-structure (category*)>
+        <!ELEMENT urbanization (#PCDATA)>
+        <!ELEMENT distribution (#PCDATA)>
+        <!ELEMENT gdp (#PCDATA)>
+        <!ELEMENT agriculture (#PCDATA)>
+        <!ELEMENT industries (#PCDATA)>
+        <!ELEMENT uneployment (#PCDATA)>
+        <!ELEMENT balance (#PCDATA)>
+        <!ELEMENT static-telephones (#PCDATA)>
+        <!ELEMENT mobile-phones (#PCDATA)>
+        <!ELEMENT broadcast-media (#PCDATA)>
+        <!ELEMENT internet (#PCDATA)>
+        <!ELEMENT budget (#PCDATA)>
+        <!ELEMENT forces (#PCDATA)>
+        <!ELEMENT obligation (#PCDATA)>
+        <!ELEMENT expenditures (#PCDATA)>
 
+        <!ELEMENT category (#PCDATA)>
         <!ELEMENT total (#PCDATA)>
         <!ELEMENT land (#PCDATA)>
         <!ELEMENT water (#PCDATA)>
 
         <!ELEMENT population (#PCDATA)>
-        <!ELEMENT description (#PCDATA)>
 
 
 

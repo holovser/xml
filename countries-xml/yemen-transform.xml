@@ -120,8 +120,12 @@ country
 est.)
 country comparison to the world:
 48
-</population><age-structure>
-</age-structure><urbanization>
+</population><age-structure><category>0-14 years: 39.16% (male
+5,711,709 /female 5,513,526)</category><category>15-24 years: 21.26% (male
+3,089,817 /female 3,005,693)</category><category>25-54 years: 32.78% (male
+4,805,059 /female 4,591,811)</category><category>55-64 years: 4% (male
+523,769 /female 623,100)</category><category>65 years and over: 2.8% (male
+366,891 /female 435,855) (2018 est.)</category></age-structure><urbanization>
 urban population: 37.9% of total population (2020)
 rate of urbanization: 4.06% annual rate of change (2015-20 est.)
 </urbanization><distribution>

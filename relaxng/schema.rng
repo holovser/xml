@@ -8,6 +8,7 @@
     </element>
 
     <element name="geography">
+        <text/>
         <element name="location">
             <text/>
         </element>
@@ -39,14 +40,34 @@
         <element name="climate">
             <text/>
         </element>
+        <element name="natural-hazards">
+            <text/>
+        </element>
+        <element name="population-distribution">
+            <text/>
+        </element>
     </element>
-
     <element name="people">
+
+        <text/>
         <element name="population">
             <text/>
         </element>
 
-        <element name="description">
+
+        <element name="age-structure">
+            <zeroOrMore>
+                <element name="category">
+                    <text/>
+                </element>
+            </zeroOrMore>
+        </element>
+
+        <element name="urbanization">
+            <text/>
+        </element>
+
+        <element name="distribution">
             <text/>
         </element>
     </element>
@@ -56,6 +77,69 @@
     </element>
 
     <element name="economy">
+        <text/>
+        <element name="gdp">
+            <text/>
+        </element>
+
+        <element name="agriculture">
+            <text/>
+        </element>
+
+        <element name="industries">
+            <text/>
+        </element>
+
+        <element name="uneployment">
+            <text/>
+        </element>
+
+        <element name="balance">
+            <text/>
+        </element>
+
+        <element name="budget">
+            <text/>
+        </element>
+    </element>
+
+    <element name="communications">
+        <text/>
+
+        <element name="static-telephones">
+            <text/>
+        </element>
+
+        <element name="mobile-phones">
+            <text/>
+        </element>
+
+        <element name="broadcast-media">
+            <text/>
+        </element>
+
+        <element name="internet">
+            <text/>
+        </element>
+    </element>
+
+    <element name="military">
+        <text/>
+
+        <element name="forces">
+            <text/>
+        </element>
+
+        <element name="obligation">
+            <text/>
+        </element>
+
+        <element name="expenditures">
+            <text/>
+        </element>
+    </element>
+
+    <element name="transportation">
         <text/>
     </element>
 

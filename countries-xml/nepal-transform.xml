@@ -81,8 +81,12 @@ density is quite low
 est.)
 country comparison to the world:
 46
-</population><age-structure>
-</age-structure><urbanization>
+</population><age-structure><category>0-14 years: 28.36% (male
+4,526,786/female 4,073,642)</category><category>15-24 years: 20.93% (male
+3,276,431/female 3,070,843)</category><category>25-54 years: 38.38% (male
+5,251,553/female 6,387,365)</category><category>55-64 years: 6.64% (male
+954,836/female 1,059,360)</category><category>65 years and over: 5.69% (male
+852,969/female 874,092) (2020 est.)</category></age-structure><urbanization>
 urban population: 20.6% of total population (2020)
 rate of urbanization: 3.15% annual rate of change (2015-20 est.)
 </urbanization><distribution>
