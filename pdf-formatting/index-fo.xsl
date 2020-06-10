@@ -4,6 +4,10 @@
                 xmlns:fo="http://www.w3.org/1999/XSL/Format"
                 xmlns:fox="http://xmlgraphics.apache.org/fop/extensions">
     <xsl:output method="xml" indent="yes"/>
+
+    <xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'"/>
+    <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
+
     <xsl:template match="/">
         <fo:root>
             <fo:layout-master-set>
@@ -39,7 +43,6 @@
                             <xsl:variable name="country" select="country/name"/>
                             <fo:list-item space-after="8pt" space-before="13pt" start-indent="1pt">
                                 <fo:list-item-label
-
                                         end-indent="200pt"
                                         text-align="start">
                                     <fo:block font-weight="bold">
@@ -56,7 +59,7 @@
                                         <fo:page-number-citation ref-id="{$country}"/>
                                     </fo:block>
 
-<!--                                    Content of sections-->
+                                    <!--                                    Content of sections-->
 
                                     <fo:list-block>
                                         <xsl:for-each select="country/*">
@@ -79,7 +82,7 @@
                                                 </fo:list-item>
                                             </xsl:if>
                                         </xsl:for-each>
-                                     </fo:list-block>
+                                    </fo:list-block>
 
                                 </fo:list-item-body>
                             </fo:list-item>
@@ -98,7 +101,7 @@
             </fo:page-sequence>
 
             <xsl:for-each select="countries/*">
-<!--                Generating each country's content-->
+                <!--                Generating each country's content-->
                 <xsl:variable name="pageId" select="country/name"/>
                 <fo:page-sequence master-reference="A4-portrait">
                     <fo:static-content flow-name="xsl-region-after">
@@ -121,108 +124,8 @@
                         <fo:block font-size="24pt" font-weight="bold" id="{$country}">
                             <xsl:value-of select="country/name"/>
                         </fo:block>
-                        <fo:block font-size="18pt" font-weight="bold" id="{$country}-introduction">
-                            Introduction:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/introduction"/>
-                        </fo:block>
 
-                        <fo:block font-size="18pt" font-weight="bold" id="{$country}-geography">
-                            Geography:
-                        </fo:block>
-
-                        <fo:block font-size="14pt" font-weight="bold" id="{$country}-location">
-                            Location:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/location"/>
-                        </fo:block>
-
-                        <fo:block font-size="14pt" font-weight="bold" id="{$country}-coordinates">
-                            Coordinates:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/coordinates"/>
-                        </fo:block>
-
-                        <fo:block font-size="14pt" font-weight="bold" id="{$country}-map">
-                            Map-references:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/map-references"/>
-                        </fo:block>
-
-                        <fo:block font-size="14pt" font-weight="bold" id="{$country}-area">
-                            Area:
-                        </fo:block>
-
-                        <fo:block font-size="12pt" font-weight="bold" id="{$country}-total">
-                            Total:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/area/total"/>
-                        </fo:block>
-
-                        <fo:block font-size="12pt" font-weight="bold" id="{$country}-land">
-                            Land:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/area/land"/>
-                        </fo:block>
-
-                        <fo:block font-size="12pt" font-weight="bold" id="{$country}-water">
-                            Water:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/area/water"/>
-                        </fo:block>
-
-
-                        <fo:block font-size="14pt" font-weight="bold" id="{$country}-climate">
-                            Climate:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/geography/climate"/>
-                        </fo:block>
-
-                        <fo:block font-size="18pt" font-weight="bold" id="{$country}-people">
-                            People:
-                        </fo:block>
-
-                        <fo:block font-size="14pt" font-weight="bold" id="{$country}-population">
-                            Population:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/people/population"/>
-                        </fo:block>
-
-
-                        <xsl:choose>
-                            <xsl:when test="country/people/description =''"></xsl:when>
-                            <xsl:otherwise>
-                                <fo:block font-size="14pt" font-weight="bold" id="{$country}-description">
-                                    Description:
-                                </fo:block>
-                                <fo:block>
-                                    <xsl:value-of select="country/people/description"/>
-                                </fo:block>
-                            </xsl:otherwise>
-                        </xsl:choose>
-
-                        <fo:block font-size="18pt" font-weight="bold" id="{$country}-government">
-                            Government:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/government"/>
-                        </fo:block>
-
-                        <fo:block font-size="18pt" font-weight="bold" id="{$country}-economy">
-                            Economy:
-                        </fo:block>
-                        <fo:block>
-                            <xsl:value-of select="country/economy"/>
-                        </fo:block>
+                        <xsl:apply-templates select="country"/>
 
                     </fo:flow>
                 </fo:page-sequence>
@@ -235,5 +138,70 @@
                 </fo:flow>
             </fo:page-sequence>
         </fo:root>
+    </xsl:template>
+
+
+    <xsl:template match="country/*">
+
+        <xsl:variable name="country" select="../name"/>
+
+        <xsl:if test="name() != 'name'">
+
+            <fo:block font-size="18pt" font-weight="bold" id="{$country}-{name()}" padding-top="1em">
+                <xsl:value-of select="concat(translate(substring(name(),1,1), $lowercase, $uppercase),
+          substring(name(), 2))"/>
+            </fo:block>
+            <fo:block>
+                <xsl:copy-of select="text()"/>
+            </fo:block>
+
+            <xsl:for-each select="*">
+                <xsl:if test="not(*) and text() != ''">
+                    <fo:block font-size="16pt" font-weight="bold" padding-top="0.5em">
+                        <xsl:value-of
+                                select="concat(translate(substring(name(),1,1),
+                                $lowercase, $uppercase),substring(name(), 2))"/>
+                    </fo:block>
+                    <fo:block>
+                        <xsl:value-of select="."/>
+                    </fo:block>
+                </xsl:if>
+
+                <xsl:if test="*">
+                    <fo:list-block>
+                        <xsl:for-each select="*">
+                            <fo:list-item space-after="8pt" space-before="13pt" start-indent="1pt">
+                                <xsl:if test="name() != 'category'">
+                                    <fo:list-item-label >
+                                        <fo:block font-weight="bold">
+                                                <xsl:value-of
+                                                        select="concat(translate(substring(name(),1,1),
+                                                     $lowercase, $uppercase),substring(name(), 2))"/> :
+                                        </fo:block>
+                                    </fo:list-item-label>
+                                    <fo:list-item-body start-indent="80pt">
+                                        <fo:block> <xsl:value-of select="."/> </fo:block>
+                                    </fo:list-item-body>
+                                </xsl:if>
+                                <xsl:if test="name() = 'category'">
+                                    <fo:list-item-label end-indent="80pt">
+                                        <fo:block>
+                                            *
+                                        </fo:block>
+                                    </fo:list-item-label>
+                                    <fo:list-item-body
+                                            start-indent="body-start()">
+                                        <fo:block>
+                                            <xsl:value-of select="."/>
+                                        </fo:block>
+                                    </fo:list-item-body>
+                                </xsl:if>
+                            </fo:list-item>
+                        </xsl:for-each>
+                    </fo:list-block>
+                </xsl:if>
+            </xsl:for-each>
+
+        </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
